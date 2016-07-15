@@ -50,3 +50,19 @@ At any point during play, a cleric may swap out a prepared spell for the Turn Un
 Clerics use any armor, but only the one class of weapon preferred by their god (e.g., blunt weapons like maces and flails, slashing weapons like swords and daggers, or missile weapons like arrows and spears).
 
 At ninth level, clerics establish a religious order of their own, attract devotees, and collect tithes.
+
+## Fighters ##
+
+Fighters use any weapons or armor.
+
+At ninth level, fighters may become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
+But even prior to ninth level, fighters gain a significant measure of their power through their ability to attract and command a tactical team of loyal NPC retainers.
+
+## Attack Bonus ##
+
+All characters start at first level with an attack bonus of +1, which they add to all their d20 attack rolls.
+Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4).
+Other classes gain an additional plus one at levels three, six, nine, twelve, and fifteen.
+A sixth-level cleric, for example, gets an attack bonus of +3.
+
+Monsters use an attack bonus equal to their hit dice.
