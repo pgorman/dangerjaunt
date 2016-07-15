@@ -21,15 +21,32 @@ Level    5e Experience    B/X Average    custom
 2        300              2,200          400
 3        900              3,471          1,200
 4        2,700            8,800          3,600
-5        6,500            17,514         10,800
-6        14,000           35,428         32,400
-7        23,000           69,714         64,800
-8        34,000           137,142        129,600
-9        48,000           261,666        259,200
-10       64,000           398,333        388,800
+5        6,500            17,514         10,000
+6        14,000           35,428         32,000
+7        23,000           69,714         64,000
+8        34,000           137,142        130,000
+9        48,000           261,666        260,000
+10       64,000           398,333        389,000
 11       85,000           482,000        500,000
 12       100,000          606,000        600,000
 13       120,000          715,000        700,000
 14       140,000          837,500        800,000
 15       165,000                         900,000
 16       195,000                         1,000,000
+
+From first through ninth level, characters gain an additional hit die each level, plus any constitution modifier.
+At level ten and above, characters gain only two additional hit points per level.
+
+Characters gain at most one level per session.
+Reduce the experience award of a character who would gain two levels so that their XP totals just shy of the second level.
+
+## Clerics ##
+
+Clerics are militant religious zealots and hunters of the undead.
+
+Each day, they pray for particular spells from their spell list.
+At any point during play, a cleric may swap out a prepared spell for the Turn Undead spell.
+
+Clerics use any armor, but only the one class of weapon preferred by their god (e.g., blunt weapons like maces and flails, slashing weapons like swords and daggers, or missile weapons like arrows and spears).
+
+At ninth level, clerics establish a religious order of their own, attract devotees, and collect tithes.
