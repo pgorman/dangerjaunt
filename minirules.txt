@@ -56,7 +56,6 @@ At ninth level, clerics establish a religious order of their own, attract devote
 Fighters use any weapons or armor.
 
 At ninth level, fighters may become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
-But even prior to ninth level, fighters gain a significant measure of their power through their ability to attract and command a tactical team of loyal NPC retainers.
 
 ## Attack Bonus ##
 
