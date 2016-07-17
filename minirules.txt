@@ -65,3 +65,16 @@ Other classes gain an additional plus one at levels three, six, nine, twelve, an
 A sixth-level cleric, for example, gets an attack bonus of +3.
 
 Monsters use an attack bonus equal to their hit dice.
+
+## Random Dungeon Room Stocking ##
+
+After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area with the following table.
+
+d12      Room Contents
+-----    -------------
+1--3     Empty
+4        Trick/trap (no treasure)
+5--7     Monster (no treasure)
+8--10    Treasure & Monster
+11       Treasure & trick/trap
+12       Treasure (concealed/hidden)
