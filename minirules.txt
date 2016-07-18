@@ -51,6 +51,29 @@ At level ten and above, characters gain only two additional hit points per level
 Characters gain at most one level per session.
 Reduce the experience award of a character who would gain two levels so that their XP totals just shy of the second level.
 
+## Number of Daily Spells per Spell Level ##
+
+Character Level | 1 | 2 | 3 | 4 | 5 | 6*
+----------------|---|---|---|---|---|---
+1               | 1 |   |   |   |   |
+2               | 2 |   |   |   |   |
+3               | 2 | 1 |   |   |   |
+4               | 3 | 2 |   |   |   |
+5               | 3 | 2 | 1 |   |   |
+6               | 4 | 2 | 2 |   |   |
+7               | 4 | 3 | 2 | 1 |   |
+8               | 4 | 3 | 3 | 2 |   |
+9               | 4 | 3 | 3 | 2 | 1 |
+10              | 4 | 4 | 3 | 2 | 2 |
+11              | 4 | 4 | 3 | 3 | 2 | 1
+12              | 4 | 4 | 4 | 3 | 2 | 1
+13              | 5 | 5 | 4 | 4 | 4 | 2
+14              | 5 | 5 | 4 | 4 | 4 | 3
+15              | 5 | 5 | 5 | 4 | 4 | 4
+16              | 5 | 5 | 5 | 5 | 5 | 5
+
+* Clerics do not cast sixth-level spells.
+
 ## Clerics ##
 
 Clerics are militant religious zealots and hunters of the undead.
