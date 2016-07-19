@@ -47,6 +47,8 @@ Level | Experince Points         | 5e Experience | B/X Average
 
 From first through ninth level, characters gain an additional hit die each level, plus any constitution modifier.
 At level ten and above, characters gain only two additional hit points per level.
+All hit dice are d6.
+However, fighters roll two six-sided hit dice, and choose the higher roll.
 
 Characters gain at most one level per session.
 Reduce the experience award of a character who would gain two levels so that their XP totals just shy of the second level.
