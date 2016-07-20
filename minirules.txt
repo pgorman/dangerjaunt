@@ -211,3 +211,41 @@ d12   | Room Contents
 3. Insect Plague
 4. Raise Dead*
 
+## Monsters ##
+
+Basilisk
+Black Pudding
+Cockatrice
+Dragon
+Djinn
+Efreet
+Elemental
+Gargoyle
+Ghoul
+Giant
+Goblin
+Gray Ooze
+Green Slime
+Hippogriff
+Hobgoblin
+Hydra
+Invisible Stalker
+Manticore
+Medusa
+Minitaur
+Mummy
+Ocher Jelly
+Ogre
+Orc
+Pegasus
+Skeleton
+Specter
+Troll
+Vampire
+Werewolf
+Wight
+Wraith
+Yellow Mold
+Zombie
+
+Rocs, Sumatran Rats, and Giant Serpents
