@@ -93,6 +93,13 @@ Fighters use any weapons or armor.
 
 At ninth level, fighters may become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
 
+## Magic-Users ##
+
+Magic-users wear no armor, and lack expertise in any weapon demanding more skill or strength than a simple dagger.
+
+Each day, magic-users wrestle incantations from the pages of spell books into their brains.
+A cast spell escapes the magic-user's mind completely, unable to be cast again without further sleep and study.
+
 ## Attack Bonus ##
 
 All characters start at first level with an attack bonus of +1, which they add to all their d20 attack rolls.
