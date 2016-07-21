@@ -213,8 +213,46 @@ d12   | Room Contents
 
 ## Monsters ##
 
+Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic human beings, carnivorous plants, and even sci-fi elements, like robots or Frankenstein's monster.
+Referees can expand the roster of monsters by enhancing existing ones (fire-breathing goblin, basilisk with bat wings) or creating new monsters from scratch (use the table below as a starting point for the numbers).
+
+four rounds times d6 damage = 3.5 times 4 = 14
+
+HD* | AC     | Save | Dmg/Rnd**  | XP   | Treasure Value (GP)
+----|--------|------|------------|------|--------------------
+<1  | 9 [10] | 16   | d3 (2)     | 5    | 20
+1   | 7 [11] | 15   | d6 (3.5)   | 15   | 60
+2   | 7 [12] | 14   | d6 (3.5)   | 30   | 120
+3   | 6 [13] | 13   | d6+1 (4.5) | 60   | 240
+4   | 6 [13] | 12   | d6+1 or d8 (4.5) | 120  | 480
+5   | 5 [14] | 11   | d6+2 or d10 (5.5) | 240  | 960
+6   | 5 [14] | 10   | 3--8 (5.5) | 400  | 1600
+7   | 4 [15] | 9    | 3--9 (6)   | 600  | 2400
+8   | 4 [15] | 8    | 3--9 (6)   | 800  | 3200
+9   | 3 [16] | 7    | 7.5)       | 1100 | 4400
+10  | 3 [16] | 6    | 8.5)       | 1400 | 5600
+11  | 2 [17] | 5    | 8.5)       | 1700 | 6800
+12  | 2 [17] | 4    | 9.5)       | 2000 | 8000
+13  | 1 [18] | 4    | 9.5)       | 2300 | 9200
+14  | 1 [18] | 4    | 10.5       | 2600 | 10400
+15  | 0 [19] | 4    | 10.5       | 2900 | 11600
+16  | 0 [19] | 4    |            | 3100 | 12400
+
+* The treasure and XP award may match the values of a higher hit die monster, if the monster has more than one or two special abilities.
+
+** Average per round damage over the first three or four rounds. A 6 HD monster might do d6+2 damage every round, or we might instead have it do d6 most rounds with a once-time d6+6 special attack.
+
 Basilisk
+AC: 4 [15] HD: 6 (HDE 8) Move: 6 XP: 800
+The gaze of these eight-legged reptiles turns living things to stone.
+
 Black Pudding
+AC: 6 [13] HD: 10 (HDE 11) Move: 6 XP: 1700
+This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
+Its excretions dissolve wood and metal.
+It's immune to cold, and split/multiplied by lightening.
+
+Bugbear
 Cockatrice
 Dragon
 Djinn
@@ -224,19 +262,45 @@ Gargoyle
 Ghoul
 Giant
 Goblin
+
 Gray Ooze
+AC: 8 [11] HD: 3 (HDE 5) Move: 1 XP: 240
+It's immune to spells, blunt weapons, and any heat/cold damage.
+Any metal object it contacts is dissolved (save vs. acid).
+
+Gelatinous Cube
+AC: 8 [11] HD: 4 (HDE 5) Move: 6 XP: 240
+Hit opponents are anesthetized (save vs. paralysis), then enveloped in 6 rounds.
+Lightning and cold don't harm gelatinous cubes.
+
 Green Slime
+Any metal or organic object touching it turns to green slime (save allowed), though Cure Disease halts the transformation.
+Fire or cold kills green slime.
+
 Hippogriff
 Hobgoblin
 Hydra
 Invisible Stalker
+Kobold
 Manticore
 Medusa
-Minitaur
+Minotaur
 Mummy
+
 Ocher Jelly
+AC: 8 [11] HD: 5 (HDE 6) Move: 3 XP: 400
+Their acid dissolves killed opponents (making Raise Dead nearly impossible).
+
 Ogre
+AC: 5 [14] HD: 4+1 (HDE 4) Move: 9 XP: 120
+They enslave captives (1--2 on d8) or simply eat them (3--8).
+Orgres themselves are sometimes enslaved by demons.
+
 Orc
+AC: 6 [13] HD: 1 (HDE 1) Move: 12 XP: 15
+They fight at -1 to hit in sunlight.
+Leaders have more hit dice, and some tribes have a magic-using shaman.
+
 Pegasus
 Skeleton
 Specter
@@ -245,7 +309,14 @@ Vampire
 Werewolf
 Wight
 Wraith
+
 Yellow Mold
+AC: N/A HD: N/A (HDE 3) Move: 0 XP: 60
+If cut or punctured, it releases a 10' diameter cloud of poisonous spores (save or die).
+Touching yellow mold caused d6 acid damage.
+Fire destroys it.
+
 Zombie
 
 Rocs, Sumatran Rats, and Giant Serpents
+And dungeon vermin? Giant rat, giant spider, giant flea, giant snail
