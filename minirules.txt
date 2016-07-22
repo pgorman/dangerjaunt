@@ -213,7 +213,7 @@ d12   | Room Contents
 
 ## Monsters ##
 
-Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic human beings, carnivorous plants, and even sci-fi elements, like robots or Frankenstein's monster.
+Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic human beings, carnivorous plants, dinosaurs, and even sci-fi elements, like robots or Frankenstein's monster.
 Referees can expand the roster of monsters by enhancing existing ones (fire-breathing goblin, basilisk with bat wings) or creating new monsters from scratch (use the table below as a starting point for the numbers).
 
 four rounds times d6 damage = 3.5 times 4 = 14
@@ -242,6 +242,12 @@ HD* | AC     | Save | Dmg/Rnd**  | XP   | Treasure Value (GP)
 
 ** Average per round damage over the first three or four rounds. A 6 HD monster might do d6+2 damage every round, or we might instead have it do d6 most rounds with a once-time d6+6 special attack.
 
+Baalroch Demon
+AC: 2 [17] HD: 9 (HDE 10) Move: 6 (15 flying) XP: 1400
+Wreathed in flame, these bull-like, bat-winged demons resist magic 75\%, and casters below 6th level affect them not at all.
+They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
+Their m\^{e}l\'{e}e attack deals 2d6 damage.
+
 Basilisk
 AC: 4 [15] HD: 6 (HDE 8) Move: 6 XP: 800
 The gaze of these eight-legged reptiles turns living things to stone.
@@ -258,6 +264,24 @@ Dragon
 Djinn
 Efreet
 Elemental
+
+Eye of Terror
+AC: 0 (body) 2 (central eye) 3 (eye stalks) [19, 17, 16] HD: 10 (HDE 14) Move: 6 levitating XP: 2600
+Its tentacles are poison (save or die).
+Each round, it attacks with its central eye and three eye stalks:
+
+Eye     | Power
+--------|------
+Central | Flesh to stone ray
+1       | Alter time (slow)
+2       | Polymorph
+3       | Hold monster
+4       | Sleep
+5       | Hold person
+6       | Stun ray
+7       | Telekinesis
+8       | Feeblemind
+
 Gargoyle
 Ghoul
 Giant
@@ -282,8 +306,20 @@ Hobgoblin
 Hydra
 Invisible Stalker
 Kobold
+
+Liche
+AC: 0 [19] HD: 12--18 (HDE 15--21) Move: 6 XP: 2900, 3200, 3500, 3800, 4100, 4400, 4700
+They're undead wizards, with magic-user levels equal to their hit dice.
+Their touch paralyzes (no save);
+even seeing a liche paralyzes creatures with 4 or fewer HD.
+
 Manticore
 Medusa
+
+Mimic
+AC 7 [12] HD: 7--10 (HDE 8--11) Move: 3 XP: 800, 1100, 1400, 1700
+Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
+
 Minotaur
 Mummy
 
@@ -300,6 +336,9 @@ Orc
 AC: 6 [13] HD: 1 (HDE 1) Move: 12 XP: 15
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and some tribes have a magic-using shaman.
+
+Owlbear
+AC 5 [14] HD: 5 (HDE 5) Move: 12 XP: 240
 
 Pegasus
 Skeleton
@@ -320,3 +359,5 @@ Zombie
 
 Rocs, Sumatran Rats, and Giant Serpents
 And dungeon vermin? Giant rat, giant spider, giant flea, giant snail
+
+Include a few iconic D&D monsters? Eye tyrant, mimic?
