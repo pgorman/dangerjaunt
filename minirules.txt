@@ -259,10 +259,27 @@ Its excretions dissolve wood and metal.
 It's immune to cold, and split/multiplied by lightening.
 
 Bugbear
+AC: 5 [14] HD: 3+1 (HDE 3) Move: 9 XP: 120
+Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
+
 Cockatrice
+AC: 6 [13] HD: 5 (HDE 7) Move: 6 (18 flying) XP: 600
+Those bitten by a cockatrice turn to stone, unless they make a saving throw.
+
 Dragon
+
 Djinn
-Efreet
+AC: 5 [14] HD: 7+1 (HDE 9) Move: 9 (24 flying) XP: 1100
+Djinni create food and water, and cloth or wooden objects.
+They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
+Some grant wishes.
+Their m\^{e}l\'{e}e attack deals 2d6 damage.
+
+Doppelganger
+AC: 5 [14] HD: 4 (HDE 5) Move: 9 XP: 240
+Doppelgangers transform to look like anyone.
+They're immune to Sleep and Charm, and save +5 versus all magic.
+
 Elemental
 
 Eye of Terror
@@ -359,5 +376,3 @@ Zombie
 
 Rocs, Sumatran Rats, and Giant Serpents
 And dungeon vermin? Giant rat, giant spider, giant flea, giant snail
-
-Include a few iconic D&D monsters? Eye tyrant, mimic?
