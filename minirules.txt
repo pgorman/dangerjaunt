@@ -1,5 +1,11 @@
-D&D Mini-Rules
-==============
+This is a minimal framework of rules for experienced players of fantasy roleplaying games.
+It assumes you know that "3d6" means to sum three rolls of a six-sided die.
+It assumes you know that one player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
+It assumes you know that the remaining players each take the role of an inexperienced but ambitious Player Character.
+
+Furthermore, these rules assume players want enough creative room for each campaign to grow through play into something unique from the last campaign.
+
+# Characters #
 
 For each ability, roll 3d6 and record the total:
 
@@ -237,6 +243,8 @@ d12   | Room Contents
 2. Dispel Evil*
 3. Insect Plague
 4. Raise Dead*
+
+# Referee #
 
 ## Monsters ##
 
