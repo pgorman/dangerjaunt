@@ -211,28 +211,28 @@ d12   | Room Contents
 
 ## Cleric Spells Level 1 ##
 
-1. Cure Light Wounds*
-2. Detect Evil*
-3. Protection from Evil*
-4. Purify Food & Water*
+1. Cure Light Wounds\*
+2. Detect Evil\*
+3. Protection from Evil\*
+4. Purify Food & Water\*
 
 ## Cleric Spells Level 2 ##
 
-1. Bless*
+1. Bless\*
 2. Hold Person
 3. Silence 15' Radius
 4. Speak with Animals
 
 ## Cleric Spells Level 3 ##
 
-1. Cure Disease*
+1. Cure Disease\*
 2. Growth of Animals
 3. Remove Curse
 4. Speak with Dead
 
 ## Cleric Spells Level 4 ##
 
-1. Cure Serious Wounds*
+1. Cure Serious Wounds\*
 2. Neutralize Poison
 3. Protection from Evil 10' radius
 4. Speak with Plants
@@ -240,9 +240,9 @@ d12   | Room Contents
 ## Cleric Spells Level 5 ##
 
 1. Commune
-2. Dispel Evil*
+2. Dispel Evil\*
 3. Insect Plague
-4. Raise Dead*
+4. Raise Dead\*
 
 # Play #
 
@@ -259,7 +259,7 @@ Referees can expand the roster of monsters by enhancing existing ones (fire-brea
 
 four rounds times d6 damage = 3.5 times 4 = 14
 
-HD* | AC     | Save | Dmg/Rnd**  | XP   | Treasure Value (GP)
+HD\* | AC    | Save | Dmg/Rnd\*\*  | XP   | Treasure Value (GP)
 ----|--------|------|------------|------|--------------------
 <1  | 9 [10] | 16   | d3 (2)     | 5    | 20
 1   | 7 [11] | 15   | d6 (3.5)   | 15   | 60
@@ -279,57 +279,81 @@ HD* | AC     | Save | Dmg/Rnd**  | XP   | Treasure Value (GP)
 15  | 0 [19] | 4    | 10.5       | 2,900 | 11,600
 16  | 0 [19] | 4    |            | 3,100 | 12,400
 
-* The treasure and XP award may match the values of a higher hit die monster, if the monster has more than one or two special abilities.
+\* The treasure and XP award may match the values of a higher hit die monster, if the monster has more than one or two special abilities.
 
-** Average per round damage over the first three or four rounds. A 6 HD monster might do d6+2 damage every round, or we might instead have it do d6 most rounds with a once-time d6+6 special attack.
+\*\* Average per round damage over the first three or four rounds. A 6 HD monster might do d6+2 damage every round, or we might instead have it do d6 most rounds with a once-time d6+6 special attack.
 
-Baalroch Demon
+### Baalroch Demon ###
+
 AC: 2 [17] HD: 9 (HDE 10) Move: 6 (15 flying) XP: 1400
+
 Wreathed in flame, these bull-like, bat-winged demons resist magic 75\%, and casters below 6th level affect them not at all.
 They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 Their m\^{e}l\'{e}e attack deals 2d6 damage.
 
-Basilisk
+### Basilisk###
+
 AC: 4 [15] HD: 6 (HDE 8) Move: 6 XP: 800
+
 The gaze of these eight-legged reptiles turns living things to stone.
 
-Black Pudding
+### Black Pudding ###
+
 AC: 6 [13] HD: 10 (HDE 11) Move: 6 XP: 1700
+
 This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
 Its excretions dissolve wood and metal.
 It's immune to cold, and split/multiplied by lightening.
 
-Bugbear
+### Bugbear ###
+
 AC: 5 [14] HD: 3+1 (HDE 3) Move: 9 XP: 120
+
 Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
 
-Cockatrice
+### Cockatrice ###
+
 AC: 6 [13] HD: 5 (HDE 7) Move: 6 (18 flying) XP: 600
+
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
-Dragon
+### Dragon ###
 
-Djinn
+Dragons use their breath weapons three times per day (save for half damage). The breath weapon damage and their hit points per HD depend on their age. A 6 HD adult black dragon has 24 HP and breaths acid for 24 HP damage.
+
+d8 | Dragon Age | HP per HD | Dmg per HD
+---|------------|-----------|-----------
+1  | Very young | 1         | 1
+2  | Young      | 2         | 2
+3  | Immature   | 3         | 3
+
+### Djinn ###
+
 AC: 5 [14] HD: 7+1 (HDE 9) Move: 9 (24 flying) XP: 1100
+
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
 Some grant wishes.
 Their m\^{e}l\'{e}e attack deals 2d6 damage.
 
-Doppelganger
+### Doppelganger ###
+
 AC: 5 [14] HD: 4 (HDE 5) Move: 9 XP: 240
+
 Doppelgangers transform to look like anyone.
 They're immune to Sleep and Charm, and save +5 versus all magic.
 
-Elemental
+### Elemental ###
 
-Eye of Terror
+### Eye of Terror ###
+
 AC: 0 (body) 2 (central eye) 3 (eye stalks) [19, 17, 16] HD: 10 (HDE 14) Move: 6 levitating XP: 2600
+
 Its tentacles are poison (save or die).
 Each round, it attacks with its central eye and three eye stalks:
 
 Eye     | Power
---------|------
+:------:|------
 Central | Flesh to stone ray
 1       | Alter time (slow)
 2       | Polymorph
@@ -340,80 +364,115 @@ Central | Flesh to stone ray
 7       | Telekinesis
 8       | Feeblemind
 
-Gargoyle
-Ghoul
-Giant
-Goblin
+### Gargoyle ###
 
-Gray Ooze
+### Ghoul ###
+
+### Giant ###
+
+### Goblin ###
+
+
+### Gray Ooze ###
+
 AC: 8 [11] HD: 3 (HDE 5) Move: 1 XP: 240
+
 It's immune to spells, blunt weapons, and any heat/cold damage.
 Any metal object it contacts is dissolved (save vs. acid).
 
-Gelatinous Cube
+### Gelatinous Cube ###
+
 AC: 8 [11] HD: 4 (HDE 5) Move: 6 XP: 240
+
 Hit opponents are anesthetized (save vs. paralysis), then enveloped in 6 rounds.
 Lightning and cold don't harm gelatinous cubes.
 
-Green Slime
+### Green Slime ###
+
 Any metal or organic object touching it turns to green slime (save allowed), though Cure Disease halts the transformation.
 Fire or cold kills green slime.
 
-Hippogriff
-Hobgoblin
-Hydra
-Invisible Stalker
-Kobold
+### Hippogriff ###
 
-Liche
+### Hobgoblin ###
+
+### Hydra ###
+
+### Invisible Stalker ###
+
+### Kobold ###
+
+
+### Liche ###
+
 AC: 0 [19] HD: 12--18 (HDE 15--21) Move: 6 XP: 2900, 3200, 3500, 3800, 4100, 4400, 4700
 They're undead wizards, with magic-user levels equal to their hit dice.
 Their touch paralyzes (no save);
 even seeing a liche paralyzes creatures with 4 or fewer HD.
 
-Manticore
-Medusa
+### Manticore ###
 
-Mimic
+### Medusa ###
+
+
+### Mimic ###
+
 AC 7 [12] HD: 7--10 (HDE 8--11) Move: 3 XP: 800, 1100, 1400, 1700
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
-Minotaur
-Mummy
+### Minotaur ###
 
-Ocher Jelly
+### Mummy ###
+
+
+### Ocher Jelly ###
+
 AC: 8 [11] HD: 5 (HDE 6) Move: 3 XP: 400
 Their acid dissolves killed opponents (making Raise Dead nearly impossible).
 
-Ogre
+### Ogre ###
+
 AC: 5 [14] HD: 4+1 (HDE 4) Move: 9 XP: 120
 They enslave captives (1--2 on d8) or simply eat them (3--8).
 Orgres themselves are sometimes enslaved by demons.
 
-Orc
+### Orc ###
+
 AC: 6 [13] HD: 1 (HDE 1) Move: 12 XP: 15
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and some tribes have a magic-using shaman.
 
-Owlbear
+### Owlbear ###
+
 AC 5 [14] HD: 5 (HDE 5) Move: 12 XP: 240
 
-Pegasus
-Skeleton
-Specter
-Troll
-Vampire
-Werewolf
-Wight
-Wraith
+### Pegasus ###
 
-Yellow Mold
+### Skeleton ###
+
+### Specter ###
+
+### Troll ###
+
+### Vampire ###
+
+### Werewolf ###
+
+### Wight ###
+
+### Wraith ###
+
+### Yellow Mold ###
+
 AC: N/A HD: N/A (HDE 3) Move: 0 XP: 60
+
 If cut or punctured, it releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
 Fire destroys it.
 
-Zombie
+### Zombie ###
 
-Rocs, Sumatran Rats, and Giant Serpents
+
+### Sumatran Rats, Rocs, and Giant Serpents ##
+
 And dungeon vermin? Giant rat, giant spider, giant flea, giant snail
