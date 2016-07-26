@@ -30,6 +30,11 @@ Score  | Modifier
 16--17 |  +2
 18     |  +3
 
+## Alignment ##
+
+Choose an Alignments: Law, Chaos, or Neutrality.
+Law promotes the order of human civilization, while Chaos favors a world beyond human reason.
+
 ## Character Advancement ##
 
 Level | Experince Points 
@@ -187,92 +192,199 @@ d12   | Room Contents
 
 ## Magic-User Spells Level 1 ##
 
-1. Charm Person
-2. Detect Magic
-3. Hold Portal
-4. Light
-5. Read Magic
-6. Sleep
+#### 1. Charm Person ####
+
+Charm Person affects living bipeds of about human size or smaller, such as pixies, orcs, or hobgoblins.
+If the spell succeeds (saving throw allowed), the unfortunate creature falls under the caster's influence.
+Range: 12''; duration: until dispelled.
+
+#### 2. Detect Magic ####
+
+The caster perceives in places, people, or things the presence of a magical spell or enchantment.
+Magical items or secretly placed charms may be discovered with this spell.
+Range: 6''; duration: 20 minutes.
+
+#### 3. Hold Portal ####
+
+Hold Portal magically holds a door or gate in position for the spell's duration (or until dispelled).
+Creatures with magic resistance can shatter the spell without much effort.
+Range: referee's discretion; duration: 2d6 turns.
+
+#### 4. Light ####
+
+Light produces a light as bright as a torch with a radius of 20 feet around a person or object.
+Range 12''; duration: 2 hours.
+
+#### 5. Read Magic ####
+
+Read Magic allows the caster to read magical writings on items and scrolls.
+Magical writing cannot be read without this spell.
+Range: caster; duration: instant.
+
+#### 6. Sleep ####
+
+Sleep puts enemies into an enchanted slumber.
+No saving throw is permitted.
+It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice each.
 
 ## Magic-User Spells Level 2 ##
 
-1. Detect Invisibility
-2. ESP
-3. Invisibility
-4. Knock
-5. Locate Object
-6. Phantasmal Force
+#### 1. Detect Invisibility ####
+
+Caster perceives invisible creatures and objects.
+Range: 1''/caster level; duration: 1 hour.
+
+#### 2. ESP ####
+
+The caster detects the thoughts of other beings.
+The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
+Range: 6''; duration: 2 hours.
+
+#### 3. Invisibility ####
+
+The object of this spell, whether a person or a thing, becomes invisible to both normal vision and darkvision.
+If the Referee uses the invisibility rules unchanged, an invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to-hit.
+Range: 24''; duration: until dispelled or attack.
+
+#### 4. Knock ####
+
+Knock unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
+Range: 6''; duration: instant.
+
+#### 5. Locate Object ####
+
+This spell directs the caster (as the crow flies) toward an object the caster describes.
+The caster must have seen the object or an object of its general type: stairs, gold, etc.
+Range: 9''; duration: 1 minute per level.
+
+#### 6. Phantasmal Force ####
+
+This spell creates a realistic illusion.
+A viewer who believes the illusion (save vs. spell) can take damage from it.
+The illusion disappears when hit (AC 10).
+Range: 24''; duration: until dispelled.
 
 ## Magic-User Spells Level 3 ##
 
-1. Clairvoyance
-2. Dispel Magic
-3. Fire Ball
-4. Fly
-5. Lightning Bolt
-6. Water Breathing
+#### 1. Clairvoyance/Clairaudence ####
+
+Lets the caster see or hear (choose at time of casting) through solid objects.
+The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
+Range: 6''; duration: 2 hours.
+
+#### 2. Dispel Magic ####
+
+Dispel magic completely dispels most enchantments and spells.
+Range 12''; duration: 10 minutes.
+
+#### 3. Fire Ball ####
+
+#### 4. Fly ####
+
+#### 5. Lightning Bolt ####
+
+#### 6. Water Breathing ####
+
 
 ## Magic-User Spells Level 4 ##
 
-1. Charm Monster
-2. Confusion
-3. Dimension Door
-4. Polymorph Others
-5. Polymorph Self
-6. Wizard Eye
+#### 1. Charm Monster ####
+
+#### 2. Confusion ####
+
+#### 3. Dimension Door ####
+
+#### 4. Polymorph Others ####
+
+#### 5. Polymorph Self ####
+
+#### 6. Wizard Eye ####
+
 
 ## Magic-User Spells Level 5 ##
 
-1. Animate Dead
-2. Conjure Elemental
-3. Contact Higher Plane
-4. Feeblemind
-5. Magic Jar
-6. Teleport
+#### 1. Animate Dead ####
+
+#### 2. Conjure Elemental ####
+
+#### 3. Contact Higher Plane ####
+
+#### 4. Feeblemind ####
+
+#### 5. Magic Jar ####
+
+#### 6. Teleport ####
+
 
 ## Magic-User Spells Level 6 ##
 
-1. Control Weather
-2. Disintegrate
-3. Geas
-4. Invisible Stalker
-5. Reincarnation
-6. Stone/Flesh
+#### 1. Control Weather ####
+
+#### 2. Disintegrate ####
+
+#### 3. Geas ####
+
+#### 4. Invisible Stalker ####
+
+#### 5. Reincarnation ####
+
+#### 6. Stone/Flesh ####
+
 
 ## Cleric Spells Level 1 ##
 
-1. Cure Light Wounds\*
-2. Detect Evil\*
-3. Protection from Evil\*
-4. Purify Food & Water\*
+#### 1. Cure Light Wounds\* ####
+
+#### 2. Detect Evil\* ####
+
+#### 3. Protection from Evil\* ####
+
+#### 4. Purify Food & Water\* ####
+
 
 ## Cleric Spells Level 2 ##
 
-1. Bless\*
-2. Hold Person
-3. Silence 15' Radius
-4. Speak with Animals
+#### 1. Bless\* ####
+
+#### 2. Hold Person ####
+
+#### 3. Silence 15' Radius ####
+
+#### 4. Speak with Animals ####
+
 
 ## Cleric Spells Level 3 ##
 
-1. Cure Disease\*
-2. Growth of Animals
-3. Remove Curse
-4. Speak with Dead
+#### 1. Cure Disease\* ####
+
+#### 2. Growth of Animals ####
+
+#### 3. Remove Curse ####
+
+#### 4. Speak with Dead ####
+
 
 ## Cleric Spells Level 4 ##
 
-1. Cure Serious Wounds\*
-2. Neutralize Poison
-3. Protection from Evil 10' radius
-4. Speak with Plants
+#### 1. Cure Serious Wounds\* ####
+
+#### 2. Neutralize Poison ####
+
+#### 3. Protection from Evil 10' radius ####
+
+#### 4. Speak with Plants ####
+
 
 ## Cleric Spells Level 5 ##
 
-1. Commune
-2. Dispel Evil\*
-3. Insect Plague
-4. Raise Dead\*
+#### 1. Commune ####
+
+#### 2. Dispel Evil\* ####
+
+#### 3. Insect Plague ####
+
+#### 4. Raise Dead\* ####
+
 
 # Play #
 
