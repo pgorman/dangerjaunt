@@ -37,8 +37,8 @@ Law promotes the order of human civilization, while Chaos favors a world beyond 
 
 ## Character Advancement ##
 
-Level | Experince Points 
-:----:|------------------
+Level | Experience Points
+:----:|-------------------
 1     | 0
 2     | 400
 3     | 1,200
@@ -279,50 +279,168 @@ Range 12''; duration: 10 minutes.
 
 #### 3. Fire Ball ####
 
+A missile shoots from the caster's finger to erupt in a furnace-like blast around the target location.
+It bursts with a 20 foot radius, shaped to the available volume.
+Damage is 1d6 per level of the caster.
+A successful saving throw halves damage taken by the target.
+Range: 24'', duration: instant.
+
 #### 4. Fly ####
+
+Fly grants the power of flight, with a movement rate of 120 feet per round.
+The Referee rolls for the duration of the spell without disclosing the result to the Player.
+Range: touch, duration: d6 turn + 1 turn/level.
 
 #### 5. Lightning Bolt ####
 
+A ten foot wide bolt of lightning extends 60 feet from the fingertip of the caster.
+Anyone in its path suffers 1d6 points of damage per level of the caster, though a successful saving throw halves damage.
+The bolt always extends 60 feet, even if it must ricochet backward from something that blocks its path.
+Range: 6'', duration: instant.
+
 #### 6. Water Breathing ####
 
+Water Breathing grants the ability to breathe underwater.
+Range: 3'', duration: 2 hours.
 
 ## Magic-User Spells Level 4 ##
 
 #### 1. Charm Monster ####
 
+Charm Monster operates in the same manner as Charm Person, but affects any form of animal or creature.
+For monsters 3 HD or fewer, it affects up to 3d6 individuals.
+Range: 6'', duration: until dispelled.
+
 #### 2. Confusion ####
+
+This spell confuses people and monsters, making them act randomly.
+Roll 2d6 every turn to determine the creature's behavior.
+Range: 12'', duration: 2 hours.
+
+2d6   | Confused Behavior
+:----:|-----------------------------
+2--5  | Attack caster and his allies
+6--8  | Stand baffled and inactive
+9--12 | Attack each other
 
 #### 3. Dimension Door ####
 
-#### 4. Polymorph Others ####
+The caster can teleport with perfect accuracy himself, an object, or another person to a location within the spell's range.
+Range: 1'' casting, 36'' teleport; duration: instant.
 
-#### 5. Polymorph Self ####
+#### 4. Polymorph Self or Polymorph Other ####
+
+The caster must announce which form he chooses to cast.
+
+Polymorph Other turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, and of course, a frog or newt).
+The polymorphed creature gains all the abilities of the new form, but retains its own mind and hit points.
+This transformation lasts until dispelled.
+
+Polymorph Self allows the caster to assume the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
+This lasts for one hour plus one additional hour for each caster level.
+
+#### 7. Wall of Fire or Wall of Ice ####
+
+The caster must announce which form he chooses to cast.
+
+Wall of Fire ignites a wall that burn for as long as the caster concentrates on it.
+Creatures with 3 or fewer hit dice cannot pass through the wall, and no creature can see through it.
+Passing through the fire inflicts d6 points of damage (no saving throw), and the undead sustain twice that damage.
+The caster can either create a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
+
+Wall of Ice conjures a 6 foot thick wall of ice.
+The caster chooses either a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
+Creatures with 3 or fewer hit dice cannot affect the wall, but creatures of 4+ hit dice smash through it by taking d6 damage.
+Creatures with fire-based metabolisms take 2d6 damage instead.
+Fire spells and magical effects are negated in the vicinity of the wall.
 
 #### 6. Wizard Eye ####
 
+The caster conjures up an invisible, magical ``eye,'' that can move up to 240 feet from its creator.
+It floats along as directed by the caster, at a rate of 120 feet per turn.
+Range: 24'', duration: 1 hour.
 
 ## Magic-User Spells Level 5 ##
 
 #### 1. Animate Dead ####
 
+This spell animates skeletons or zombies from dead bodies.
+1d6 undead are animated (per level of the caster above 8th).
+The corpses remain animated until destroyed or dispelled.
+Range: referee's discretion; duration: permanent.
+
 #### 2. Conjure Elemental ####
+
+The caster summons a 16 HD elemental, and binds it to his commands.
+Each type of elemental may only be summoned once per day.
+The elemental obeys the caster only for as long as the caster concentrates on it; when the caster ceases to concentrate, even for a moment, the elemental is released and will attack.
+Range: 24'', duration: until dispelled.
 
 #### 3. Contact Higher Plane ####
 
+The caster mentally contacts planes, forces, powers, and geometries of the beyond in order to ask affirmative or negative questions. The spell's effect depends on how deeply the caster wishes to delve.
+
+Plane | Insanity | Right  | Wrong
+:----:|:--------:|:------:|:------:
+1     | 1--2     | 3--11  | 12--20
+2     | 1--4     | 4--13  | 14--20
+3     | 1--6     | 7--16  | 17--20
+4     | 1--8     | 9--17  | 18--20
+5     | 1--10    | 11--18 | 19--20
+6     | 1--12    | 13--19 | 20
+
 #### 4. Feeblemind ####
+
+This arcane lobotomy renders a target Magic-User's mind inadaquate to contain spells.
+Save with a -4 penalty.
+Range: 24'', duration: permanent until dispelled.
 
 #### 5. Magic Jar ####
 
+Magic Jar rehouses the caster's life essence, intelligence, and soul into an object within 30 feet.
+
+Once within the magic ``jar,'' the caster can possess the bodies of other creatures and people within 120 feet of the jar who fail a saving throw.
+The caster can return his soul to the magic jar at any time.
+
+If a body he controls is slain, his life essence snaps back to the jar.
+If the caster's body is destroyed while his soul is in the magic jar, the soul no longer has a home other than within the magic jar (although the disembodied wizard can still possess other bodies as before).
+If the jar itself is destroyed while the Magic-User's soul is within, the soul is lost.
+
+The spell ends when the Magic-User returns from the jar to his own body.
+
 #### 6. Teleport ####
 
+This spell transports the caster or another person to a destination the caster knows.
+Success depends on how well the caster knows the targeted location.
+
+Knowledge of the location may be second hand (from a painting or a map), though with only a 25% chance of success.
+Failure results in death.
+
+If the caster has seen but not studied the destination, the chance of failure is 20%.
+Half of failures place the traveler 1d10 x 10 feet below the intended location, possibly resulting in death from arrival within a solid substance.
+The other half of failures place the traveler 1d10 x 10 feet above the targeted location, possibly resulting in a deadly fall.
+
+If the caster is familiar with the location or has studied it carefully, there is a 5% chance of failure, with 1 in 6 failures arriving below and 5 in 6 arriving above the target location.
+In either case, the arrival is 1d4 x 10 feet low or high.
 
 ## Magic-User Spells Level 6 ##
 
 #### 1. Control Weather ####
 
+The caster can summon or stop rainfall, tornadoes, create unusually high or low temperatures, clear the sky or summon clouds into being.
+
 #### 2. Disintegrate ####
 
+The caster atomizes one specific target --- a door, a peasant, a statue --- to dust.
+Magical materials are not disintegrated, and living creatures (such as the aforementioned peasant) get a saving throw.
+The Disintegrate spell cannot be dispelled.
+Range: 6'', duration: permanent.
+
 #### 3. Geas ####
+
+If the victim fails his saving throw, the caster sets a task for him.
+A victim who ignores the task altogether will die.
+Range: 3'', duration: until complete.
 
 #### 4. Invisible Stalker ####
 
@@ -430,7 +548,7 @@ A 6 HD monster might do d6+2 damage every round, or we might instead have it do 
 
 AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15 flying) XP: 1400
 
-Wreathed in flame, these bull-like, bat-winged demons resist magic 75\%, and casters below 6th level affect them not at all.
+Wreathed in flame, these bull-like, bat-winged demons resist magic 75%, and casters below 6th level affect them not at all.
 They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 Their m\^{e}l\'{e}e attack deals 2d6 damage.
 
