@@ -274,7 +274,7 @@ Range: 6''; duration: 2 hours.
 
 #### 2. Dispel Magic ####
 
-Dispel magic completely dispels most enchantments and spells.
+Dispel Magic completely dispels most enchantments and spells.
 Range 12''; duration: 10 minutes.
 
 #### 3. Fire Ball ####
@@ -444,65 +444,148 @@ Range: 3'', duration: until complete.
 
 #### 4. Invisible Stalker ####
 
+This spell summons an Invisible Stalker with 8 HD.
+The stalker performs one task as commanded by the caster, regardless of how long the task takes or how far the stalker must travel.
+The stalker cannot be banished by Dispel Magic; it must be killed in order to end its mission.
+
 #### 5. Reincarnation ####
+
+Reincarnation summons a dead character's soul.
+The soul inhabits a new body of the same alignment as the deceased.
+The Referee chooses the type of body.
+Range: touch, duration: instant.
 
 #### 6. Stone/Flesh ####
 
+This spell transforms flesh into stone or stone into flesh, as desired by the caster.
+A successful saving throw permits the victim to avoid being turned into a stone statue.
+Range: 12'', duration: permanent.
 
 ## Cleric Spells Level 1 ##
 
+An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. Cause Light Wounds).
+
 #### 1. Cure Light Wounds\* ####
+
+This spell cures 1d6+1 hit points of damage.
+Range: touch, duration: instant.
 
 #### 2. Detect Evil\* ####
 
+The caster detects evil creatures, or those with evil enchantments, intentions, thoughts, or auras within the spell's range.
+Things like poison are not inherently evil, and cannot be detected by this spell.
+Range: 12'', duration: 1 hour.
+
 #### 3. Protection from Evil\* ####
+
+Protection from Evil creates a ward around the caster that blocks attacks from magical monsters, like invisible stalkers, elementals, and demons.
+Other attackers suffer a -1 penalty to hit, and the caster gains +1 on saving throws.
 
 #### 4. Purify Food & Water\* ####
 
+Purify Food and Drink removes spoilage and poisons from enough food and water for up to a dozen people.
+Range: touch, duration: instant.
 
 ## Cleric Spells Level 2 ##
 
 #### 1. Bless\* ####
 
+The recipient gets a +1 bonus to all attack rolls and, if the target is not a Player Character, improved overall morale.
+Range: touch, duration: 1 hour.
+
 #### 2. Hold Person ####
+
+The caster targets either 1d4 persons (with the same parameters as Charm Person; saving throw applies) or a single creature who must make their save at a -2 penalty.
+Range: 18'', duration: 90 minutes.
 
 #### 3. Silence 15' Radius ####
 
+The caster may target a fixed location or a moving/living thing.
+Nothing within fifteen feet of the target makes a sound.
+Range: 18'', duration: 2 hours.
+
 #### 4. Speak with Animals ####
 
+The caster can speak with animals within range.
+The animals might assist him, and they will not attack him or his party (unless he says something particularly offensive).
+Range: 3'', duration: 1 hour.
 
 ## Cleric Spells Level 3 ##
 
 #### 1. Cure Disease\* ####
 
+Cure Disease cures the recipient of all diseases --- including those magically inflicted.
+Range: touch, duration: instant.
+
 #### 2. Growth of Animals ####
+
+Growth of Animals causes 1d6 normal creatures to immediately grow to giant size.
+The affected creatures attack as per a giant version of the normal animal.
+Range: 12'', duration: 2 hours.
 
 #### 3. Remove Curse ####
 
+This spell removes one curse from a person or object.
+Range: touch, duration: instant.
+
 #### 4. Speak with Dead ####
 
+The cleric sends three questions to a recently deceased spirit.
+Clerics of less than seventh level can only contact those who died within the last three days.
+Clerics of less than eleventh level can only contact those who died within the last three months.
+Answers from spirits often come as riddles or in an otherwise cryptic form.
 
 ## Cleric Spells Level 4 ##
 
 #### 1. Cure Serious Wounds\* ####
 
+Cure Serious Wounds cures 3d6+3 HP.
+Range: touch, duration: instant.
+
 #### 2. Neutralize Poison ####
+
+This spell counteracts poison, but does not bring the dead back to life.
+Range: touch, duration: instant.
 
 #### 3. Protection from Evil 10' radius ####
 
+This spell works like Protection from Evil, but covers a 10' area.
+Range: 1'', duration: 2 hours.
+
 #### 4. Speak with Plants ####
 
+The caster can speak to and understand the replies of plants.
+Plants obey his commands as far as they are able (e.g. --- twisting or bending aside to ease his passage, etc.).
+Range: 3'', duration: 1 hour.
 
 ## Cleric Spells Level 5 ##
 
 #### 1. Commune ####
 
+Higher powers grant answers to three questions the caster poses.
+Higher powers don't like being constantly interrogated by mere mortals, so the spell should be limited to one casting per week or so.
+The Referee may rule that a cleric casts a double strength Commune spell composed of six questions once per year.
+
 #### 2. Dispel Evil\* ####
+
+Dispel Evil works against items, spells, or agents of Evil.
+It also functions against evil sendings, possibly including dreams or supernatural hunting-beasts.
+Range: 3'', duration: 10 minutes.
 
 #### 3. Insect Plague ####
 
+This spell only works outdoors.
+A storm of insects gathers, and goes wherever the caster directs.
+The cloud is approximately 8,000 cubic feet (20' x 20' x 20').
+Any creature with fewer than 2 HD exposed to the cloud of insects flees in terror (no saving throw).
+Range: 48'', duration: 1 day.
+
 #### 4. Raise Dead\* ####
 
+Raise Dead allows the Cleric to raise a corpse from the dead, provided it has not been dead too long.
+The normal time limit is 4 days, but for every caster level higher than 8$^{th}$, the time limit extends another 4 days.
+Characters with low constitution might not survive the ordeal; and even for those with a strong constitution, a period of two weeks is required before they can function normally.
+This spell only functions on races that can be used for Player Characters (i.e., ``human-like'').
 
 # Play #
 
@@ -661,25 +744,25 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36 flying XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
 ### Elemental, Earth ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6 XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' XP: 1100, 2300, 3400
 
 They can tear down even a castle wall in 1d4+4 rounds. Their m\^{e}l\'{e}e damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12 XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' XP: 1100, 2300, 3400
 
 Their attacks ignite flammable materials (save permitted).
 
 ### Elemental, Water ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6 (18 swimming) XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18 swimming) XP: 1100, 2300, 3400
 
 Water elementals overturn ships in d4+4 rounds.
 They never stray more than 60' from a body of water, and their m\^{e}l\'{e}e attack do only 1d6 damage out of water.
@@ -706,13 +789,13 @@ Central | Flesh to stone ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 6) Move: 9 (15 flying) XP: 400
+AC: 14 HD: 4 (CR 6) Move: 9'' (15 flying) XP: 400
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
 ### Gas Spore ###
 
-AC: 10 HD: 1 HP (CR 1) Move: 3 XP: 15
+AC: 10 HD: 1 HP (CR 1) Move: 3'' XP: 15
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
 A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless Cure Disease is cast.
@@ -783,7 +866,7 @@ In full sunlight, they attack at -1 to hit.
 
 ### Golem, Flesh ###
 
-AC: 10 HD: 12 (CR 12) Move: 8 XP: 2000
+AC: 10 HD: 12 (CR 12) Move: 8'' XP: 2000
 
 They're immune to non-magical weapons.
 Only fire or cold spells damage flesh golems.
@@ -791,7 +874,7 @@ Lightning heals them.
 
 ### Golem, Iron ###
 
-AC: 16 HD: 13 (CR 17) Move: 6 XP: 3500
+AC: 16 HD: 13 (CR 17) Move: 6'' XP: 3500
 
 They breathe a 10' radius cloud of poison gas.
 Only +3 or better magic weapons hit iron golems.
@@ -800,7 +883,7 @@ No other spell types affect them.
 
 ### Golem, Stone ###
 
-AC: 14 HD: 16 (CR 16) Move: 6 XP: 3200
+AC: 14 HD: 16 (CR 16) Move: 6'' XP: 3200
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
@@ -820,76 +903,76 @@ Fire or cold kills green slime.
 
 ### Griffon ###
 
-AC: 16 HD: 7 (CR 8) Move: 12 (27 flying) XP: 800
+AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) XP: 800
 
 Eggs snatched from mountain nests command a high price, because fledgling can be trained as mounts.
 
 ### Harpy ###
 
-AC: 12 HD: 3 (CR 4) Move: 6 (18 flying) XP: 120
+AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) XP: 120
 
 Their song lures hearers, and their touch acts like Charm Person.
 Saves apply.
 
 ### Hell Hound ###
 
-AC: 15 HD: 4--7 (CR 5--8) Move: 12 XP: 240, 400, 600, 800
+AC: 15 HD: 4--7 (CR 5--8) Move: 12'' XP: 240, 400, 600, 800
 
 Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why some monsters, especially fire giants, keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 12 (27 flying) XP: 60
+AC: 14 HD: 3+1 (CR 3) Move: 12'' (27 flying) XP: 60
 
 Like griffons.
 
 ### Hobgoblin ###
 
-AC: 14 HD: 1+1 (CR 1) Move: 9 XP: 15
+AC: 14 HD: 1+1 (CR 1) Move: 9'' XP: 15
 
 ### Human, Bandit ###
 
-AC: 12 HD: 1 (CR 1) Move: 12 XP: 15
+AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15
 
 Larger groups are lead by classed characters, and may hold captives.
 
 ### Human, Berserker ###
 
-AC: 12 HD: 1+2 (CR 2) Move: 12 XP: 30
+AC: 12 HD: 1+2 (CR 2) Move: 12'' XP: 30
 
 They attack with +2 to hit. No prisoners.
 
 ### Human, Sergeant-at-Arms ###
 
-AC: 14 HD: 3 (CR 3) Move: 12 XP: 60
+AC: 14 HD: 3 (CR 3) Move: 12'' XP: 60
 
 Encountered leading 1d6+5 soldiers.
 
 ### Human, Soldier ###
 
-AC: 12 HD: 1 (CR 1) Move: 12 XP: 15
+AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9 XP: 600, 800, 1100, 1400, 1700, 2000
+AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' XP: 600, 800, 1100, 1400, 1700, 2000
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
 
 ### Invisible Stalker ###
 
-AC: 16 HD: 8 (CR 9) Move: 12 XP: 1100
+AC: 16 HD: 8 (CR 9) Move: 12'' XP: 1100
 
 ### Kobold ###
 
-AC: 13 HD: 1/2 (CR <1) Move: 6 XP: 10
+AC: 13 HD: 1/2 (CR <1) Move: 6'' XP: 10
 
 Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 12] Move: 24 XP: 2000
+AC: 16 HD: 9 [CR 12] Move: 24'' XP: 2000
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
@@ -906,13 +989,13 @@ even seeing a liche paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 8) Move: 12 (18 flying) XP: 800
+AC: 15 HD: 6+4 (CR 8) Move: 12'' (18 flying) XP: 800
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 8) Move: 9 XP: 800
+AC: 11 HD: 6 (CR 8) Move: 9'' XP: 800
 
 Anyone looking upon a Medusa's face must save or turn to stone.
 In addition to their m\^{e}l\'{e}e attack, their snake hair bites with poison (save allowed).
@@ -925,11 +1008,11 @@ Mimics take the shape of any wood, stone, or metal object, such as a treasure ch
 
 ### Minotaur ###
 
-AC: 13 HD: 6+4 (CR 6) Move: 12 XP: 400
+AC: 13 HD: 6+4 (CR 6) Move: 12'' XP: 400
 
 ### Mummy ###
 
-AC: 16 HD: 5+1 (CR 6) Move: 6 XP: 600
+AC: 16 HD: 5+1 (CR 6) Move: 6'' XP: 600
 
 They're immune to normal weapons, and magic weapons deal half damage.
 Their touch causes mummy rot --- wounds heal naturally at half rate, and magic healing fails --- until Remove Curse is cast on the victim.
@@ -960,11 +1043,11 @@ AC 14 HD: 5 (CR 5) Move: 12'' XP: 240
 
 ### Pegasus ###
 
-AC: 13 HD: 2+2 (CR 4) Move: 24 (48 flying) XP: 120
+AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) XP: 120
 
 ### Purple Worm ###
 
-AC: 13 HD: 15 (CR 17) Move: 9 XP: 3500
+AC: 13 HD: 15 (CR 17) Move: 9'' XP: 3500
 
 Massive.
 They chew tunnels through bedrock.
@@ -973,7 +1056,7 @@ Their tail spike poisons (save or die).
 
 ### Rat, Sumatran ###
 
-AC: 12 HD: 1-1 (CR <1) Move: 12 XP: 10
+AC: 12 HD: 1-1 (CR <1) Move: 12'' XP: 10
 
 One in twenty Sumatran rat bites cause disease (save vs. poison).
 
@@ -986,18 +1069,18 @@ Large amounts of metal attrack rust monsters.
 
 ### Shrieker ###
 
-AC 12 HD:3 (CR 3) Move: 1 XP: 60
+AC 12 HD:3 (CR 3) Move: 1'' XP: 60
 
 Shriekers are fungi that emit a noisy alarm for movement within 10' or light within 30'.
 Each round it sounds, their alarm attracts a wandering monster on 3 in 6.
 
 ### Skeleton ###
 
-AC: 11, 12 w/ shield HD: $\frac{1}{2}$ (CR 1) Move: 12 XP: 15
+AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' XP: 15
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 9) Move: 15 (30 flying) XP: 1100
+AC: 17 HD: 6 (CR 9) Move: 15'' (30 flying) XP: 1100
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1005,7 +1088,7 @@ Anyone killed by a specter (or reduced to level 0) becomes one.
 
 ### Spider, Giant ###
 
-AC: 13 HD: 2+2 (CR 5) Move: 18 XP: 240
+AC: 13 HD: 2+2 (CR 5) Move: 18'' XP: 240
 
 Save to avoid being stuck in their webs, and even then move only 3''.
 They nearly always surprise.
@@ -1013,13 +1096,13 @@ Giant spider bites are highly poisonous.
 
 ### Stirge ###
 
-AC: 12 HD: 1 (CR 2) Move: 3 (18 flying) XP: 30
+AC: 12 HD: 1 (CR 2) Move: 3'' (18 flying) XP: 30
 
 On a hit, a stirge inserts its blood-sucking probiscus into its opponent, and automatically deals damage each round.
 
 ### Tick, Giant ###
 
-AC: 15 HD: 3 (CR 4) Move: 3 XP: 60
+AC: 15 HD: 3 (CR 4) Move: 3'' XP: 60
 
 Giant ticks suck blood worth 4 HP damage per round after a successful hit.
 Fire forces them off a victim.
@@ -1027,7 +1110,7 @@ Disease caused by tick bites kill in 2d4 days, unless Cure Disease is cast.
 
 ### Toad, Giant ###
 
-AC: 12 HD 2+2 (CR 4) Move: 9 XP: 120
+AC: 12 HD 2+2 (CR 4) Move: 9'' XP: 120
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
@@ -1035,14 +1118,14 @@ They surprise on 6 in 12.
 
 ### Troll ###
 
-AC: 15 HD: 6+3 (CR 8) Move: 12 XP: 800
+AC: 15 HD: 6+3 (CR 8) Move: 12'' XP: 800
 
 They regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
-AC: 17 HD: 7--9 (CR 9--11) Move: 12 (18 flying) XP: 1100, 1400, 1700
+AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) XP: 1100, 1400, 1700
 
 Only magic weapons hit them, and they regenerate 3 HP per round.
 When killed by weapons or magic, vampires return to their coffins in gaseous form.
@@ -1054,21 +1137,21 @@ Anyone killed by a vampire become one.
 
 ### Werewolf ###
 
-AC: 14 HD: 3 (CR 4) Move: 12 XP: 120
+AC: 14 HD: 3 (CR 4) Move: 12'' XP: 120
 
 Werewolves are only harmed by silver or magic weapons.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
 
-AC: 14 HD: 3 (CR 5) Move: 9 XP: 240
+AC: 14 HD: 3 (CR 5) Move: 9'' XP: 240
 
 Only magic or silver weapons harm them, and they're immune to sleep or charm spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
 
-AC: 16 HD: 4 (CR 6) Move: 24 XP: 400
+AC: 16 HD: 4 (CR 6) Move: 24'' XP: 400
 
 They're only harmed by magic or silver (half damage) weapons.
 They drain one class level per hit.
@@ -1083,4 +1166,4 @@ Fire destroys it.
 
 ### Zombie ###
 
-AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6 XP: 30
+AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30

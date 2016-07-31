@@ -2,8 +2,8 @@
 
 while (<>) {
 	s/(\d) x (\d)/\1 \$\\times\$ \2/g; # Times/dimension symbol
-	s/(\s\d+)''/\1\$\^\{\\prime\\prime\}\$\\,/g; # Inch marks
-	s/(\s\d+)'/\1\$\^\{\\prime\}\$\\,/g; # Foot marks
+	s/(\d+)''/\1\$\^\{\\prime\\prime\}\$\\,/g; # Inch marks
+	s/(\d+)'/\1\$\^\{\\prime\}\$\\,/g; # Foot marks
 	s/(\d+)\/(\d+)/\$\\sfrac\{\1\}\{\2\}\$/g; # Fractions
 	print;
 }
