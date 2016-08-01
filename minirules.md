@@ -62,7 +62,7 @@ All hit dice are d6.
 However, fighters roll two six-sided hit dice, and choose the higher roll.
 
 Characters gain at most one level per session.
-Reduce the experience award of a character who would gain two levels so that their XP totals just shy of the second level.
+Reduce the experience award of a character who would gain more levels so that their XP totals just shy of the second level.
 
 ## Number of Daily Spells per Spell Level ##
 
@@ -89,7 +89,7 @@ Clerics do not gain additional spells after level 10.
 
 ## Clerics ##
 
-Clerics are militant religious zealots and hunters of the undead.
+Clerics are militant religious zealots or hunters of the undead.
 
 Each day, they pray for particular spells from their spell list.
 At any point during play, a cleric may swap out a prepared spell for the Turn Undead spell.
