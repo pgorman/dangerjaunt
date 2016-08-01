@@ -120,8 +120,6 @@ A sixth-level cleric, for example, gets an attack bonus of +3.
 
 Monsters use an attack bonus equal to their hit dice.
 
-## Equipment ##
-
 ## Armor Class, Encumbrance, Wandering Monsters ##
 
 Of any piece of standard gear, armor is the heaviest and most mechanically important.
@@ -140,15 +138,89 @@ Armor            | AC | Movement Rate | Wandering Monster Odds
 ----------------:|:--:|:-------------:|:----------------------:
 Naked            | 10 | 18''          | 1 in 6
 Shield only      | 11 | 18''          | 1 in 6
-Leather armor    | 12 | 12''          | 2 in 6
-Leather & shield | 13 | 12''          | 2 in 6
-Chain mail       | 14 | 9''           | 3 in 6
-Chain & shield   | 15 | 9''           | 3 in 6
-Plate mail       | 16 | 6''           | 4 in 6
-Plate & shield   | 17 | 6''           | 4 in 6
+Leather armor    | 13 | 12''          | 2 in 6
+Leather & shield | 14 | 12''          | 2 in 6
+Chain mail       | 15 | 9''           | 3 in 6
+Chain & shield   | 16 | 9''           | 3 in 6
+Plate mail       | 17 | 6''           | 4 in 6
+Plate & shield   | 18 | 6''           | 4 in 6
 +Encumbered      |    | 3''           | 5 in 6
 
 The table above shows ascending AC. Calculate traditional descending AC by subtracting from 19.
+
+## Equipment ##
+
+Each new character starts the game with 3d6 x 10 gold pieces to buy equipment.
+One gold piece (gp) is worth 10 silver pieces (sp) or 100 copper pieces (cp).
+
+### Armor ###
+
+Chain mail 30 gp,
+Leather 15 gp,
+Plate mail 75 gp,
+Shield 10 gp
+
+### Melee Weapons ###
+
+Axe (battle) 7 gp,
+Axe (hand) 3 gp,
+Club 0 gp,
+Dagger 3 gp,
+Flail 8 gp,
+Mace 5 gp,
+Morning Star 6 gp,
+Polearm 7 gp,
+Spear 2 gp,
+Staff 1 gp,
+Sword (long) 10 gp,
+Sword (short) 8 gp,
+Sword (two-handed) 15 gp,
+Warhammer 5 gp
+
+### Missle Weapons ###
+
+Arrows (twenty) 5 gp,
+Arrow (silver) 5 gp,
+Axe (hand) 3 gp,
+Bolt (crossbow, thirty) 5 gp,
+Bow (long) 40 gp,
+Bow (short) 25 gp,
+Case (30 bolt capacity) 5 gp,
+Crossbow (heavy) 25 gp,
+Crossbow (light) 15 gp,
+Quiver (20 arrow capacity) 5 gp,
+Sling 2 gp,
+Spear 2 gp,
+Stones (20) 1 gp
+
+### Misc. Gear ###
+
+Backpack 5 gp,
+Case (map/scroll) 3 gp,
+Crowbar 5 gp,
+Flint and Steel 5 gp,
+Garlic 10 gp,
+Grappling Hook 5 gp,
+Hammer 2 gp,
+Helmet 10 gp,
+Holy Symbol (wood) 2 gp,
+Holy Symbol (silver) 25 gp,
+Lantern 10 gp,
+Mirror (small steel) 5 gp,
+Oil (lamp) 2 gp,
+Pole (10') 1 gp,
+Rations (trail, 1 day) 1 gp,
+Rations (dry, 1 day) 3 gp,
+Rope (50') 1 gp,
+Sack (small) 1 gp,
+Sack (large) 2 gp,
+Shovel 5 gp,
+Spellbook (blank) 100 gp,
+Spikes (iron, dozen) 1 gp,
+Stakes (wood, dozen) 1 gp,
+Tent 20 gp,
+Waterskin 1 gp,
+Wolfsbane 10 gp
 
 ## Hirelings and Henchmen ##
 
@@ -633,7 +705,7 @@ AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15 flying) XP: 1400
 
 Wreathed in flame, these bull-like, bat-winged demons resist magic 75%, and casters below 6th level affect them not at all.
 They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
-Their m\^{e}l\'{e}e attack deals 2d6 damage.
+Their melee attack deals 2d6 damage.
 
 ### Basilisk###
 

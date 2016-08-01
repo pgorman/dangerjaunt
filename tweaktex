@@ -5,5 +5,6 @@ while (<>) {
 	s/(\d+)''/\1\$\^\{\\prime\\prime\}\$\\,/g; # Inch marks
 	s/(\d+)'/\1\$\^\{\\prime\}\$\\,/g; # Foot marks
 	s/(\d+)\/(\d+)/\$\\sfrac\{\1\}\{\2\}\$/g; # Fractions
+	s/([Mm])elee/\1\\^\{e\}l\\'\{e\}e/g; # Melee
 	print;
 }
