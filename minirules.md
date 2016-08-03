@@ -688,7 +688,7 @@ A 6 HD monster might do d6+2 damage every round, or we might instead have it do 
 
 ### Baalroch Demon ###
 
-AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15 flying) XP: 1400
+AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400
 
 Wreathed in flame, these bull-like, bat-winged demons resist magic 75%, and casters below 6th level affect them not at all.
 They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
@@ -716,7 +716,7 @@ Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents
 
 ### Cockatrice ###
 
-AC: 6 [13] HD: 5 (CR 7) Move: 6'' (18 flying) XP: 600
+AC: 6 [13] HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -739,49 +739,49 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 2 [17] HD: 6--8 (CR 8--10) Move: 12'' (24 flying) XP: 800, 1100, 1400
+AC: 2 [17] HD: 6--8 (CR 8--10) Move: 12'' (24'' flying) XP: 800, 1100, 1400
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 2 [17] HD: 8--10 (CR 10--12) Move: 12'' (24 flying) XP: 1400, 1700, 2000
+AC: 2 [17] HD: 8--10 (CR 10--12) Move: 12'' (24'' flying) XP: 1400, 1700, 2000
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 2 [17] HD: 10--12 (CR 12--14) Move: 12'' (24 flying) XP: 2000, 2300, 2600
+AC: 2 [17] HD: 10--12 (CR 12--14) Move: 12'' (24'' flying) XP: 2000, 2300, 2600
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 2 [17] HD: 7--9 (CR 9--11) Move: 12'' (24 flying) XP: 1100, 1400, 1700
+AC: 2 [17] HD: 7--9 (CR 9--11) Move: 12'' (24'' flying) XP: 1100, 1400, 1700
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 2 [17] HD: 9--11 (CR 11--13) Move: 12'' (24 flying) XP: 1700, 2000, 2300
+AC: 2 [17] HD: 9--11 (CR 11--13) Move: 12'' (24'' flying) XP: 1700, 2000, 2300
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 2 [17] HD: 5--7 (CR 7--9) Move: 12'' (24 flying) XP: 600, 800, 1100
+AC: 2 [17] HD: 5--7 (CR 7--9) Move: 12'' (24'' flying) XP: 600, 800, 1100
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
 ### Djinn ###
 
-AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24 flying) XP: 1100
+AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
 Some grant wishes.
-Their m\^{e}l\'{e}e attack deals 2d6 damage.
+Their melee attack deals 2d6 damage.
 
 ### Doppelganger ###
 
@@ -793,7 +793,7 @@ They're immune to Sleep and Charm, and save +5 versus all magic.
 ### Elemental ###
 
 Elementals vary in hit dice depending upon their origin.
-Their m\^{e}l\'{e}e attacks deal 2d6 damage.
+Their melee attacks deal 2d6 damage.
 
 Elemental Origin | Hit Dice
 ----------------:|---------
@@ -811,7 +811,7 @@ They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely kil
 
 AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' XP: 1100, 2300, 3400
 
-They can tear down even a castle wall in 1d4+4 rounds. Their m\^{e}l\'{e}e damage is reduced to 1d6 if the target is not standing on earth or stone.
+They can tear down even a castle wall in 1d4+4 rounds. Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
 
@@ -821,10 +821,10 @@ Their attacks ignite flammable materials (save permitted).
 
 ### Elemental, Water ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18 swimming) XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) XP: 1100, 2300, 3400
 
 Water elementals overturn ships in d4+4 rounds.
-They never stray more than 60' from a body of water, and their m\^{e}l\'{e}e attack do only 1d6 damage out of water.
+They never stray more than 60' from a body of water, and their melee attack do only 1d6 damage out of water.
 
 
 ### Eye of Terror ###
@@ -848,7 +848,7 @@ Central | Flesh to stone ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 6) Move: 9'' (15 flying) XP: 400
+AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) XP: 400
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
@@ -878,7 +878,7 @@ Anyone killed by a ghoul becomes one.
 
 AC: 15 HD: 12+2 (CR 13) Move: 15'' XP: 2300
 
-Cloud giants live in cloud castles. Their m\^{e}l\'{e}e attack deals 3d6 damage, and they throw boulders for 6d6 damage. They enslave captives on their cloud islands.
+Cloud giants live in cloud castles. Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage. They enslave captives on their cloud islands.
 
 ### Giant, Fire ###
 
@@ -982,7 +982,7 @@ Their keen senses detect invisible opponents on 1--3 in 6, which is why some mon
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 12'' (27 flying) XP: 60
+AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) XP: 60
 
 Like griffons.
 
@@ -1048,7 +1048,7 @@ even seeing a liche paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 8) Move: 12'' (18 flying) XP: 800
+AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) XP: 800
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
@@ -1057,7 +1057,7 @@ They hurl up to 6 of their 24 tail spikes per round (180').
 AC: 11 HD: 6 (CR 8) Move: 9'' XP: 800
 
 Anyone looking upon a Medusa's face must save or turn to stone.
-In addition to their m\^{e}l\'{e}e attack, their snake hair bites with poison (save allowed).
+In addition to their melee attack, their snake hair bites with poison (save allowed).
 
 ### Mimic ###
 
@@ -1139,7 +1139,7 @@ AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' XP: 15
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 9) Move: 15'' (30 flying) XP: 1100
+AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) XP: 1100
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1155,7 +1155,7 @@ Giant spider bites are highly poisonous.
 
 ### Stirge ###
 
-AC: 12 HD: 1 (CR 2) Move: 3'' (18 flying) XP: 30
+AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) XP: 30
 
 On a hit, a stirge inserts its blood-sucking probiscus into its opponent, and automatically deals damage each round.
 
