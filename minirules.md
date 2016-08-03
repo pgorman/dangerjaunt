@@ -249,19 +249,6 @@ Charisma |  Maximum Henchmen | Loyalty Modifier
 16--17   |  6                | +2
 18       |  12               | +3
 
-## Random Dungeon Room Stocking ##
-
-After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area with the following table.
-
-d12   | Room Contents
-:----:|--------------
-1--3  | Empty
-4     | Trick/trap (no treasure)
-5--7  | Monster (no treasure)
-8--10 | Treasure & Monster
-11    | Treasure & trick/trap
-12    | Treasure (concealed/hidden)
-
 ## Magic-User Spells Level 1 ##
 
 #### 1. Charm Person ####
@@ -1239,3 +1226,19 @@ Fire destroys it.
 ### Zombie ###
 
 AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30
+
+## Adventure Design ##
+
+### Random Dungeon Room Stocking ###
+
+After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area with the following table.
+
+d12   | Room Contents
+:----:|--------------
+1--3  | Empty
+4     | Trick/trap (no treasure)
+5--7  | Monster (no treasure)
+8--10 | Treasure & Monster
+11    | Treasure & trick/trap
+12    | Treasure (concealed/hidden)
+
