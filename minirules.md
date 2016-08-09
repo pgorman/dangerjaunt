@@ -540,10 +540,28 @@ Range: 12'', duration: 1 hour.
 Protection from Evil creates a ward around the caster that blocks attacks from magical monsters, like invisible stalkers, elementals, and demons.
 Other attackers suffer a -1 penalty to hit, and the caster gains +1 on saving throws.
 
-#### 4. Purify Food & Water\* ####
+#### 4. Turn Undead ####
 
-Purify Food and Drink removes spoilage and poisons from enough food and water for up to a dozen people.
-Range: touch, duration: instant.
+Lawful Clerics ``turn'' undead, driving away the foul creatures or even destorying them outright.
+
+When making a turning attempt, roll 2d6 and consult the table below.
+A result equal to or greater than the number shown means all undead flee for 3d6 rounds.
+``T'' means the undead creature is destroyed. 
+``D'' means the undead creature is destroyed. 
+`--'' means the undead is too powerful to turn.
+
+Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
+:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+1         |  7  | 5   | 3   | T   | T   | D   | D   | D   | D   | D
+2         |  9  | 7   | 5   | 3   | T   | T   | D   | D   | D   | D
+3         |  11 | 9   | 7   | 5   | 3   | T   | T   | D   | D   | D
+4         |  12 | 11  | 9   | 7   | 5   | 3   | T   | T   | D   | D
+5         |  -- | --  | 12  | 11  | 9   | 7   | 5   | 3   | T   | T
+6         |  -- | --  | --  | 12  | 11  | 9   | 7   | 5   | 3   | T
+7         |  -- | --  | --  | --  | 12  | 11  | 9   | 7   | 5   | 5
+8         |  -- | --  | --  | --  | --  | 12  | 11  | 9   | 7   | 5
+9         |  -- | --  | --  | --  | --  | --  | 12  | 11  | 9   | 7
+10+       |  -- | --  | --  | --  | --  | --  | --  | 12  | 11  | 9
 
 ## Cleric Spells Level 2 ##
 
