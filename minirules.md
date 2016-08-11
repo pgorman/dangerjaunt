@@ -1294,7 +1294,7 @@ Scrolls either contain magic-user spells, or offer a particular type of protecti
 Scrolls can be read even by magic-users of insufficient level to cast the spell.
 Typical scrolls include:
 
-1. Spell scroll: Charm Person, Light
+1. Spell scroll: Light, Knock
 2. Spell scroll: Charm Person, Charm Monster, Conjure Elemental
 3. Spell scroll: Sleep
 4. Protection from Lycanthropes
