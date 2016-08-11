@@ -1245,6 +1245,76 @@ Fire destroys it.
 
 AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30
 
+## Treasure ##
+
+Calculate treasure values based on monster XP.
+The gold piece value of a treasure equals three or four times the XP of the monster to which the treasure belongs.
+
+Treasures include other valuable items besides gold, silver, and copper coins.
+By substituting some currency with unique valuable objects (e.g. --- an oil painting of a historical battle, a fine instrument from a famous luthier, a huge but flawed pearl), the referee makes the treasure more interesting for the players.
+
+A map to a hidden treasure is itself a prized item, and carries the promise of further adventure.
+
+A large hoard may contain magic items.
+The referee should roll to trade out gold pieces.
+
+- Each 100gp adds 10% chance of a minor magic item.
+- Each 1000gp adds 10% chance of a medium magic item.
+- Each 5000gp adds 10% chance of a major magic item.
+
+d8   | Minor Magic Item
+:---:|-------------------------------
+1    | Poison potion or cursed scroll
+2--5 | Potion
+6--7 | Scroll
+8    | Wand
+
+Wand
+Wand
+Wand
+
+### Potions ###
+
+Potions are single-use, although smelling and tasting for identification purposes does not expend a potion.
+Potions recreate spells or other effects that target the self.
+The effects last for a short time --- no more than 2d6 hours.
+Typical potions include:
+
+1. Healing Potion
+2. Water Breathing Potion
+3. Growth Potion
+4. Invisibility Potion
+5. Potion of Gaseous Form
+6. Potion of Fire Resistance
+
+### Scrolls ###
+
+Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
+Scrolls either contain magic-user spells, or offer a particular type of protection.
+Scrolls can be read even by magic-users of insufficient level to cast the spell.
+Typical scrolls include:
+
+1. Spell scroll: Charm Person, Light
+2. Spell scroll: Charm Person, Charm Monster, Conjure Elemental
+3. Spell scroll: Sleep
+4. Protection from Lycanthropes
+5. Protection from Undead
+6. Protection from Magic
+
+### Wands ###
+
+Wands create an effect on targets in line of a ray or in the area of a narrow cone.
+They may duplicate the effect of a spell, or provide a flashlight/Geiger counter/radar-like detection function.
+Wands hold only a limited number of charges, usually 2--20, and have a range of 60'.
+Typical wands include:
+
+1. Wand of Lightning Bolts
+2. Wand of Cold
+3. Wand of Trap & Secret Detection
+4. Wand of Polymorph
+5. Wand of Magic Detection
+6. Wand of Enemy Detection
+
 ## Adventure Design ##
 
 ### Random Dungeon Room Stocking ###
