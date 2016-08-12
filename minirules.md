@@ -255,7 +255,9 @@ Charisma |  Maximum Henchmen | Loyalty Modifier
 16--17   |  6                | +2
 18       |  12               | +3
 
-## Magic-User Spells Level 1 ##
+## Magic-User Spells ##
+
+### Magic-User Spells Level 1 ###
 
 #### 1. Charm Person ####
 
@@ -292,7 +294,7 @@ Sleep puts enemies into an enchanted slumber.
 No saving throw is permitted.
 It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice each.
 
-## Magic-User Spells Level 2 ##
+### Magic-User Spells Level 2 ###
 
 #### 1. Detect Invisibility ####
 
@@ -329,7 +331,7 @@ A viewer who believes the illusion (save vs. spell) can take damage from it.
 The illusion disappears when hit (AC 10).
 Range: 24''; duration: until dispelled.
 
-## Magic-User Spells Level 3 ##
+### Magic-User Spells Level 3 ###
 
 #### 1. Clairvoyance/Clairaudence ####
 
@@ -368,7 +370,7 @@ Range: 6'', duration: instant.
 Water Breathing grants the ability to breathe underwater.
 Range: 3'', duration: 2 hours.
 
-## Magic-User Spells Level 4 ##
+### Magic-User Spells Level 4 ###
 
 #### 1. Charm Monster ####
 
@@ -425,7 +427,7 @@ The caster conjures up an invisible, magical ``eye,'' that can move up to 240 fe
 It floats along as directed by the caster, at a rate of 120 feet per turn.
 Range: 24'', duration: 1 hour.
 
-## Magic-User Spells Level 5 ##
+### Magic-User Spells Level 5 ###
 
 #### 1. Animate Dead ####
 
@@ -488,7 +490,7 @@ The other half of failures place the traveler 1d10 x 10 feet above the targeted 
 If the caster is familiar with the location or has studied it carefully, there is a 5% chance of failure, with 1 in 6 failures arriving below and 5 in 6 arriving above the target location.
 In either case, the arrival is 1d4 x 10 feet low or high.
 
-## Magic-User Spells Level 6 ##
+### Magic-User Spells Level 6 ###
 
 #### 1. Control Weather ####
 
@@ -526,9 +528,11 @@ This spell transforms flesh into stone or stone into flesh, as desired by the ca
 A successful saving throw permits the victim to avoid being turned into a stone statue.
 Range: 12'', duration: permanent.
 
-## Cleric Spells Level 1 ##
+## Cleric Spells ##
 
 An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. Cause Light Wounds).
+
+### Cleric Spells Level 1 ###
 
 #### 1. Cure Light Wounds\* ####
 
@@ -569,7 +573,7 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 9         |  -- | --  | --  | --  | --  | 12  | 11  | 9   | 7   | 5
 10+       |  -- | --  | --  | --  | --  | --  | 12  | 11  | 9   | 7
 
-## Cleric Spells Level 2 ##
+### Cleric Spells Level 2 ###
 
 #### 1. Bless\* ####
 
@@ -593,7 +597,7 @@ The caster can speak with animals within range.
 The animals might assist him, and they will not attack him or his party (unless he says something particularly offensive).
 Range: 3'', duration: 1 hour.
 
-## Cleric Spells Level 3 ##
+### Cleric Spells Level 3 ###
 
 #### 1. Cure Disease\* ####
 
@@ -618,7 +622,7 @@ Clerics of less than seventh level can only contact those who died within the la
 Clerics of less than eleventh level can only contact those who died within the last three months.
 Answers from spirits often come as riddles or in an otherwise cryptic form.
 
-## Cleric Spells Level 4 ##
+### Cleric Spells Level 4 ###
 
 #### 1. Cure Serious Wounds\* ####
 
@@ -641,7 +645,7 @@ The caster can speak to and understand the replies of plants.
 Plants obey his commands as far as they are able (e.g. --- twisting or bending aside to ease his passage, etc.).
 Range: 3'', duration: 1 hour.
 
-## Cleric Spells Level 5 ##
+### Cleric Spells Level 5 ###
 
 #### 1. Commune ####
 
