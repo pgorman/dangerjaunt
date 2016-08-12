@@ -135,7 +135,7 @@ The odds depend on the movement rate/encumbrance of the party.
 The referee may add an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
-----------------:|:--:|:-------------:|:----------------------:
+----------------:|:--------:|:-------------:|:----------------------:
 Naked            | 10 | 18''          | 1 in 6
 Shield only      | 11 | 18''          | 1 in 6
 Leather armor    | 13 | 12''          | 2 in 6
@@ -146,7 +146,13 @@ Plate mail       | 17 | 6''           | 4 in 6
 Plate & shield   | 18 | 6''           | 4 in 6
 +Encumbered      |    | 3''           | 5 in 6
 
-The table above shows ascending AC. Calculate traditional descending AC by subtracting from 19.
+In the ascending armor class system (shown above), a higher AC indicates better protection.
+The traditional descending AC system has better armor with lower numbers.
+Use the table below for reference, or calculate the difference from 19.
+
+Ascending AC   | 10 | 11 | 13 | 14 | 15 | 16 | 17 | 18
+---------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---
+Descending AC  |  9 |  8 |  6 |  5 |  4 |  3 |  2 |  1
 
 ## Equipment ##
 
