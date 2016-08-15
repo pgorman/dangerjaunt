@@ -111,6 +111,39 @@ Magic-users wear no armor, and lack expertise in any weapon demanding more skill
 Each day, magic-users wrestle incantations from the pages of spell books into their brains.
 A cast spell escapes the magic-user's mind completely, unable to be cast again without further sleep and study.
 
+## Thieves ##
+
+Thief skills
+
+- N in 6
+- Start at 1 in 6
+- Maximum of 5 in 6
+- Start with two pips to assign at first level
+- Get one additional pip to assign per level
+
+- Stealth (hide in shadows, move silently)
+- Acrobatics (climbing, backflips, tightrope walking)
+- Tinkering (open locks, pick pockets, arm or disarm tiny traps or alarms, safecracking)
+- Assassination (poisons, backstabbing, martial arts)
+- Chicanery (disguise, fast-talking, forgery, intimidation, ventriloquism, coin clipping)
+
+## Elves ##
+
+Elves choose each morning whether to act as magic-users or fighters.
+When acting as a magic-user, an elf wears no armor.
+When acting as a fighter, an elf casts no spells.
+
+Elf characters maintain one experience total for their magic-user levels and another for their fighter levels.
+
+## Dwarfs ##
+
+Dwarfs can be either fighters or thieves.
+Dwarfs make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
+Dwarfs know about stonework, gems, engineering, and metalwork;
+the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it. Dwarfs notice secret doors on 1--2 in 6 simply by passing near them.
+
+After attaining level 6, dwarfs suffer a 50% reduction in subsequent earned experience.
+
 ## Attack Bonus ##
 
 All characters start at first level with an attack bonus of +1, which they add to all their d20 attack rolls.
@@ -1288,6 +1321,7 @@ Wand
 Potions are single-use, although smelling and tasting for identification purposes does not expend a potion.
 Potions recreate spells or other effects that target the self.
 The effects last for a short time --- no more than 2d6 hours.
+They can be used by anyone.
 Typical potions include:
 
 1. Healing Potion
@@ -1299,9 +1333,9 @@ Typical potions include:
 
 ### Scrolls ###
 
-Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
 Scrolls either contain magic-user spells, or offer a particular type of protection.
-Scrolls can be read even by magic-users of insufficient level to cast the spell.
+Only magic-users understand spell scrolls, but anyone can read a protection scroll.
+Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
 Typical scrolls include:
 
 1. Spell scroll: Light, Knock
