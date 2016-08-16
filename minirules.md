@@ -113,19 +113,21 @@ A cast spell escapes the magic-user's mind completely, unable to be cast again w
 
 ## Thieves ##
 
-Thief skills
+Thieves include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
 
-- N in 6
-- Start at 1 in 6
-- Maximum of 5 in 6
-- Start with two pips to assign at first level
-- Get one additional pip to assign per level
+Thieves know five broad skills, with each skill rated between one and six.
+To successfully use a skill, the player must roll that score or lower on a d6.
+New thief characters start with a 1 in all skills, plus two points the player may assign as desired.
+Each time the thief gains a level, the player assigns one additional point to a skill.
+No skill can exceed five in six.
 
 - Stealth (hide in shadows, move silently)
 - Acrobatics (climbing, backflips, tightrope walking)
 - Tinkering (open locks, pick pockets, arm or disarm tiny traps or alarms, safecracking)
 - Assassination (poisons, backstabbing, martial arts)
 - Chicanery (disguise, fast-talking, forgery, intimidation, ventriloquism, coin clipping)
+
+When surprising an opponent, a thief backstabs with a damage roll multiplied by their Assassination score.
 
 ## Elves ##
 
