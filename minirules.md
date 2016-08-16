@@ -124,7 +124,7 @@ No skill can exceed five in six.
 - Stealth (hide in shadows, move silently)
 - Acrobatics (climbing, backflips, tightrope walking)
 - Tinkering (open locks, pick pockets, arm or disarm tiny traps or alarms, safecracking)
-- Assassination (poisons, backstabbing, martial arts)
+- Assassination (poisons, backstabbing, nerve strikes)
 - Chicanery (disguise, fast-talking, forgery, intimidation, ventriloquism, coin clipping)
 
 When surprising an opponent, a thief backstabs with a damage roll multiplied by their Assassination score.
@@ -1299,6 +1299,8 @@ Treasures include other valuable items besides gold, silver, and copper coins.
 By substituting some currency with unique valuable objects (e.g. --- an oil painting of a historical battle, a fine instrument from a famous luthier, a huge but flawed pearl), the referee makes the treasure more interesting for the players.
 
 A map to a hidden treasure is itself a prized item, and carries the promise of further adventure.
+The map may show the distant location of a famous item or a simple cache of coins hidden behind a secret door in the next room.
+Some obscure their meaning with riddles or codes.
 
 A large hoard may contain magic items.
 The referee should roll to trade out gold pieces.
@@ -1323,7 +1325,7 @@ Wand
 Potions are single-use, although smelling and tasting for identification purposes does not expend a potion.
 Potions recreate spells or other effects that target the self.
 The effects last for a short time --- no more than 2d6 hours.
-They can be used by anyone.
+A potion affects any class of character.
 Typical potions include:
 
 1. Healing Potion
@@ -1338,6 +1340,7 @@ Typical potions include:
 Scrolls either contain magic-user spells, or offer a particular type of protection.
 Only magic-users understand spell scrolls, but anyone can read a protection scroll.
 Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
+Spell scrolls include 1--3 spells.
 Typical scrolls include:
 
 1. Spell scroll: Light, Knock
@@ -1352,6 +1355,7 @@ Typical scrolls include:
 Wands create an effect on targets in line of a ray or in the area of a narrow cone.
 They may duplicate the effect of a spell, or provide a flashlight/Geiger counter/radar-like detection function.
 Wands hold only a limited number of charges, usually 2--20, and have a range of 60'.
+Only magic-users employ wands.
 Typical wands include:
 
 1. Wand of Lightning Bolts
@@ -1360,6 +1364,40 @@ Typical wands include:
 4. Wand of Polymorph
 5. Wand of Magic Detection
 6. Wand of Enemy Detection
+
+## Staves ##
+
+Only clerics use some staves; other staves may be employed only by magic-users.
+Staves hold 3--30 charges.
+Typical staves include:
+
+1. Staff of Command (clerics).
+Casts Speak with Animal, Speak with Plants, or Hold Person.
+2. Staff of Healing (clerics).
+Casts Cure Light Wounds, Cure Disease (3 charges), or Raise Dead (10 charges).
+3. Serpent Staff (clerics).
+Strikes in melee with +1 to hit and damage without expending a charge.
+Upon command, the staff transforms into a large (3 HD) snake capable of rendering a man-size opponent immobile for 1--4 turns.
+4. Staff of Withering (clerics).
+On each melee hit, the target ages ten years.
+5. Staff of Cancellation (magic-users).
+Single use.
+Renders the magic item it hits permanently non-magical.
+6. Staff of Wizardry (magic-users).
+Casts Light (without using a charge), Fireball, Lightning Bolt, Charm Person, Invisibility, Fly, or (once per day) Conjure Elemental.
+Strikes in melee at +1 to hit for 2d6 damage without expending a charge.
+
+## Rings ##
+
+Magic rings work only when worn on a finger, and only one may be worn on each hand.
+Ring may be worn by any character class.
+
+1. Ring of Invisibility
+2. Ring of Protection (+1 AC)
+3. Ring of Regeneration (regain 1 HP/turn)
+4. Ring of Three Wishes
+5. Ring of Spell Storing (fillable with up to six spells)
+6. Ring of Weakness (requires Remove Curse to take off)
 
 ## Adventure Design ##
 
