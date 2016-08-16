@@ -711,6 +711,26 @@ This spell only functions on races that can be used for Player Characters (i.e.,
 
 # Play #
 
+## Encounters ##
+
+1. Surprise? Base chance of 1--2 in 6. Check both sides, if appropriate.
+2. Determine encounter distance based on surprise.
+	- If surprised: d4 x 10' (melee distance)
+	- Not surprised: (d6 + 4) x 10'
+3. Each side that is not surprised has the options:
+	- Run away (Referee asks players: "Do you run away?")
+	- Fire missiles
+	- Close to melee
+	- Parley
+	- Other
+4. Players declare actions
+5. Check monster (re)action
+6. Roll initiative
+7. Repeat each turn as appropriate:
+	1. Check morale of non-player characters, hirelings, monsters
+	2. Missile fire
+	3. Melee
+
 ## Saving Throws ##
 
 Monsters save like fighters.
