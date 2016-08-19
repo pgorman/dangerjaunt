@@ -263,6 +263,12 @@ Tent 20 gp,
 Waterskin 1 gp,
 Wolfsbane 10 gp
 
+## Damage ##
+
+Most weapons do 1d6 damage on a successful hit.
+A fighter wielding a martial weapons, such as a longsword, does 1d8 damage.
+Fighters who forgoe a shield in order to wield a two-handed weapons, such as a polearm, deal 1d1N0 damage.
+
 ## Hirelings and Henchmen ##
 
 Henchmen and hirelings work for the player characters, although they are non-player characters controlled by the referee.
