@@ -777,21 +777,20 @@ A 6 HD monster might do d6+2 damage every round, or we might instead have it do 
 
 ### Baalroch Demon ###
 
-AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400
+AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400 Attacks: sword d12, flames 3d6
 
 Wreathed in flame, these bull-like, bat-winged demons resist magic 75%, and casters below 6th level affect them not at all.
 They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
-Their melee attack deals 2d6 damage.
 
 ### Basilisk###
 
-AC: 4 [15] HD: 6 (CR 8) Move: 6'' XP: 800
+AC: 4 [15] HD: 6 (CR 8) Move: 6'' XP: 800 Attacks: bite d10
 
 The gaze of these eight-legged reptiles turns living things to stone.
 
 ### Black Pudding ###
 
-AC: 6 [13] HD: 10 (CR 11) Move: 6'' XP: 1700
+AC: 6 [13] HD: 10 (CR 11) Move: 6'' XP: 1700 Attacks: acid
 
 This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
 Its excretions dissolve wood and metal.
@@ -799,13 +798,13 @@ It's immune to cold, and split/multiplied by lightening.
 
 ### Bugbear ###
 
-AC: 5 [14] HD: 3+1 (CR 3) Move: 9'' XP: 120
+AC: 5 [14] HD: 3+1 (CR 3) Move: 9'' XP: 120 Attacks: weapon d8
 
 Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
 
 ### Cockatrice ###
 
-AC: 6 [13] HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600
+AC: 6 [13] HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600 Attacks: bite d6 & stone
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -865,7 +864,7 @@ Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shat
 
 ### Djinn ###
 
-AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100
+AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100 Attacks: fists 2d8 or whirlwind
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
@@ -874,7 +873,7 @@ Their melee attack deals 2d6 damage.
 
 ### Doppelganger ###
 
-AC: 5 [14] HD: 4 (CR 5) Move: 9'' XP: 240
+AC: 5 [14] HD: 4 (CR 5) Move: 9'' XP: 240 Attacks: claw d8
 
 Doppelgangers transform to look like anyone.
 They're immune to Sleep and Charm, and save +5 versus all magic.
@@ -892,25 +891,26 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400 Attacks: blown missiles 2d8 or hurl creature
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
 ### Elemental, Earth ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' XP: 1100, 2300, 3400 Attacks: bury 2d8
 
-They can tear down even a castle wall in 1d4+4 rounds. Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
+They can tear down even a castle wall in 1d4+4 rounds.
+Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' XP: 1100, 2300, 3400 Attacks: incinerate 2d8
 
 Their attacks ignite flammable materials (save permitted).
 
 ### Elemental, Water ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) XP: 1100, 2300, 3400
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) XP: 1100, 2300, 3400 Attacks: drown 2d8
 
 Water elementals overturn ships in d4+4 rounds.
 They never stray more than 60' from a body of water, and their melee attack do only 1d6 damage out of water.
@@ -937,7 +937,7 @@ Central | Flesh to stone ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) XP: 400
+AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) XP: 400 Attacks: claws d3 & d3, bite d4, horn d6
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
@@ -950,14 +950,14 @@ A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully
 
 ### Gelatinous Cube ###
 
-AC: 11 HD: 4 (CR 5) Move: 6'' XP: 240
+AC: 11 HD: 4 (CR 5) Move: 6'' XP: 240 Attacks: paralysis
 
 Hit opponents are anesthetized (save vs. paralysis), then enveloped in 6 rounds.
 Lightning and cold don't harm gelatinous cubes.
 
 ### Ghoul ###
 
-AC: 13 HD: 2 (CR 3) Move: 9'' XP: 60
+AC: 13 HD: 2 (CR 3) Move: 9'' XP: 60 Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
 They're immune to Sleep and charm spells.
@@ -965,13 +965,13 @@ Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
 
-AC: 15 HD: 12+2 (CR 13) Move: 15'' XP: 2300
+AC: 15 HD: 12+2 (CR 13) Move: 15'' XP: 2300 Attacks: squash 3d6 or boulders 6d6
 
 Cloud giants live in cloud castles. Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage. They enslave captives on their cloud islands.
 
 ### Giant, Fire ###
 
-AC: 15 HD: 11+3 (CR 12) Move: 12'' XP: 2000
+AC: 15 HD: 11+3 (CR 12) Move: 12'' XP: 2000 Attacks: squash 3d6 or boulders 5d6
 
 Fire giants live in iron or basalt castles near volcanoes.
 They throw boulders for 5d6 damage, and are immune to fire damage.
@@ -979,28 +979,28 @@ Fire giants keep packs of hell hounds.
 
 ### Giant, Frost ###
 
-AC: 15 HD: 10+1 (CR 12) Move: 12'' XP: 2000
+AC: 15 HD: 10+1 (CR 12) Move: 12'' XP: 2000 Attacks: squash 3d6 or boulders 4d6
 
 They throw icy boulders for 4d6 damage, and are immune to cold damage.
 Frost giants are often accompanied by giant white wolves.
 
 ### Giant, Hill ###
 
-AC: 15 HD: 8 (CR 9) Move: 12'' XP: 1100
+AC: 15 HD: 8 (CR 9) Move: 12'' XP: 1100 Attacks: squash 2d6 or boulders 2d8
 
-Hill giants throw rocks for 2d6 damage.
+Hill giants throw rocks for 2d8 damage.
 They sometimes bully giant lizards, ogres, or worgs into guarding their lairs.
 
 ### Giant, Stone ###
 
-AC: 15 HD: 9 (CR 10) Move: 12'' XP: 1400
+AC: 15 HD: 9 (CR 10) Move: 12'' XP: 1400 Attacks: squash 3d6 or boulders 3d6
 
 They throw rocks for 3d6 damage, and favor mountain ambushes.
 Stone giants keep d4 cave bears.
 
 ### Giant, Storm ###
 
-AC: 18 HD: 16 (CR 16) Move: 15'' XP: 3200
+AC: 18 HD: 16 (CR 16) Move: 15'' XP: 3200 Attacks: squash 3d6 or boulders 7d6
 
 More intelligent and magical than other giants, storm giants live in undersea or mountaintop castles.
 They throw boulders for 7d6 damage, and cast Control Weather.
