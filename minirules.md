@@ -891,7 +891,7 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400 Attacks: blown missiles 2d8 or hurl creature
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400 Attacks: wind 2d8 or hurl creature
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
@@ -1008,13 +1008,13 @@ Storm giants keep giant mounts of a type appropriate for their castle's terrain.
 
 ### Goblin ###
 
-AC: 13 HD: 1-1 (CR <1) Move: 9'' XP: 10
+AC: 13 HD: 1-1 (CR <1) Move: 9'' XP: 10 Attacks: weapon d6
 
 In full sunlight, they attack at -1 to hit.
 
 ### Golem, Flesh ###
 
-AC: 10 HD: 12 (CR 12) Move: 8'' XP: 2000
+AC: 10 HD: 12 (CR 12) Move: 8'' XP: 2000 Attacks: fists d8 & d8
 
 They're immune to non-magical weapons.
 Only fire or cold spells damage flesh golems.
@@ -1022,7 +1022,7 @@ Lightning heals them.
 
 ### Golem, Iron ###
 
-AC: 16 HD: 13 (CR 17) Move: 6'' XP: 3500
+AC: 16 HD: 13 (CR 17) Move: 6'' XP: 3500 Attacks: weapon 3d10
 
 They breathe a 10' radius cloud of poison gas.
 Only +3 or better magic weapons hit iron golems.
@@ -1031,7 +1031,7 @@ No other spell types affect them.
 
 ### Golem, Stone ###
 
-AC: 14 HD: 16 (CR 16) Move: 6'' XP: 3200
+AC: 14 HD: 16 (CR 16) Move: 6'' XP: 3200 Attacks: fists 2d6 & 2d6
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
@@ -1051,55 +1051,55 @@ Fire or cold kills green slime.
 
 ### Griffon ###
 
-AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) XP: 800
+AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) XP: 800 Attacks: claws d4 & d4, bite 2d8
 
 Eggs snatched from mountain nests command a high price, because fledgling can be trained as mounts.
 
 ### Harpy ###
 
-AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) XP: 120
+AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) XP: 120 Attacks: talons d3 & d3, weapon d6
 
 Their song lures hearers, and their touch acts like Charm Person.
 Saves apply.
 
 ### Hell Hound ###
 
-AC: 15 HD: 4--7 (CR 5--8) Move: 12'' XP: 240, 400, 600, 800
+AC: 15 HD: 4--7 (CR 5--8) Move: 12'' XP: 240, 400, 600, 800 Attacks: bite d6, fire breath
 
 Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why some monsters, especially fire giants, keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) XP: 60
+AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) XP: 60 Attacks: claws d6 & d6, bite d10
 
 Like griffons.
 
 ### Hobgoblin ###
 
-AC: 14 HD: 1+1 (CR 1) Move: 9'' XP: 15
+AC: 14 HD: 1+1 (CR 1) Move: 9'' XP: 15 Attacks: weapon d8
 
 ### Human, Bandit ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15
+AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
 
 Larger groups are lead by classed characters, and may hold captives.
 
 ### Human, Berserker ###
 
-AC: 12 HD: 1+2 (CR 2) Move: 12'' XP: 30
+AC: 12 HD: 1+2 (CR 2) Move: 12'' XP: 30 Attacks: weapon d8
 
 They attack with +2 to hit. No prisoners.
 
 ### Human, Sergeant-at-Arms ###
 
-AC: 14 HD: 3 (CR 3) Move: 12'' XP: 60
+AC: 14 HD: 3 (CR 3) Move: 12'' XP: 60 Attacks: weapon d8
 
 Encountered leading 1d6+5 soldiers.
 
 ### Human, Soldier ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15
+AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d8
 
 ### Hydra ###
 
