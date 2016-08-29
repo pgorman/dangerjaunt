@@ -1103,41 +1103,41 @@ AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d8
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' XP: 600, 800, 1100, 1400, 1700, 2000
+AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' XP: 600, 800, 1100, 1400, 1700, 2000 Attacks: bite d6 per head
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
 
 ### Invisible Stalker ###
 
-AC: 16 HD: 8 (CR 9) Move: 12'' XP: 1100
+AC: 16 HD: 8 (CR 9) Move: 12'' XP: 1100 Attacks: bite 4d4
 
 ### Kobold ###
 
-AC: 13 HD: 1/2 (CR <1) Move: 6'' XP: 10
+AC: 13 HD: 1/2 (CR <1) Move: 6'' XP: 10 Attacks: weapon d6
 
 Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 12] Move: 24'' XP: 2000
+AC: 16 HD: 9 [CR 12] Move: 24'' XP: 2000 Attacks: dagger d4 & wisdom drain
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
 anyone reduced to 3 wisdom becomes the lamia's willing slave.
-They cast these spells once per day: charm person, phantasmal force, and suggestion (as per Crystal Ball of Suggestion).
+They cast charm person and phantasmal force once per day.
 
-### Liche ###
+### Lich ###
 
-AC: 19 HD: 12--18 (CR 15--21) Move: 6'' XP: 2900, 3200, 3500, 3800, 4100, 4400, 4700
+AC: 19 HD: 12--18 (CR 15--21) Move: 6'' XP: 2900, 3200, 3500, 3800, 4100, 4400, 4700 Attacks: paralysis touch
 
 They're undead wizards, with magic-user levels equal to their hit dice.
 Their touch paralyzes (no save);
-even seeing a liche paralyzes creatures with 4 or fewer HD.
+even seeing a lich paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) XP: 800
+AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) XP: 800 Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
