@@ -920,7 +920,7 @@ They never stray more than 60' from a body of water, and their melee attack do o
 
 AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 14) Move: 6'' levitating XP: 2600
 
-Its tentacles are poison (save or die).
+Its tentacles are poisonous (save or die).
 Each round, it attacks with its central eye and three eye stalks:
 
 Eye     | Power
@@ -943,7 +943,7 @@ Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
 ### Gas Spore ###
 
-AC: 10 HD: 1 HP (CR 1) Move: 3'' XP: 15
+AC: 10 HD: 1 HP (CR 1) Move: 3'' XP: 15 Attacks: infection
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
 A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless Cure Disease is cast.
@@ -1143,92 +1143,92 @@ They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 8) Move: 9'' XP: 800
+AC: 11 HD: 6 (CR 8) Move: 9'' XP: 800 Attacks: snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
-In addition to their melee attack, their snake hair bites with poison (save allowed).
+In addition to their melee attack, their snake hair bites with venom (save allowed).
 
 ### Mimic ###
 
-AC 12 HD: 7--10 (CR 8--11) Move: 3'' XP: 800, 1100, 1400, 1700
+AC 12 HD: 7--10 (CR 8--11) Move: 3'' XP: 800, 1100, 1400, 1700 Attacks: pseudopod 3d4
 
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
 ### Minotaur ###
 
-AC: 13 HD: 6+4 (CR 6) Move: 12'' XP: 400
+AC: 13 HD: 6+4 (CR 6) Move: 12'' XP: 400 Attacks: gore d6, bite or weapon d6
 
 ### Mummy ###
 
-AC: 16 HD: 5+1 (CR 6) Move: 6'' XP: 600
+AC: 16 HD: 5+1 (CR 6) Move: 6'' XP: 600 Attacks: smash d12 (disease)
 
 They're immune to normal weapons, and magic weapons deal half damage.
 Their touch causes mummy rot --- wounds heal naturally at half rate, and magic healing fails --- until Remove Curse is cast on the victim.
 
 ### Ocher Jelly ###
 
-AC: 11 HD: 5 (CR 6) Move: 3'' XP: 400
+AC: 11 HD: 5 (CR 6) Move: 3'' XP: 400 Attacks: dissolve 2d6
 
 Their acid dissolves killed opponents (making Raise Dead nearly impossible).
 
 ### Ogre ###
 
-AC: 14 HD: 4+1 (CR 4) Move: 9'' XP: 120
+AC: 14 HD: 4+1 (CR 4) Move: 9'' XP: 120 Attacks: weapon d10
 
 They enslave captives (1--2 on d8) or simply eat them (3--8).
 Orgres themselves are sometimes enslaved by demons.
 
 ### Orc ###
 
-AC: 13 HD: 1 (CR 1) Move: 12'' XP: 15
+AC: 13 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
 
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and some tribes have a magic-using shaman.
 
 ### Owlbear ###
 
-AC 14 HD: 5 (CR 5) Move: 12'' XP: 240
+AC 14 HD: 5 (CR 5) Move: 12'' XP: 240 Attacks: claws d8 & d8, bite d8
 
 ### Pegasus ###
 
-AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) XP: 120
+AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) XP: 120 Attacks: hooves d6 & d6
 
 ### Purple Worm ###
 
-AC: 13 HD: 15 (CR 17) Move: 9'' XP: 3500
+AC: 13 HD: 15 (CR 17) Move: 9'' XP: 3500 Attacks: bite 2d6, sting d8 + venom
 
 Massive.
 They chew tunnels through bedrock.
 A to-hit roll of 4 higher than needed means the worm swallows its opponent whole (anything horse-size or smaller).
-Their tail spike poisons (save or die).
+Their tail spike envenoms (save or die).
 
 ### Rat, Sumatran ###
 
-AC: 12 HD: 1-1 (CR <1) Move: 12'' XP: 10
+AC: 12 HD: 1-1 (CR <1) Move: 12'' XP: 10 Attacks: bite d3 (disease)
 
 One in twenty Sumatran rat bites cause disease (save vs. poison).
 
 ### Rust Monster ###
 
-AC: 17 HD: 5 (CR 6) Move 12 XP: 400
+AC: 17 HD: 5 (CR 6) Move 12 XP: 400 Attacks: rust
 
 Hits from a rust monster instantly rust armor; hits against it rust weapons.
-Large amounts of metal attrack rust monsters.
+Large amounts of metal attract rust monsters.
 
 ### Shrieker ###
 
-AC 12 HD:3 (CR 3) Move: 1'' XP: 60
+AC 12 HD:3 (CR 3) Move: 1'' XP: 60 Attacks: alarm
 
 Shriekers are fungi that emit a noisy alarm for movement within 10' or light within 30'.
 Each round it sounds, their alarm attracts a wandering monster on 3 in 6.
 
 ### Skeleton ###
 
-AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' XP: 15
+AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) XP: 1100
+AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) XP: 1100 Attacks: touch d8 + level drain
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1236,21 +1236,21 @@ Anyone killed by a specter (or reduced to level 0) becomes one.
 
 ### Spider, Giant ###
 
-AC: 13 HD: 2+2 (CR 5) Move: 18'' XP: 240
+AC: 13 HD: 2+2 (CR 5) Move: 18'' XP: 240 Attacks: bite d8 + venom
 
 Save to avoid being stuck in their webs, and even then move only 3''.
 They nearly always surprise.
-Giant spider bites are highly poisonous.
+Giant spider bites are highly venomous.
 
 ### Stirge ###
 
-AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) XP: 30
+AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) XP: 30 Attacks: suck d3
 
-On a hit, a stirge inserts its blood-sucking probiscus into its opponent, and automatically deals damage each round.
+On a hit, a stirge inserts its blood-sucking proboscis into its opponent, and automatically deals damage each round.
 
 ### Tick, Giant ###
 
-AC: 15 HD: 3 (CR 4) Move: 3'' XP: 60
+AC: 15 HD: 3 (CR 4) Move: 3'' XP: 60 Attacks: suck 4 HP
 
 Giant ticks suck blood worth 4 HP damage per round after a successful hit.
 Fire forces them off a victim.
@@ -1258,7 +1258,7 @@ Disease caused by tick bites kill in 2d4 days, unless Cure Disease is cast.
 
 ### Toad, Giant ###
 
-AC: 12 HD 2+2 (CR 4) Move: 9'' XP: 120
+AC: 12 HD 2+2 (CR 4) Move: 9'' XP: 120 Attacks: bite d4+1, swallow
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
@@ -1266,14 +1266,14 @@ They surprise on 6 in 12.
 
 ### Troll ###
 
-AC: 15 HD: 6+3 (CR 8) Move: 12'' XP: 800
+AC: 15 HD: 6+3 (CR 8) Move: 12'' XP: 800 Attacks: claws d6 & d6, bite d10
 
 They regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
-AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) XP: 1100, 1400, 1700
+AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) XP: 1100, 1400, 1700 Attacks: bite d10 + level drain
 
 Only magic weapons hit them, and they regenerate 3 HP per round.
 When killed by weapons or magic, vampires return to their coffins in gaseous form.
@@ -1285,28 +1285,28 @@ Anyone killed by a vampire become one.
 
 ### Werewolf ###
 
-AC: 14 HD: 3 (CR 4) Move: 12'' XP: 120
+AC: 14 HD: 3 (CR 4) Move: 12'' XP: 120 Attacks: bite 2d4 (lycanthropy)
 
 Werewolves are only harmed by silver or magic weapons.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
 
-AC: 14 HD: 3 (CR 5) Move: 9'' XP: 240
+AC: 14 HD: 3 (CR 5) Move: 9'' XP: 240 Attacks: level drain
 
 Only magic or silver weapons harm them, and they're immune to sleep or charm spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
 
-AC: 16 HD: 4 (CR 6) Move: 24'' XP: 400
+AC: 16 HD: 4 (CR 6) Move: 24'' XP: 400 Attacks: level drain
 
 They're only harmed by magic or silver (half damage) weapons.
 They drain one class level per hit.
 
 ### Yellow Mold ###
 
-AC: N/A HD: N/A (CR 3) Move: 0'' XP: 60
+AC: N/A HD: N/A (CR 3) Move: 0'' XP: 60 Attacks: acid d6, spores
 
 If cut or punctured, it releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
@@ -1314,7 +1314,7 @@ Fire destroys it.
 
 ### Zombie ###
 
-AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30
+AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30 Attacks: weapon d8
 
 ## Treasure ##
 
