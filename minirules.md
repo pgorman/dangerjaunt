@@ -296,7 +296,47 @@ Charisma |  Maximum Henchmen | Loyalty Modifier
 16--17   |  6                | +2
 18       |  12               | +3
 
-## Magic-User Spells ##
+## Magic-User Spells & Magic ##
+
+### Spell Books ###
+
+New magic-users start the game with a spell book containing Read Magic, one spell rolled at random, and one spell chosen by the player.
+Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, has acquired a new spell book containing one chosen and one random spell of that level.
+Additional spells must be researched by the character, found in dusty dungeon vaults, or looted from the corpses of enemy casters.
+
+Woe for the magic-user who loses his spell books!
+The cost of recreating a spell book is equal to that of researching its spells, although the time is less and success assured.
+
+### Spell Research ###
+
+Magic-Users conduct research to create original spells not described in this volume.
+
+1. The player writes a spell description.
+2. The referee sets the level of the spell.
+3. The referee and player negotiate minor changes or clarifications to the spell description.
+4. The player commits the character's time and money.
+
+The minimum uninterrupted research time to create the spell equals the spell's level in weeks.
+During this period, the magic-user forgoes adventuring to sequester himself in his laboratory.
+For an equal number of game sessions, the player assumes the role of an alternate character or NPC henchman.
+
+The magic-user's chance of success depends upon how well he funds the research.
+Costs in lab glass, exotic substances, and consultations with sages can reach staggering totals, especially for high-level spells.
+For each 10% cumulative chance of success, the cost for first-level spells is 1,000 gp, second-level 2,000 gp, third 4,000 gp, fourth 8,000 gp, fifth 16,000 gp, and sixth-level spells cost 32,000 gp.
+
+At then end of the minimum number of weeks, the player rolls percentile dice to check the success or failure of the research.
+Success means the magic-user adds the spell to his spell books, and can share it (or not!) with other mages.
+Failure means the research drags on for at least one more week, at the end of which the player makes another roll.
+After a failure, the magic-user may increase funding to improve chances of success on the next check.
+
+### Scribing Scrolls ###
+
+The few days between delves into the dungeon allow a magic-user enough leisure to scribe one scroll.
+The cost of fast inks, scare quills, and blotting sand from distant shores depends upon the spell's level.
+A scroll with one first-level spell costs 100 gp.
+The cost doubles for each spell level, so scribing a sixth-level spell costs 3,200 gp.
+
+### Brewing Potions ###
 
 ### Magic-User Spells Level 1 ###
 
@@ -1331,9 +1371,9 @@ Some obscure their meaning with riddles or codes.
 A large hoard may contain magic items.
 The referee should roll to trade out gold pieces.
 
-- Each 100gp adds 10% chance of a minor magic item.
-- Each 1000gp adds 10% chance of a medium magic item.
-- Each 5000gp adds 10% chance of a major magic item.
+- Each 100 gp adds 10% chance of a minor magic item.
+- Each 1000 gp adds 10% chance of a medium magic item.
+- Each 5000 gp adds 10% chance of a major magic item.
 
 d8   | Minor Magic Item
 :---:|-------------------------------
@@ -1440,3 +1480,6 @@ d12   | Room Contents
 11    | Treasure & trick/trap
 12    | Treasure (concealed/hidden)
 
+## House Rules ##
+
+Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
