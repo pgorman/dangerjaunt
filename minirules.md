@@ -193,6 +193,7 @@ Descending AC  |  9 |  8 |  6 |  5 |  4 |  3 |  2 |  1
 
 Each new character starts the game with 3d6 x 10 gold pieces to buy equipment.
 One gold piece (gp) is worth 10 silver pieces (sp) or 100 copper pieces (cp).
+The referee may vary the cost and availability of items depending on locality.
 
 ### Armor ###
 
@@ -239,6 +240,8 @@ Stones (20) 1 gp
 Backpack 5 gp,
 Case (map/scroll) 3 gp,
 Crowbar 5 gp,
+Dog 20 gp,
+Falcon 20 gp,
 Flint and Steel 5 gp,
 Garlic 10 gp,
 Grappling Hook 5 gp,
@@ -267,7 +270,7 @@ Wolfsbane 10 gp
 
 Most weapons do 1d6 damage on a successful hit.
 A fighter wielding a martial weapons, such as a longsword, does 1d8 damage.
-Fighters who forgoe a shield in order to wield a two-handed weapons, such as a polearm, deal 1d1N0 damage.
+Fighters who forgoe a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
 
 ## Hirelings and Henchmen ##
 
@@ -281,20 +284,38 @@ Hirelings include guards, link-boys, bearers, sages, smiths, animal trainers, en
 Henchmen have personal loyalty to a player character.
 They work for a half-share of found treasure.
 Accordingly, they have a characters class, and gain experience.
-Henchmen tolerate greater risks than hirelings (but not abuse).
-Each henchman has a loyalty score (2d6), modified by the player character's charisma.
-Extreme situations or demands may trigger a loyalty check by the referee.
-A henchman who fails a loyalty check might not return for the next delve, might run away immediately, or might even turn against the player character --- biding time until the best opportunity for betrayal.
 
-Charisma |  Maximum Henchmen | Loyalty Modifier
-:-------:|:-----------------:|:--------------:
-3        |  1                | -3
-4--5     |  2                | -2
-6--8     |  3                | -1
-9--12    |  4                |  0
-13--15   |  5                | +1
-16--17   |  6                | +2
-18       |  12               | +3
+Henchmen tolerate greater risks than hirelings (but not abuse).
+Each henchman has a loyalty score.
+Initially, the loyalty score equals 2d6 plus the player character's charisma modifier.
+
+The henchman's loyalty score modifies morale checks.
+
+The referee may bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
+
+A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
+A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
+
+
+Player Character Charisma |  Max. Henchmen  | Loyalty Score Modifier
+:------------------------:|:---------------:|:-----------------------:
+3                         |  1              | -3
+4--5                      |  2              | -2
+6--8                      |  3              | -1
+9--12                     |  4              |  0
+13--15                    |  5              | +1
+16--17                    |  6              | +2
+18                        |  12             | +3
+
+Henchman Loyalty Score | Morale Check Modifier
+:---------------------:|:---------------------------------------------
+3 or less              | Malcontent. Desertion or betrayal inevitable.
+4--5                   | -2
+6--8                   | -1
+9--12                  |  0
+13--15                 | +1
+16--17                 | +2
+18+                    | Always stalwart. Morale never waivers.
 
 ## Magic-User Spells & Magic ##
 
@@ -780,6 +801,19 @@ This spell only functions on races that can be used for Player Characters (i.e.,
 ## Saving Throws ##
 
 Monsters save like fighters.
+
+## Morale ##
+
+Player characters never run unless the players decide they run.
+However, the sensitive nerves of henchman and hirelings, as well as monsters and non-player characters, may fail in the face of adversity.
+
+The referee decides when to check morale.
+A morale check might happen after the first wound, or after the first death, or when only a minority remain standing.
+Any round where one side clearly come off worse than the other threatens morale.
+
+The referee rolls 2d6 to test morale.
+A result of 6+ means they stay in the fight, though the referee might bump this target up or down a point or two based on circumstances.
+Remember to add the loyalty modifier when checking morale for henchmen.
 
 # Referee #
 
@@ -1382,10 +1416,6 @@ d8   | Minor Magic Item
 6--7 | Scroll
 8    | Wand
 
-Wand
-Wand
-Wand
-
 ### Potions ###
 
 Potions are single-use, although smelling and tasting for identification purposes does not expend a potion.
@@ -1406,7 +1436,7 @@ Typical potions include:
 Scrolls either contain magic-user spells, or offer a particular type of protection.
 Only magic-users understand spell scrolls, but anyone can read a protection scroll.
 Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
-Spell scrolls include 1--3 spells.
+Spell scrolls contain 1--3 spells.
 Typical scrolls include:
 
 1. Spell scroll: Light, Knock
@@ -1431,7 +1461,7 @@ Typical wands include:
 5. Wand of Magic Detection
 6. Wand of Enemy Detection
 
-## Staves ##
+### Staves ###
 
 Only clerics use some staves; other staves may be employed only by magic-users.
 Staves hold 3--30 charges.
@@ -1453,7 +1483,7 @@ Renders the magic item it hits permanently non-magical.
 Casts Light (without using a charge), Fireball, Lightning Bolt, Charm Person, Invisibility, Fly, or (once per day) Conjure Elemental.
 Strikes in melee at +1 to hit for 2d6 damage without expending a charge.
 
-## Rings ##
+### Rings ###
 
 Magic rings work only when worn on a finger, and only one may be worn on each hand.
 Ring may be worn by any character class.
