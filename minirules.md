@@ -1,11 +1,9 @@
-This is a minimal framework of rules for experienced players of fantasy roleplaying games.
+This framework concentrates fantasy roleplaying game rules for experienced players.
 It assumes you know that "3d6" means to sum three rolls of a six-sided die.
 It assumes you know that one player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 It assumes you know that the remaining players each take the role of an inexperienced but ambitious Player Character.
 
 Furthermore, these rules assume players want enough creative room for each campaign to grow through play into something unique from the last campaign.
-
-Finally, although a small number of pages, I like to think of these rules as "concentrated" rather than "abridged". These scant words strive to provide a full-flavored experience.
 
 # Characters #
 
@@ -34,8 +32,9 @@ Score  | Modifier
 
 ## Alignment ##
 
-Choose an Alignments: Law, Chaos, or Neutrality.
-Law promotes the order of human civilization, while Chaos favors a world beyond human reason.
+Choose an Alignment: Law, Chaos, or Neutrality.
+Law promotes the order of civilization, while Chaos favors a world beyond mortal reason.
+Law and Chaos do not necessarily neatly correspond to Good and Evil.
 
 ## Character Advancement ##
 
@@ -383,7 +382,7 @@ Range: referee's discretion; duration: 2d6 turns.
 
 #### 4. Light ####
 
-Light produces a light as bright as a torch with a radius of 20 feet around a person or object.
+Light produces a light as bright as a torch with a radius of 40 feet around a person or object.
 Range 12''; duration: 2 hours.
 
 #### 5. Read Magic ####
@@ -527,7 +526,7 @@ Fire spells and magical effects are negated in the vicinity of the wall.
 
 #### 6. Wizard Eye ####
 
-The caster conjures up an invisible, magical ``eye,'' that can move up to 240 feet from its creator.
+The caster conjures up an invisible, magical "eye," that can move up to 240 feet from its creator.
 It floats along as directed by the caster, at a rate of 120 feet per turn.
 Range: 24'', duration: 1 hour.
 
@@ -570,7 +569,7 @@ Range: 24'', duration: permanent until dispelled.
 
 Magic Jar rehouses the caster's life essence, intelligence, and soul into an object within 30 feet.
 
-Once within the magic ``jar,'' the caster can possess the bodies of other creatures and people within 120 feet of the jar who fail a saving throw.
+Once within the magic "jar," the caster can possess the bodies of other creatures and people within 120 feet of the jar who fail a saving throw.
 The caster can return his soul to the magic jar at any time.
 
 If a body he controls is slain, his life essence snaps back to the jar.
@@ -656,13 +655,13 @@ Other attackers suffer a -1 penalty to hit, and the caster gains +1 on saving th
 
 #### 4. Turn Undead ####
 
-Lawful Clerics ``turn'' undead, driving away the foul creatures or even destorying them outright.
+Lawful Clerics "turn" undead, driving away the foul creatures or even destorying them outright.
 
 When making a turning attempt, roll 2d6 and consult the table below.
 A result equal to or greater than the number shown means all undead flee for 3d6 rounds.
-``T'' means the undead creature is destroyed. 
-``D'' means the undead creature is destroyed. 
-`--'' means the undead is too powerful to turn.
+"T" means the undead creature is destroyed. 
+"D" means the undead creature is destroyed. 
+"--" means the undead is too powerful to turn.
 
 Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 :--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -776,9 +775,23 @@ Range: 48'', duration: 1 day.
 Raise Dead allows the Cleric to raise a corpse from the dead, provided it has not been dead too long.
 The normal time limit is 4 days, but for every caster level higher than 8$^{th}$, the time limit extends another 4 days.
 Characters with low constitution might not survive the ordeal; and even for those with a strong constitution, a period of two weeks is required before they can function normally.
-This spell only functions on races that can be used for Player Characters (i.e., ``human-like'').
+This spell only functions on races that can be used for Player Characters (i.e., "human-like").
 
 # Play #
+
+## Exploration ##
+
+"Exploration turns" last about ten times longer than combat turns.
+Each character takes one complex or two simple actions during a turn --- two moves, or a move and listening at a door, or rigging a pulley, etc.
+
+During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see given the lighting and environment, how long light sources burn before exhausting their fuel, and what sounds might carry to or from nearby monsters.
+
+Light Source     | Distance   | Duration
+-----------------|------------|----------
+Candle           | 10' radius | 1 hour
+Torch            | 40' radius | 1 hour
+Lantern          | 30' radius | 12 hours
+Bullseye Lantern | 80' cone   | 12 hours
 
 ## Encounters ##
 
@@ -794,11 +807,21 @@ This spell only functions on races that can be used for Player Characters (i.e.,
 	- Other
 4. Players declare actions
 5. Check monster (re)action
-6. Roll initiative
+6. Roll initiative (d6 per side)
 7. Repeat each turn as appropriate:
 	1. Check morale of non-player characters, hirelings, monsters
 	2. Missile fire
 	3. Melee
+
+## Monster (Re)actions ##
+
+Monster reactions may be modified by the situation, rumors about the player characters, bribes, player character charisma, allegiances or antipathies with other dungeon factions, etc.
+
+2d6    | Monster (Re)action
+:-----:|------------------------------
+2--6   | Hostile --- immediate attack!
+7--9   | Uncertain, wait and see, possibly receptive to bribes
+10--12 | Positive, possibly even helpful
 
 ## Saving Throws ##
 
@@ -1514,10 +1537,12 @@ d12   | Room Contents
 
 ## House Rules ##
 
-Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
 
 # Thanks & License #
 
 Thanks to Gary Gygax, Dave Arneson, Eric Holmes, Tom Moldvay, Matt Finch, Daniel Proctor, and James Raggi.
 
-This work is licensed under the Open Gaming License. You should have received a copy of the full license with this book. The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the entire Referee section.
+This work is licensed under the Open Gaming License.
+You should have received a copy of the full license with this book.
+The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the entire Referee section.

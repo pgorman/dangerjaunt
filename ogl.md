@@ -26,8 +26,10 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 System Reference Document. Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 
-These rules Copyright 2016, Paul Gorman.
-
 Swords & Wizardry Core Rules, Copyright 2008-2011, Matthew J. Finch.
 
 Labyrinth Lord Copyright 2007-2009, Daniel Proctor.
+
+Lamentations of the Flame Princess: Weird Fantasy Role-Playing Grindhouse Edition, Copyright 2011, LotFP, Author James Edward Raggi IV
+
+These rules Copyright 2016, Paul Gorman.
