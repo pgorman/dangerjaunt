@@ -5,6 +5,8 @@ It assumes you know that the remaining players each take the role of an inexperi
 
 Furthermore, these rules assume players want enough creative room for each campaign to grow through play into something unique from the last campaign.
 
+Finally, although a small number of pages, I like to think of these rules as "concentrated" rather than "abridged". These scant words strive to provide a full-flavored experience.
+
 # Characters #
 
 For each ability, roll 3d6 and record the total:
@@ -1512,4 +1514,10 @@ d12   | Room Contents
 
 ## House Rules ##
 
-Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+
+# Thanks & License #
+
+Thanks to Gary Gygax, Dave Arneson, Eric Holmes, Tom Moldvay, Matt Finch, Daniel Proctor, and James Raggi.
+
+This work is licensed under the Open Gaming License. You should have received a copy of the full license with this book. The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the entire Referee section.
