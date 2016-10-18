@@ -1,9 +1,9 @@
-This framework concentrates fantasy roleplaying game rules for experienced players.
+This book concentrates fantasy roleplaying game rules for experienced players.
 It assumes you know that "3d6" means to sum three rolls of a six-sided die.
 It assumes you know that one player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 It assumes you know that the remaining players each take the role of an inexperienced but ambitious Player Character.
 
-Furthermore, these rules assume players want enough creative room for each campaign to grow through play into something unique from the last campaign.
+Despite omissions for brevity, these rules include the tenpole elements that make the game familiar to players, and from which a referee can hang the creative elaborations that make their campaign unique.
 
 # Characters #
 
@@ -149,9 +149,9 @@ After attaining level 6, dwarfs suffer a 50% reduction in subsequent earned expe
 
 ## Attack Bonus ##
 
-All characters start at first level with an attack bonus of +1, which they add to all their d20 attack rolls.
+Player characters start at first level with an attack bonus of +1, which they add to their d20 attack rolls.
 Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4).
-Other classes gain an additional plus one at levels three, six, nine, twelve, and fifteen.
+Other classes gain an additional +1 at levels three, six, nine, twelve, and fifteen.
 A sixth-level cleric, for example, gets an attack bonus of +3.
 
 Monsters use an attack bonus equal to their hit dice.
@@ -270,17 +270,21 @@ Wolfsbane 10 gp
 ## Damage ##
 
 Most weapons do 1d6 damage on a successful hit.
-A fighter wielding a martial weapons, such as a longsword, does 1d8 damage.
-Fighters who forgoe a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
+A fighter wielding a martial weapon, such as a longsword, does 1d8 damage.
+Fighters who forgo a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
 
-## Hirelings and Henchmen ##
+## Henchmen, Hirelings, and Experts ##
 
 Henchmen and hirelings work for the player characters, although they are non-player characters controlled by the referee.
 
-Hirelings are normal humans with a single hit die.
+Hirelings are normal humans with a single hit die and no attack bonus --- regular folks looking to pick up a gold piece or two as a porter or link-boy.
 They work for a fixed rate, do not share in treasure, and gain no experience.
-They tolerate only limited risks, commensurate with their pay.
-Hirelings include guards, link-boys, bearers, sages, smiths, animal trainers, engineers, alchemists, and sailors.
+Commensurate with their wages, hirelings tolerate only limited risk.
+Employers bear the cost of any gear, weapons, and armor.
+
+Like hirelings, experts do a particular short-term job for an agreed fee.
+Unlike unskilled or semi-skilled hirelings, experts earn their pay by domain knowledge or craft mastery.
+Typical expert wages include: alchemist 250 gp/week, armorer 25 gp/week, animal trainer 125 gp/week, engineer 200 gp/week, mercenary (+1 attack bonus) 7 gp/week, sage 500 gp/week, ship captain 50 gp/week, ship navigaor 35 gp/week, ship crewman 3 gp/week, spy 500 gp/mission.
 
 Henchmen have personal loyalty to a player character.
 They work for a half-share of found treasure.
@@ -839,6 +843,17 @@ Any round where one side clearly come off worse than the other threatens morale.
 The referee rolls 2d6 to test morale.
 A result of 6+ means they stay in the fight, though the referee might bump this target up or down a point or two based on circumstances.
 Remember to add the loyalty modifier when checking morale for henchmen.
+
+## Grappling and Subdual ##
+
+One side can attempt to grapple and subdue the other side, rendering them incapacitated but otherwise unharmed.
+In a grapple, each side rolls all its hit dice and sums the rolls.
+The side with the highest total wins.
+
+For example, four 1 HD dwarfs try to grapple a 6 HD cave ape.
+The dwarfs roll 4d6 for a total of eleven.
+The ape rolls 6d6 for a total of seventeen.
+So, the dwarfs pile onto the simian, but it sends them flying.
 
 # Referee #
 
