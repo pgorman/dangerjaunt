@@ -1549,6 +1549,19 @@ d12   | Room Contents
 11    | Treasure & trick/trap
 12    | Treasure (concealed/hidden)
 
+### Adventure Checklist ###
+
+When planning a session, especially a short adventure, consider including the following elements:
+
+- Weird/unique/gross monsters (about three new types)
+- A small, non-linear dungeon map (about 8-12 rooms)
+- A trap or two
+- One or more toys that are not clearly beneficial or harmful, but could be either or just strange
+- A secret that might or might not be discovered (secret door, hidden treasure, etc.)
+- One or two hooks or hints for further adventures
+- Reason to use a funny voice, role-playing opportunity (non-hostile NPC, talking mirror, etc.)
+- Something bound to the location that might motivate the characters to return in the future
+
 ## House Rules ##
 
 Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
