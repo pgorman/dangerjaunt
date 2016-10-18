@@ -1536,6 +1536,28 @@ Ring may be worn by any character class.
 
 ## Adventure Design ##
 
+### General Scenarios ###
+
+1. Map the unknown
+2. Scout enemy outpost
+3. Pacify area for future development
+4. Destroy enemy threat
+5. Visit lost shrine (recover relic, remove curse, etc.)
+6. Complete quest
+7. Escape enemies
+8. Rescue prisoners
+9. Cross/close/open magic portal
+10. Locate the lost (lost expedition, lost ancient race, etc.)
+
+### General Settings ###
+
+1. Crypt, tomb, or necropolis
+2. Temple or shrine (possibly ancient or lost)
+3. City, town, or outpost
+4. Castle, keep, or tower
+5. Caves, cavern, sinkhole, ravine
+6. Mine, sewers, cthonic settlement
+
 ### Random Dungeon Room Stocking ###
 
 After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area with the following table.
