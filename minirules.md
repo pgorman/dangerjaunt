@@ -983,7 +983,6 @@ AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100 Attacks: fists 2d8 or
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
 Some grant wishes.
-Their melee attack deals 2d6 damage.
 
 ### Doppelganger ###
 
