@@ -1592,7 +1592,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 
 - To start, map and key all or most of the first two or three levels.
 - Make the maps non-linear, so the players tackle or bypass areas by choice.
-- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level!).
+- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level).
 - Remember vertical movement!
 	- Connect each level to several others, not just the levels immediately above and below.
 	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
@@ -1604,7 +1604,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 	- Each level holds one or two major magic items of note.
 	- Each level has one or two exceptionally interesting baddies.
 - Make a list of rumors about the above, and slowly feed them to the players.
-- Write a wandering monster table for each level, and include (lost, visiting, or raiding) monsters from the levels immediately above and below.
+- Write a wandering monster table for each level, and include lost, visiting, or raiding monsters from the adjacent levels.
 - Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
 - Add several outside entrances to the dungeon going to different levels.
 - Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
