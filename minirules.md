@@ -850,6 +850,7 @@ Level/HD | Saving Throw
 Rather than having a single saving throw score, some referee's prefer several types of saving throws.
 Saving throw types, if used, should reflect the sort of dangers characters encounter.
 These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
+Futhermore, some characters classes may be better at some types of saves (e.g. fighters get +2 to save versus action hero situations).
 
 ## Morale ##
 
