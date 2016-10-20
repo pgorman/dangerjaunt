@@ -1584,29 +1584,31 @@ When planning a session, especially a short adventure, consider including the fo
 - Reason to use a funny voice, role-playing opportunity (non-hostile NPC, talking mirror, etc.)
 - Something bound to the location that might motivate the characters to return in the future
 
-## Setting up a Megadungeon ##
+### Setting up a Megadungeon ###
 
-A megadungeon is at least ten levels deep, each level more perilous than the one above it, with dozens or hundreds of rooms per level.
-Such a dungeon acts as the tentpole of a whole campaign.
+The type of "lair" dungeons seen in adventure modules is composed of one or two dozen rooms spread over one to three vertical levels, and occupied by a handful of different monster types.
+A megadungeon, on the other hand, descends at least ten levels deep --- each level more perilous than the one above it --- with dozens or hundreds of rooms per level occupied by numerous monster factions.
+Such a dungeon acts as the tentpole of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
 
-- Map all or most of the first two or three levels to start.
-- Make the maps non-linear, so the players choose how to tackle or bypass the areas.
+- To start, map and key all or most of the first two or three levels.
+- Make the maps non-linear, so the players tackle or bypass areas by choice.
+- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level!).
 - Remember vertical movement!
 	- Connect each level to several others, not just the levels immediately above and below.
-	- Use sinkholes, slides, ladders, elevators, wells, and chimneys, not just boring stairs!
+	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
 - Populate each level with multiple cooperative or antagonistic monster factions.
-- Each level has a number of sub-areas with distinct features, possibly under the control of a monster faction.
-- Even for levels you don't fully map yet, make a list of which important items can be found on which level, like:
+- Divide each level into sub-areas with distinct features, under the control of a particular monster faction.
+- Even for levels you haven't finished mapping, make a list of important items found there, like:
 	- Most of the first level spells can be found on levels one and two, on dusty scrolls or in the hands of enemy spellcasters.
 	- Each level holds one or two magic swords, locked in forgotten vaults or possessed by the local anti-paladin.
 	- Each level holds one or two major magic items of note.
 	- Each level has one or two exceptionally interesting baddies.
 - Make a list of rumors about the above, and slowly feed them to the players.
-- Write a wandering monster table for each level, which may include monsters from the levels immediately above and below.
+- Write a wandering monster table for each level, and include (lost, visiting, or raiding) monsters from the levels immediately above and below.
 - Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
-- There should be multiple outside entrances to the dungeon going to different levels, although most of the entrances will be hidden.
-- Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-dead factions, or even geological changes to the dungeon (flooded areas, cave-ins, etc.).
-- The dungeon is a living thing --- new factions repopulate previously cleared areas, rival adventuring parties mess with stuff.
+- Add several outside entrances to the dungeon going to different levels.
+- Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
+- Make the dungeon is a living thing --- repopluate cleared areas with new factions, include signs that rival adventuring parties have been setting off traps or making deals with monsters, etc.
 
 ## House Rules ##
 
