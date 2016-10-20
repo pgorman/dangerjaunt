@@ -817,6 +817,10 @@ Bullseye Lantern | 80' cone   | 12 hours
 	2. Missile fire
 	3. Melee
 
+To score a successful hit during missle fire or melee, the sum of the attacker's d20 to-hit roll, base attack bonus, and any situational bonuses must equal or exceed the target's armor class.
+The attacker rolls damage after a hit, and deducts the damage rolled from the target's hit points.
+Any character or monster reduced to zero or fewer hit points dies.
+
 ## Monster (Re)actions ##
 
 Monster reactions may be modified by the situation, rumors about the player characters, bribes, player character charisma, allegiances or antipathies with other dungeon factions, etc.
@@ -829,7 +833,23 @@ Monster reactions may be modified by the situation, rumors about the player char
 
 ## Saving Throws ##
 
-Monsters save like fighters.
+Some effects, like the petrifaction caused by a medusa, call for a saving throw.
+A successful save avoids or reduces harm (e.g. "save for half damage").
+To make a save, the target must equal or exceed its saving throw score with a d20 roll.
+
+The saving throw score depends on the character's level.
+For saving throws by monsters, treat the monster as if it has levels equal to its hit dice.
+
+Level/HD | Saving Throw
+:-------:|:------------:
+1--3     | 14
+4--7     | 12
+8--11    | 9
+12+      | 6
+
+Rather than having a single saving throw score, some referee's prefer several types of saving throws.
+Saving throw types, if used, should reflect the sort of dangers characters encounter.
+These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
 
 ## Morale ##
 
@@ -1612,7 +1632,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 
 ## House Rules ##
 
-Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+Rich areas for house rules include death and dying (negative hit points? saving throw? disfigurement?), construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, languages, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, bandaging wounds, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
 
 # Thanks & License #
 
