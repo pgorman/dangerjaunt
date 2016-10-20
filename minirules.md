@@ -1584,6 +1584,30 @@ When planning a session, especially a short adventure, consider including the fo
 - Reason to use a funny voice, role-playing opportunity (non-hostile NPC, talking mirror, etc.)
 - Something bound to the location that might motivate the characters to return in the future
 
+## Setting up a Megadungeon ##
+
+A megadungeon is at least ten levels deep, each level more perilous than the one above it, with dozens or hundreds of rooms per level.
+Such a dungeon acts as the tentpole of a whole campaign.
+
+- Map all or most of the first two or three levels to start.
+- Make the maps non-linear, so the players choose how to tackle or bypass the areas.
+- Remember vertical movement!
+	- Connect each level to several others, not just the levels immediately above and below.
+	- Use sinkholes, slides, ladders, elevators, wells, and chimneys, not just boring stairs!
+- Populate each level with multiple cooperative or antagonistic monster factions.
+- Each level has a number of sub-areas with distinct features, possibly under the control of a monster faction.
+- Even for levels you don't fully map yet, make a list of which important items can be found on which level, like:
+	- Most of the first level spells can be found on levels one and two, on dusty scrolls or in the hands of enemy spellcasters.
+	- Each level holds one or two magic swords, locked in forgotten vaults or possessed by the local anti-paladin.
+	- Each level holds one or two major magic items of note.
+	- Each level has one or two exceptionally interesting baddies.
+- Make a list of rumors about the above, and slowly feed them to the players.
+- Write a wandering monster table for each level, which may include monsters from the levels immediately above and below.
+- Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
+- There should be multiple outside entrances to the dungeon going to different levels, although most of the entrances will be hidden.
+- Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-dead factions, or even geological changes to the dungeon (flooded areas, cave-ins, etc.).
+- The dungeon is a living thing --- new factions repopulate previously cleared areas, rival adventuring parties mess with stuff.
+
 ## House Rules ##
 
 Rich areas for house rules include construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
