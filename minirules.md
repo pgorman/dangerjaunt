@@ -1578,8 +1578,8 @@ Typical magic swords include:
 5. Sword +2
 6. Sword -1 (_Remove Curse_ to drop)
 
-Rarely, magic swords are enchanted to fulfill a special mission.
-They exercise their ego, or even full-blown artificial intelligence, to compel their wielder (saving throw) to disregard self-interest and personal safety in pursuit of a nearby opportunity to further their mission.
+Rarely, magic swords are imbued with an ego, or even full-blown artificial intelligence, which they exercise in pursuit of a special mission.
+Such blades compel their wielder (saving throw) to disregard self-interest and personal safety when presented with an opportunity to further their goal.
 
 ## Adventure Design ##
 
