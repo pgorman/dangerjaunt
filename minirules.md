@@ -322,13 +322,17 @@ Henchman Loyalty Score | Morale Check Modifier
 16--17                 | +2
 18+                    | Always stalwart. Morale never waivers.
 
-## Magic-User Spells & Magic ##
+## Magic ##
+
+Magic-users and clerics cast a number of spells per day limited by their level.
+Magic-users replenish their expended spells after a night's rest through study of their spell books.
+Clerics replenish their expended spells each morning by prayer.
 
 ### Spell Books ###
 
 New magic-users start the game with a spell book containing Read Magic, one spell rolled at random, and one spell chosen by the player.
 Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, has acquired a new spell book containing one chosen and one random spell of that level.
-Additional spells must be researched by the character, found in dusty dungeon vaults, or looted from the corpses of enemy casters.
+Additional spells must be researched by the character, found in dank dungeon vaults, or looted from the corpses of enemy casters.
 
 Woe for the magic-user who loses his spell books!
 The cost of recreating a spell book is equal to that of researching its spells, although the time is less and success assured.
@@ -363,6 +367,13 @@ A scroll with one first-level spell costs 100 gp.
 The cost doubles for each spell level, so scribing a sixth-level spell costs 3,200 gp.
 
 ### Brewing Potions ###
+
+While only casters invoke a spell scrolls, drinking a potion affects anyone.
+Clerics brew up to one potion per week to duplicate the effect of any spell they can cast that affects the caster.
+Magic-users brew potions with the help of an alchemist.
+Material costs of potions follow that of scrolls.
+
+## Magic-User Spells ##
 
 ### Magic-User Spells Level 1 ###
 
@@ -1554,6 +1565,21 @@ Ring may be worn by any character class.
 4. Ring of Three Wishes
 5. Ring of Spell Storing (fillable with up to six spells)
 6. Ring of Weakness (requires Remove Curse to take off)
+
+### Swords ###
+
+Only fighters wield magic swords.
+Typical magic swords include:
+
+1. Sword +1
+2. Sword +1, +2 vs. Lycanthropes
+3. Sword +1, +2 vs. Law
+4. Sword +1, +3 vs. Undead; casts _Light_ 1/day, glows when undead within 60'
+5. Sword +2
+6. Sword -1 (_Remove Curse_ to drop)
+
+Rarely, magic swords are enchanted to fulfill a special mission.
+They exercise their ego, or even full-blown artificial intelligence, to compel their wielder (saving throw) to disregard self-interest and personal safety in pursuit of a nearby opportunity to further their mission.
 
 ## Adventure Design ##
 
