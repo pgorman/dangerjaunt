@@ -1595,6 +1595,47 @@ Typical magic swords include:
 Rarely, magic swords are imbued with an ego, or even full-blown artificial intelligence, which they exercise in pursuit of a special mission.
 Such blades compel their wielder (saving throw) to disregard self-interest and personal safety when presented with an opportunity to further their goal.
 
+### Armor ###
+
+1. Shield +1
+2. Shield +2
+3. Chain +2
+4. Plate +1
+5. Gambeson +1, +4 save vs. falling, crushing, etc. (padding)
+6. Barding +2
+
+### Weapons ###
+
+1. d3 x 10 arrows +1
+2. Dagger +1
+3. Axe +1
+4. Spear +2
+5. Mace +2
+6. Warhammer +3, 60' throw & return
+
+### Miscellaneous Magic Items ###
+
+1. Bag of Holding
+2. Boots of Leaping
+3. Rope of Climbing
+4. Lamp of Three Wishes
+5. Crystal Ball
+6. Bracers of Defense
+7. Helm of Teleportation
+8. Gauntlets of Dexterity
+9. Girdle of Giant Strength
+10. Censer, Bowl, Brazier, or Stone of Elementals
+11. Horn of Blasting
+12. Chime of Opening
+13. Decanter of Endless water
+14. Helm of Language Comprehension
+15. Spectacles of Mesmerism
+16. Compass of Locating
+17. Flying Carpet
+18. Horseshoes of Speed
+19. Glass Eye of True Seeing
+20. Spade of Prodigious Excavation
+
 ## Adventure Design ##
 
 ### General Scenarios ###
