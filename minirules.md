@@ -1487,6 +1487,20 @@ d8   | Minor Magic Item
 6--7 | Scroll
 8    | Wand
 
+d6   | Medium Magic Items
+:---:|--------------------------
+1--3 | Magic sword
+4    | Armor
+5    | Staff
+6    | Ring
+
+d6   | Major Magic Items
+:---:|--------------------------
+1    | Magic sword
+2    | Staff
+3--4 | Ring
+5--6 | Miscellaneous magic
+
 ### Potions ###
 
 Potions are single-use, although smelling and tasting for identification purposes does not expend a potion.
