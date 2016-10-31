@@ -400,10 +400,11 @@ Range: referee's discretion; duration: 2d6 turns.
 Light produces a light as bright as a torch with a radius of 40 feet around a person or object.
 Range 12''; duration: 2 hours.
 
-#### 5. Read Magic ####
+#### 5. Read Magic/Languages ####
 
 Read Magic allows the caster to read magical writings on items and scrolls.
 Magical writing cannot be read without this spell.
+The caster also understands otherwise unknown, lost, ancient, or cryptic scribblings.
 Range: caster; duration: instant.
 
 #### 6. Sleep ####
@@ -431,9 +432,11 @@ The object of this spell, whether a person or a thing, becomes invisible to both
 If the Referee uses the invisibility rules unchanged, an invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to-hit.
 Range: 24''; duration: until dispelled or attack.
 
-#### 4. Knock ####
+#### 4. Knock/Lock ####
 
 Knock unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
+Lock is like Hold Portal, but permanent.
+Lock may be temporarily overridden by Knock, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the Lock caster.
 Range: 6''; duration: instant.
 
 #### 5. Locate Object ####
