@@ -917,12 +917,12 @@ HD\* | AC | Dmg/Rnd\*\*  | XP   | Treasure Value (GP)
 13   | 18 | 9.5)       | 2,300 | 9,200
 14   | 18 | 10.5       | 2,600 | 10,400
 15   | 19 | 10.5       | 2,900 | 11,600
-16   | 19 |            | 3,100 | 12,400
+16   | 19 | 12         | 3,100 | 12,400
 
 \* The treasure and XP award may match the values of a higher hit die monster, if the monster has more than one or two special abilities.
 
 \*\* Average per round damage over the first three or four rounds.
-A 6 HD monster might do d6+2 damage every round, or we might instead have it do d6 most rounds with a once-time d6+6 special attack.
+A 6 HD monster might do d6+2 damage every round, or it might do d6 most rounds with a 1/day d6+6 special attack.
 
 ### Baalroch Demon ###
 
@@ -1492,8 +1492,9 @@ d8   | Minor Magic Item
 
 d6   | Medium Magic Items
 :---:|--------------------------
-1--3 | Magic sword
-4    | Armor
+1--2 | Magic sword
+3    | Armor
+4    | Weapon
 5    | Staff
 6    | Ring
 
@@ -1678,7 +1679,7 @@ d12   | Room Contents
 
 ### Adventure Checklist ###
 
-When planning a session, especially a short adventure, consider including the following elements:
+When planning a session, especially a short adventure or lair-type dungeon, consider including the following elements:
 
 - Weird/unique/gross monsters (about three new types)
 - A small, non-linear dungeon map (about 8-12 rooms)
