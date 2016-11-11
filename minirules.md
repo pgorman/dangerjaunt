@@ -899,124 +899,85 @@ Referees can expand the roster of monsters by enhancing existing ones (fire-brea
 
 ### Monster and Encounter Design ###
 
-four rounds times d6 damage = 3.5 times 4 = 14
+This points-based system help to build encounters or design new monsters.
+It classifies encounters as roughly easy, hard, or deadly for a particular party.
+The point system can also assign treasure values for encounters.
 
-HD\* | AC | Dmg/Rnd\*\*  | XP   | Treasure Value (GP)
------|----|------------|------|--------------------
-<1   | 10 | d3 (2)     | 5    | 20
-1    | 11 | d6 (3.5)   | 15   | 60
-2    | 12 | d6 (3.5)   | 30   | 120
-3    | 13 | d6+1 or d8 (4.5) | 60   | 240
-4    | 13 | d6+1 or d8 (4.5) | 120  | 480
-5    | 14 | d6+2 or d10 (5.5) | 240  | 960
-6    | 14 | d6+2 or d10 (5.5) | 400  | 1,600
-7    | 15 | d12 (6.5)   | 600  | 2,400
-8    | 15 | d12 (6.5)   | 800  | 3,200
-9    | 16 | 7.5)       | 1,100 | 4,400
-10   | 16 | 8.5)       | 1,400 | 5,600
-11   | 17 | 8.5)       | 1,700 | 6,800
-12   | 17 | 9.5)       | 2,000 | 8,000
-13   | 18 | 9.5)       | 2,300 | 9,200
-14   | 18 | 10.5       | 2,600 | 10,400
-15   | 19 | 10.5       | 2,900 | 11,600
-16   | 19 | 12         | 3,100 | 12,400
+Calculate the point value of the player character party by summing points for the following:
 
-\* The treasure and XP award may match the values of a higher hit die monster, if the monster has more than one or two special abilities.
+- 1 point per hit die
+- 2 points per character with plate mail (or better)
+- 1 pt per spell caster maximum spell level (e.g. a magic-user who can cast third-level spells is 3 points)
 
-\*\* Average per round damage over the first three or four rounds.
-A 6 HD monster might do d6+2 damage every round, or it might do d6 most rounds with a 1/day d6+6 special attack.
+For example, a party with four third-level characters (a fighting-man in plate for 5 points, a magic-user for 5 points, a thief for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
 
-Monster/encounter brainstorming:
+Use the point value of the party to set a point budget for creating monster encounters.
 
-	What do I want?
-		I want a rule of thumb or simple algorithm for building encounters and knowing (roughly) if they're easy, hard, or deadly.
-		I want to easily build custom monsters, and be able to make encounters with them.
-	Inspired by fifth edition.
-		Fifth edition encounter building rules are too complicated to use manually, but great once I made a software utility.
-		https://devilghost.com/software/encountercalc5e/
-		The fifth edition chart for base monster statistics by hit dice (or CR?) is a great monster creation starting point.
-	Just wing it?
-		I wrote a software combat simulator that convinced me my intuition for combat deadliness is wrong as often as it's right.
-	Observations about encounter balance/difficulty:
-		- Monsters have weaker AC's than characters, or at least weaker than fighters.
-		- Monsters who can bypass fighters with missile weapons or area effects are extra deadly.
-		- Anything that makes monsters harder to hit (flying, invisibility, stronger AC) increases challenge.
-		- Anything that lets monsters bypass front-line fighters (missile fire, area effects) increases challenge.
-	Point values.
-	Look at &Magazine issue 13, page 50.
-	Score value of party:
-		- 1 pt per HD
-		- 2 pt per character with plate mail (or better)
-		- 1 pt per spell caster maximum spell level (a magic-user that can cast third-level spells is 3 pts)
+Percent of PC Points | Rough Difficulty of Encounter
+:-------------------:|------------------------------
+10--30%              | Easy: routine resource depletion
+40--60%              | Hard: a casualty is possible
+80%+                 | Deadly: good chance of one or more casualties
 
-		So, for example, a part of four third-level characters (f, m-u, t, c):
-			- 12 pt for hit dice
-			- 4 pt for spell levels
-			- 4 pt for plate
-			= 20 pt
+Calculate the point value of a monster encounter by summing the following:
 
-	Score value of encounter
-		- 1 pt per HD
-		- 1 pt per additional monster (i.e. more than one, so three monsters = 2 pt)
-		- 1 pt per additional attack per round (i.e. more than one, so claw/claw/bite = 2pt)
-		- 2 pt per monster that's hard to hit (flying, invisible, strong AC)
-		- 3 pt per attack that bypasses front-line (missile fire, area effects)
-		- 6 pt per very bad attack or permanent wreckage (save-or-die, turn to stone, level drain)
-		- Other special abilities 1 to 4 points each
+- 1 point per hit die
+- 1 point per additional monster (e.g. three monsters add 2 points)
+- 1 point per additional attack per round (e.g. claw/claw/bit adds 2 points)
+- 2 points per monster that's hard to hit (flying, invisible, strong AC)
+- 3 points per attack that bypasses front line (missile fire, area effects)
+- 6 points per very bad attack or permanent wreckage (save or die, turn to stone, level drain)
+- Other special abilities at 1--4 points each
 
-		Example:
-			Basilisk (6 HD = 6 pt, stone = 6 pt)
-			= 12 pt
-		Example:
-			Adult Red Dragon (9 HD = 9 pt, fly = 2 pt, breath = 3 pt, claw/claw/bite = 2 pt)
-			= 16 pt (or 18 pt if we double-up on "hard to hit" for its strong AC)
-		Example:
-			6 Orcs (6 HD = 6 pt, five extra monsters = 5 pt)
-			= 11 pt
+Encounter examples:
 
-	Rough challenge scale (monster points vs party points):
-
-		10-30% : easy, routine resource depletion
-		40-60% : hard, a casualty is possible
-		80%+   : deadly, good chance of one or more casualties
-
-	Would we also want to base treasure on these points?
-	Yes, but don't include the "additional monster" points.
-	<1 1  2   3   4   5   6     7     8     9     10    11    12
-	20 60 120 240 480 960 1,600 2,400 3,200 4,400 5,600 6,800 8,000
+- Basilisk (6 HD: 6 pt, stone: 6 pt) = 12 points total
+- Adult Red Dragon (9 HD: 9 pt, fly: 2 pt, breath: 3 pt, claw/claw/bite: 2 pt) = 16 points total, or 18 pt if we double-up on "hard to hit" for its strong AC
+- One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 4 pt) = 12 points total
 
 
-Five PC's: (5 HD * lvl) + spell lvl x 2 + (4 pt plate)
+Points | XP    | Treasure Value (GP)
+:-----:|-------|--------------------
+<1     | 5     | 20
+1      | 15    | 60
+2      | 30    | 120
+3      | 60    | 240
+4      | 120   | 480
+5      | 240   | 960
+6      | 400   | 1,600
+7      | 600   | 2,400
+8      | 800   | 3,200
+9      | 1,100 | 4,400
+10     | 1,400 | 5,600
+11     | 1,700 | 6,800
+12     | 2,000 | 8,000
+13     | 2,300 | 9,200
+14     | 2,600 | 10,400
+15     | 2,900 | 11,600
+16     | 3,100 | 12,400
+17     | 3,400 | 13,600
+18     | 3,700 | 14,800
+19     | 4,000 | 16,000
+20     | 4,300 | 17,200
+21     | 4,600 | 18,400
+22     | 4,900 | 19,600
+23     | 5,200 | 20,800
+24     | 5,500 | 22,000
+25     | 5,800 | 23,200
+26     | 6,100 | 24,400
 
-But roll d6 for each room; 1 is half as many points as usual, 6 is triple.
+We can use this point system to stock rooms in a megadungeon too.
+If our roll on the Room Contents table indicates a monster(s), roll on this table to find the difficulty multiplier.
+The value of the party times this multiplier gives us a budget for the room.
 
-The number of points in column 3 (about 0.4 times PC points) is a mildly risky but primarily resource-depleting encounter, and such encounters can easily be a couple of points more or less. A few encounters should be two or three times those points, and some half.
-
-d6   | Point Multiple
+d8   | Point Multiplier
 -----|----------------
-1    | x0.5
-2--4 | x1
-5    | x2
-6    | x3
-
-dungeon level    monster points per room (100% of party points)    x0.4
-1    11    4 (multiplied 0.4)
-2    16    6
-3    26    10
-4    32    12
-5    35    14
-6    40    16
-7    47    18
-8    52    20
-9    59    23
-10   64    26
-11   71    28
-12   76    30
-13   81    32
-14   84    34
-15   91    36
-16   96    38
-
+1    | x 0.2
+2    | x 0.3
+3--4 | x 0.4
+5    | x 0.6
+7    | x 1
+8    | x 3
 
 ### Baalroch Demon ###
 
