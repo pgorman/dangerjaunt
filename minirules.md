@@ -835,6 +835,17 @@ To score a successful hit during missle fire or melee, the sum of the attacker's
 The attacker rolls damage after a hit, and deducts the damage rolled from the target's hit points.
 Any character or monster reduced to zero or fewer hit points dies.
 
+## Evasion and Pursuit ##
+
+One side, having stumbled into a disadvantageous situation, may try to evade the encounter altogether, so long as the other side has not taken them by surprise.
+If it is monsters fleeing, the players decide whether to pursue them.
+When player characters flee monsters, the referee consults the Monster (Re)actions table;
+a result of "hostile" means the monsters give chase.
+
+
+
+If one side breaks from an active melee, ...
+
 ## Monster (Re)actions ##
 
 Monster reactions may be modified by the situation, rumors about the player characters, bribes, player character charisma, allegiances or antipathies with other dungeon factions, etc.
