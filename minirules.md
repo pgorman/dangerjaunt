@@ -842,7 +842,18 @@ If it is monsters fleeing, the players decide whether to pursue them.
 When player characters flee monsters, the referee consults the Monster (Re)actions table;
 a result of "hostile" means the monsters give chase.
 
+The faster side wins.
+If the pursuers have the higher movement rate, they catch the pursued.
+Those fleeing make good their escape, if they have a greater movement rate than their pursuers.
 
+The frenzy of the chase make the drafting or consulting of maps impossible.
+When player characters make a getaway through unfamiliar territory, they wind up in a room (selected by the referee) 1--3 full moves from where the chase began, and must reorient themselves.
+
+Players desperate for their characters to escape a faster and otherwise surefooted foe have one final option: a sacrifice.
+A player character with the slowest movement, perhaps through heroic self-sacrifice or perhaps after being tripped by another party member, stays behind so that the other may escape.
+The referee decides whether the sacrificed characters is captures (and eligible for later rescue) or eaten whole.
+After a sacrificial escape, the surviving player characters find themselves disoriented (as above) and split into 2--3 separate rooms.
+They must reorient themselves and reunite.
 
 If one side breaks from an active melee, ...
 
