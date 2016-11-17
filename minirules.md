@@ -345,11 +345,11 @@ The cost of recreating a spell book is equal to that of researching its spells, 
 
 ### Spell Research ###
 
-Magic-Users conduct research to create original spells not described in this volume.
+Magic-Users conduct research to create original spells.
 
 1. The player writes a spell description.
 2. The referee sets the level of the spell.
-3. The referee and player negotiate minor changes or clarifications to the spell description.
+3. Together, the referee and player negotiate minor changes or clarifications.
 4. The player commits the character's time and money.
 
 The minimum uninterrupted research time to create the spell equals the spell's level in weeks.
@@ -360,7 +360,7 @@ The magic-user's chance of success depends upon how well he funds the research.
 Costs in lab glass, exotic substances, and consultations with sages can reach staggering totals, especially for high-level spells.
 For each 10% cumulative chance of success, the cost for first-level spells is 1,000 gp, second-level 2,000 gp, third 4,000 gp, fourth 8,000 gp, fifth 16,000 gp, and sixth-level spells cost 32,000 gp.
 
-At then end of the minimum number of weeks, the player rolls percentile dice to check the success or failure of the research.
+After the minimum number of weeks, the player rolls percentile dice to check the success or failure of the research.
 Success means the magic-user adds the spell to his spell books, and can share it (or not!) with other mages.
 Failure means the research drags on for at least one more week, at the end of which the player makes another roll.
 After a failure, the magic-user may increase funding to improve chances of success on the next check.
@@ -385,31 +385,30 @@ Material costs of potions follow that of scrolls.
 
 #### 1. Charm Person ####
 
-Charm Person affects living bipeds of about human size or smaller, such as pixies, orcs, or hobgoblins.
-If the spell succeeds (saving throw allowed), the unfortunate creature falls under the caster's influence.
+Charm Person affects living bipeds of about human size or smaller, such as hobgoblins and dwarfs.
+Should the unfortunate creature fail its saving throw, it believes the caster a close, trusted friend.
 Range: 12''; duration: until dispelled.
 
 #### 2. Detect Magic ####
 
-The caster perceives in places, people, or things the presence of a magical spell or enchantment.
-Magical items or secretly placed charms may be discovered with this spell.
+The caster senses enchantments on places, people, or things.
+This reveals any magic items secreted nearby.
 Range: 6''; duration: 20 minutes.
 
 #### 3. Hold Portal ####
 
-Hold Portal magically holds a door or gate in position for the spell's duration (or until dispelled).
-Creatures with magic resistance can shatter the spell without much effort.
+Hold Portal magically freezes the position of a door or gate.
+Creatures with magic resistance unhinge the spell with minor effort.
 Range: referee's discretion; duration: 2d6 turns.
 
 #### 4. Light ####
 
-Light produces a light as bright as a torch with a radius of 40 feet around a person or object.
+Light illuminates with the brightness of a torch an area with a radius of 40 feet around a person or object.
 Range 12''; duration: 2 hours.
 
 #### 5. Read Magic/Languages ####
 
-Read Magic allows the caster to read magical writings on items and scrolls.
-Magical writing cannot be read without this spell.
+Only the Read Magic spell allows a caster to decipher mystical writing on items and scrolls.
 The caster also understands otherwise unknown, lost, ancient, or cryptic scribblings.
 Range: caster; duration: instant.
 
@@ -423,7 +422,7 @@ It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice ea
 
 #### 1. Detect Invisibility ####
 
-Caster perceives invisible creatures and objects.
+The caster perceives invisible creatures and objects.
 Range: 1''/caster level; duration: 1 hour.
 
 #### 2. ESP ####
@@ -435,7 +434,7 @@ Range: 6''; duration: 2 hours.
 #### 3. Invisibility ####
 
 The object of this spell, whether a person or a thing, becomes invisible to both normal vision and darkvision.
-If the Referee uses the invisibility rules unchanged, an invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to-hit.
+An invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to hit.
 Range: 24''; duration: until dispelled or attack.
 
 #### 4. Knock/Lock ####
@@ -453,8 +452,8 @@ Range: 9''; duration: 1 minute per level.
 
 #### 6. Phantasmal Force ####
 
-This spell creates a realistic illusion.
-A viewer who believes the illusion (save vs. spell) can take damage from it.
+This spell paints a realistic illusion.
+Those who behold and believe the illusion (save vs. spell) suffer real damage from any phantasmal assaults.
 The illusion disappears when hit (AC 10).
 Range: 24''; duration: until dispelled.
 
@@ -481,20 +480,20 @@ Range: 24'', duration: instant.
 
 #### 4. Fly ####
 
-Fly grants the power of flight, with a movement rate of 120 feet per round.
-The Referee rolls for the duration of the spell without disclosing the result to the Player.
+Soar with a movement rate of 120 feet per round.
+The referee rolls the duration of the spell without disclosing the result to the player.
 Range: touch, duration: d6 turn + 1 turn/level.
 
 #### 5. Lightning Bolt ####
 
-A ten foot wide bolt of lightning extends 60 feet from the fingertip of the caster.
+A ten foot wide bolt of lightning arcs 60 feet from the fingertip of the caster.
 Anyone in its path suffers 1d6 points of damage per level of the caster, though a successful saving throw halves damage.
 The bolt always extends 60 feet, even if it must ricochet backward from something that blocks its path.
 Range: 6'', duration: instant.
 
 #### 6. Water Breathing ####
 
-Water Breathing grants the ability to breathe underwater.
+Water Breathing imbues the target's lungs with the ability to wring oxygen from water.
 Range: 3'', duration: 2 hours.
 
 ### Magic-User Spells Level 4 ###
@@ -646,7 +645,7 @@ The stalker cannot be banished by Dispel Magic; it must be killed in order to en
 
 Reincarnation summons a dead character's soul.
 The soul inhabits a new body of the same alignment as the deceased.
-The Referee chooses the type of body.
+The referee chooses the type of body.
 Range: touch, duration: instant.
 
 #### 6. Stone/Flesh ####
@@ -704,7 +703,7 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 
 #### 1. Bless\* ####
 
-The recipient gets a +1 bonus to all attack rolls and, if the target is not a Player Character, improved overall morale.
+The recipient gets a +1 bonus to all attack rolls and, if the target is not a player character, improved overall morale.
 Range: touch, duration: 1 hour.
 
 #### 2. Hold Person ####
@@ -778,7 +777,7 @@ Range: 3'', duration: 1 hour.
 
 Higher powers grant answers to three questions the caster poses.
 Higher powers don't like being constantly interrogated by mere mortals, so the spell should be limited to one casting per week or so.
-The Referee may rule that a cleric casts a double strength Commune spell composed of six questions once per year.
+The referee may rule that a cleric casts a double strength Commune spell composed of six questions once per year.
 
 #### 2. Dispel Evil\* ####
 
@@ -799,7 +798,7 @@ Range: 48'', duration: 1 day.
 Raise Dead allows the Cleric to raise a corpse from the dead, provided it has not been dead too long.
 The normal time limit is 4 days, but for every caster level higher than 8$^{th}$, the time limit extends another 4 days.
 Characters with low constitution might not survive the ordeal; and even for those with a strong constitution, a period of two weeks is required before they can function normally.
-This spell only functions on races that can be used for Player Characters (i.e., "human-like").
+This spell only functions on races that can be used for player characters (i.e., "human-like").
 
 # Play #
 
@@ -1412,7 +1411,10 @@ Orgres themselves are sometimes enslaved by demons.
 AC: 13 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
 
 They fight at -1 to hit in sunlight.
-Leaders have more hit dice, and some tribes have a magic-using shaman.
+Leaders have more hit dice, and magic-using shamen haunt some tribes.
+
+Orcs are typically pig-faced and green of skin.
+Reports of stag-headed and cock-headed orcs remain in question, since orcs love masks as much as they love cruelty.
 
 ### Owlbear ###
 
