@@ -90,7 +90,7 @@ Clerics do not gain additional spells after level 10.
 
 ## Clerics ##
 
-Clerics are militant religious zealots or hunters of the undead.
+Clerics are militant crusaders, jovial friars, or cunning hunters of the undead.
 
 Each day, they pray for particular spells from their spell list.
 At any point during play, a cleric may swap out a prepared spell for the Turn Undead spell.
@@ -101,16 +101,20 @@ At ninth level, clerics establish a religious order of their own, attract devote
 
 ## Fighters ##
 
+Whether seasoned soldier, retired gladiator, or haughty duelist, a fighter lives by martial prowess.
+
 Fighters use any weapons or armor.
 
 At ninth level, fighters may become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
 
 ## Magic-Users ##
 
-Magic-users wear no armor, and lack expertise in any weapon demanding more skill or strength than a simple dagger.
+Necromancers, mad scientists, and devil wranglers harness arcane energies for their own occult purposes.
 
-Each day, magic-users wrestle incantations from the pages of spell books into their brains.
-A cast spell escapes the magic-user's mind completely, unable to be cast again without further sleep and study.
+These magic-users wear no armor, and lack expertise in any weapon demanding more skill or strength than a simple dagger.
+
+Magic-users begin their day by wrestling incantations from the pages of spell books into their brains.
+Once cast, a spell escapes the magic-user's mind completely, unusable a second time without further sleep and study.
 
 ## Thieves ##
 
@@ -120,7 +124,9 @@ Thieves know five broad skills, with each skill rated between one and six.
 To successfully use a skill, the player must roll that score or lower on a d6.
 New thief characters start with a 1 in all skills, plus two points the player may assign as desired.
 Each time the thief gains a level, the player assigns one additional point to a skill.
-No skill can exceed five in six.
+
+A d6 roll equal to or lower than the skill score indicates success.
+For skills with a score of six, roll two dice; a failure occurs only when both dice come up sixes.
 
 - Stealth (hide in shadows, move silently)
 - Acrobatics (climbing, backflips, tightrope walking)
@@ -158,11 +164,11 @@ Monsters use an attack bonus equal to their hit dice.
 
 ## Armor Class, Encumbrance, Wandering Monsters ##
 
-Of any piece of standard gear, armor is the heaviest and most mechanically important.
-We simplify encumbrance by making armor the primary factor for encumbrance and movement.
+Of all pieces of standard gear, armor is the heaviest and most mechanically important.
+This makes armor the primary factor for encumbrance and movement.
 
-However, if the characters haul something very bulky or heavy, movement drops to the next lower movement tier.
-A fighting-man in plate dragging a statue, for example, falls to 3''.
+However, when a character hauls something very bulky or heavy, movement drops to the next lower movement tier.
+A fighter in plate dragging a statue, for example, falls to 3''.
 
 Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
 
@@ -183,7 +189,7 @@ Plate & shield   | 18 | 6''           | 4 in 6
 +Encumbered      |    | 3''           | 5 in 6
 
 In the ascending armor class system (shown above), a higher AC indicates better protection.
-The traditional descending AC system has better armor with lower numbers.
+The traditional descending AC system has lower numbers for better armor.
 Use the table below for reference, or calculate the difference from 19.
 
 Ascending AC   | 10 | 11 | 13 | 14 | 15 | 16 | 17 | 18
@@ -292,7 +298,7 @@ Accordingly, they have a characters class, and gain experience.
 
 Henchmen tolerate greater risks than hirelings (but not abuse).
 Each henchman has a loyalty score.
-Initially, the loyalty score equals 2d6 plus the player character's charisma modifier.
+Initially, the loyalty score equals d6+7, plus the player character's charisma modifier.
 
 The henchman's loyalty score modifies morale checks.
 
@@ -814,7 +820,7 @@ Bullseye Lantern | 80' cone   | 12 hours
 ## Encounters ##
 
 1. Surprise? Base chance of 1--2 in 6. Check both sides, if appropriate.
-2. Determine encounter distance based on surprise.
+2. Set encounter distance based on surprise (if not dictated by environment):
 	- If surprised: d4 x 10' (melee distance)
 	- Not surprised: (d6 + 4) x 10'
 3. Each side that is not surprised has the options:
@@ -850,12 +856,10 @@ The frenzy of the chase makes drafting or consulting maps impossible.
 When player characters make a getaway through unfamiliar territory, they wind up in a room (selected by the referee) 1--3 full moves from where the chase began, and must reorient themselves.
 
 Players desperate for their characters to escape a faster foe have one final option: a sacrifice.
-A player character with the slowest movement, perhaps through heroic self-sacrifice or perhaps after being tripped by another party member, stays behind so that the others' escape.
+A player character with the slowest movement, perhaps through heroic self-sacrifice or perhaps after being tripped by another party member, stays behind so that the others escape.
 The referee decides whether the sacrificed characters is captured (and eligible for later rescue) or eaten whole.
 The remaining player characters find themselves disoriented (as above) and split into 2--3 separate rooms.
 They must reorient themselves and reunite.
-
-If one side breaks from an active melee, ...
 
 ## Monster (Re)actions ##
 
@@ -931,7 +935,7 @@ Calculate the point value of the player character party by summing points for th
 - 2 points per character with plate mail (or better)
 - 1 pt per spell caster maximum spell level (e.g. a magic-user who can cast third-level spells is 3 points)
 
-For example, a party with four third-level characters (a fighting-man in plate for 5 points, a magic-user for 5 points, a thief for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
+For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a thief for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
 
 Use the point value of the party to set a point budget for creating monster encounters.
 
