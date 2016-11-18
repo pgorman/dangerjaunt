@@ -504,8 +504,8 @@ Range: 3'', duration: 2 hours.
 
 #### 1. Charm Monster ####
 
-Charm Monster operates in the same manner as Charm Person, but affects any form of animal or creature.
-For monsters 3 HD or fewer, it affects up to 3d6 individuals.
+Charm Monster acts like Charm Person, but affects any creature.
+For monsters 3 HD or fewer, it charms 3d6 individuals.
 Range: 6'', duration: until dispelled.
 
 #### 2. Confusion ####
@@ -647,15 +647,14 @@ Dispel Magic does not banish the stalker; kill it to end its mission.
 
 #### 5. Reincarnation ####
 
-Reincarnation summons a dead character's soul.
-The soul inhabits a new body of the same alignment as the deceased.
-The referee chooses the type of body.
+Reincarnation snatches a soul from death, and wraps it in a living body.
+The type of body exceeds the caster's control (referee's choice!), but its alignment matches the soul's.
 Range: touch, duration: instant.
 
 #### 6. Stone/Flesh ####
 
 This spell transforms flesh into stone or stone into flesh, as desired by the caster.
-A successful saving throw permits the victim to avoid being turned into a stone statue.
+The target avoids petrification with a successful saving throw.
 Range: 12'', duration: permanent.
 
 ## Cleric Spells ##
@@ -666,13 +665,13 @@ An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. Ca
 
 #### 1. Cure Light Wounds\* ####
 
-This spell cures 1d6+1 hit points of damage.
+This spell heals 1d6+1 hit points of damage.
 Range: touch, duration: instant.
 
 #### 2. Detect Evil\* ####
 
-The caster detects evil creatures, or those with evil enchantments, intentions, thoughts, or auras within the spell's range.
-Things like poison are not inherently evil, and cannot be detected by this spell.
+The caster detects any evil creatures within range, or individuals with evil enchantments, intentions, thoughts, or auras.
+Things like poison are not inherently evil, and not detected.
 Range: 12'', duration: 1 hour.
 
 #### 3. Protection from Evil\* ####
@@ -682,13 +681,10 @@ Other attackers suffer a -1 penalty to hit, and the caster gains +1 on saving th
 
 #### 4. Turn Undead ####
 
-Lawful Clerics "turn" undead, driving away the foul creatures or even destorying them outright.
+Lawful Clerics "turn" undead, driving away the abominations or destroying them outright.
 
-When making a turning attempt, roll 2d6 and consult the table below.
+When attempting to turn the undead, roll 2d6 and consult the table below.
 A result equal to or greater than the number shown means all undead flee for 3d6 rounds.
-"T" means the undead creature is destroyed. 
-"D" means the undead creature is destroyed. 
-"--" means the undead is too powerful to turn.
 
 Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 :--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -703,51 +699,52 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 9         |  -- | --  | --  | --  | --  | 12  | 11  | 9   | 7   | 5
 10+       |  -- | --  | --  | --  | --  | --  | 12  | 11  | 9   | 7
 
+"T" means the undead are turned. "D" means the undead are destroyed. "--" means the undead is too powerful to turn.
+
 ### Cleric Spells Level 2 ###
 
 #### 1. Bless\* ####
 
-The recipient gets a +1 bonus to all attack rolls and, if the target is not a player character, improved overall morale.
+The recipient gets a +1 bonus to all attack rolls and morale checks.
 Range: touch, duration: 1 hour.
 
 #### 2. Hold Person ####
 
-The caster targets either 1d4 persons (with the same parameters as Charm Person; saving throw applies) or a single creature who must make their save at a -2 penalty.
+The caster influences either 1d4 persons (with the same stipulations as Charm Person) or a single person who saves at -2.
 Range: 18'', duration: 90 minutes.
 
 #### 3. Silence 15' Radius ####
 
-The caster may target a fixed location or a moving/living thing.
 Nothing within fifteen feet of the target makes a sound.
+If cast on a moving thing, like a person, the effect follows.
 Range: 18'', duration: 2 hours.
 
 #### 4. Speak with Animals ####
 
-The caster can speak with animals within range.
-The animals might assist him, and they will not attack him or his party (unless he says something particularly offensive).
+The caster can converse with animals.
+The animals might or might not be helpful, but they do refrain from attacking unless the caster says something grossly offensive.
 Range: 3'', duration: 1 hour.
 
 ### Cleric Spells Level 3 ###
 
 #### 1. Cure Disease\* ####
 
-Cure Disease cures the recipient of all diseases --- including those magically inflicted.
+Cure Disease cures the recipient of any disease, magical or natural.
 Range: touch, duration: instant.
 
 #### 2. Growth of Animals ####
 
-Growth of Animals causes 1d6 normal creatures to immediately grow to giant size.
-The affected creatures attack as per a giant version of the normal animal.
+The spell instantly swells d6 creatures to several times (3d4) their natural size, with corresponding increases in hit dice.
 Range: 12'', duration: 2 hours.
 
 #### 3. Remove Curse ####
 
-This spell removes one curse from a person or object.
+This spell undoes one curse afflicting a person or object.
 Range: touch, duration: instant.
 
 #### 4. Speak with Dead ####
 
-The cleric sends three questions to a recently deceased spirit.
+The cleric whispers three questions to a recently deceased spirit, and get answers.
 Clerics of less than seventh level can only contact those who died within the last three days.
 Clerics of less than eleventh level can only contact those who died within the last three months.
 Answers from spirits often come as riddles or in an otherwise cryptic form.
@@ -756,7 +753,7 @@ Answers from spirits often come as riddles or in an otherwise cryptic form.
 
 #### 1. Cure Serious Wounds\* ####
 
-Cure Serious Wounds cures 3d6+3 HP.
+Cure Serious Wounds heals 3d6+3 hit points.
 Range: touch, duration: instant.
 
 #### 2. Neutralize Poison ####
@@ -780,21 +777,20 @@ Range: 3'', duration: 1 hour.
 #### 1. Commune ####
 
 Higher powers grant answers to three questions the caster poses.
-Higher powers don't like being constantly interrogated by mere mortals, so the spell should be limited to one casting per week or so.
-The referee may rule that a cleric casts a double strength Commune spell composed of six questions once per year.
+Higher powers resent constant interrogation by mortals, tolerating only about one communication per week (without divine irritation).
+A cleric can cast a double strength Commune spell composed of six questions once per year.
 
 #### 2. Dispel Evil\* ####
 
 Dispel Evil works against items, spells, or agents of Evil.
-It also functions against evil sendings, possibly including dreams or supernatural hunting-beasts.
+It also disrupts evil sendings, like dreams or supernatural hunting-beasts.
 Range: 3'', duration: 10 minutes.
 
 #### 3. Insect Plague ####
 
 This spell only works outdoors.
-A storm of insects gathers, and goes wherever the caster directs.
-The cloud is approximately 8,000 cubic feet (20' x 20' x 20').
-Any creature with fewer than 2 HD exposed to the cloud of insects flees in terror (no saving throw).
+Insects rush to join a buzzing, clicking 8,000 cubic foot biomass (20' x 20' x 20'), and swarm where the caster directs.
+Any creature of fewer than 2 HD flees the creeping storm in terror (no saving throw).
 Range: 48'', duration: 1 day.
 
 #### 4. Raise Dead\* ####
