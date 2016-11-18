@@ -353,15 +353,15 @@ Magic-Users conduct research to create original spells.
 4. The player commits the character's time and money.
 
 The minimum uninterrupted research time to create the spell equals the spell's level in weeks.
-During this period, the magic-user forgoes adventuring to sequester himself in his laboratory.
+During this period, the magic-user forgoes adventuring to sequester herself in her laboratory.
 For an equal number of game sessions, the player assumes the role of an alternate character or NPC henchman.
 
-The magic-user's chance of success depends upon how well he funds the research.
+The magic-user's chance of success depends upon how well she funds the research.
 Costs in lab glass, exotic substances, and consultations with sages can reach staggering totals, especially for high-level spells.
 For each 10% cumulative chance of success, the cost for first-level spells is 1,000 gp, second-level 2,000 gp, third 4,000 gp, fourth 8,000 gp, fifth 16,000 gp, and sixth-level spells cost 32,000 gp.
 
 After the minimum number of weeks, the player rolls percentile dice to check the success or failure of the research.
-Success means the magic-user adds the spell to his spell books, and can share it (or not!) with other mages.
+Success means the magic-user adds the spell to her spell books, and can share it (or not!) with other mages.
 Failure means the research drags on for at least one more week, at the end of which the player makes another roll.
 After a failure, the magic-user may increase funding to improve chances of success on the next check.
 
@@ -522,7 +522,7 @@ Range: 12'', duration: 2 hours.
 
 #### 3. Dimension Door ####
 
-The caster creases the universe to slip himself, an object, or another being from one precise point within the spell's range to another such point without travelling through the space between.
+The caster creases the universe to slip herself, an object, or another being from one precise point within the spell's range to another such point without travelling through the space between.
 Range: 1'' casting, 36'' teleport; duration: instant.
 
 #### 4. Polymorph Self or Polymorph Other ####
@@ -538,7 +538,7 @@ This lasts for one hour plus one additional hour for each caster level.
 
 #### 7. Wall of Fire or Wall of Ice ####
 
-The caster announces which form he chooses when casting.
+The caster announces which form she chooses when casting.
 
 Wall of Fire ignites a wall that keeps burning while the caster concentrates on it.
 Creatures with three or fewer hit dice cannot pass through the wall, and no creature sees through it.
@@ -577,7 +577,7 @@ Range: 24'', duration: until dispelled.
 #### 3. Contact Higher Plane ####
 
 The caster psychically petitions planes, powers, and geometries of the beyond to ask affirmative or negative questions.
-The spell's effectiveness and peril depends on how distantly the caster chooses to project his mind.
+The spell's effectiveness and peril depends on how distantly the caster chooses to project her mind.
 
 Plane | Insanity | Right  | Wrong
 :----:|:--------:|:------:|:------:
@@ -624,26 +624,26 @@ In either case, the arrival is 1d4 x 10 feet low or high.
 
 #### 1. Control Weather ####
 
-The caster can summon or stop rainfall, tornadoes, create unusually high or low temperatures, clear the sky or summon clouds into being.
+The caster calls down rain or drains it away, parches the ground or freezes the air, calms the waves or swirls up a cyclone.
 
 #### 2. Disintegrate ####
 
-The caster atomizes one specific target --- a door, a peasant, a statue --- to dust.
-Magical materials are not disintegrated, and living creatures (such as the aforementioned peasant) get a saving throw.
-The Disintegrate spell cannot be dispelled.
+The caster atomizes one specific target --- a door, a peasant, a statue --- into a scant shower of dust.
+Magical materials ignore disintegration, and living creatures get a saving throw.
+Dispel Magic fails to restore the pile of dust to its original form.
 Range: 6'', duration: permanent.
 
 #### 3. Geas ####
 
-If the victim fails his saving throw, the caster sets a task for him.
-A victim who ignores the task altogether will die.
+The caster imposes a mission on the subject, winds him up and (failing a saving throw) speeds him on his course.
+A victim who ignores the task altogether slowly withers and dies.
 Range: 3'', duration: until complete.
 
 #### 4. Invisible Stalker ####
 
 This spell summons an Invisible Stalker with 8 HD.
-The stalker performs one task as commanded by the caster, regardless of how long the task takes or how far the stalker must travel.
-The stalker cannot be banished by Dispel Magic; it must be killed in order to end its mission.
+The stalker completes one task by command of the caster, regardless of how long, twisted, or bloody a road it must travel to reach that goal.
+Dispel Magic does not banish the stalker; kill it to end its mission.
 
 #### 5. Reincarnation ####
 
@@ -772,7 +772,7 @@ Range: 1'', duration: 2 hours.
 #### 4. Speak with Plants ####
 
 The caster can speak to and understand the replies of plants.
-Plants obey his commands as far as they are able (e.g. --- twisting or bending aside to ease his passage, etc.).
+Plants obey commands as far as they are able (e.g. --- twisting or bending aside to ease passage, etc.).
 Range: 3'', duration: 1 hour.
 
 ### Cleric Spells Level 5 ###
