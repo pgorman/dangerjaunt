@@ -420,49 +420,53 @@ It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice ea
 
 ### Magic-User Spells Level 2 ###
 
-#### 1. Detect Invisibility ####
-
-The caster perceives invisible creatures and objects.
-Range: 1''/caster level; duration: 1 hour.
-
-#### 2. ESP ####
+#### 1. ESP ####
 
 The caster detects the thoughts of other beings.
 The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
 Range: 6''; duration: 2 hours.
 
-#### 3. Invisibility ####
+#### 2. Invisibility/Detect Invisibility  ####
 
-The object of this spell, whether a person or a thing, becomes invisible to both normal vision and darkvision.
+The object of Invisiblity, whether a person or a thing, becomes invisible to both normal vision and darkvision.
 An invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to hit.
 Range: 24''; duration: until dispelled or attack.
 
-#### 4. Knock/Lock ####
+Detect Invisibility reveals invisible creatures and objects to the caster.
+Range: 1''/caster level; duration: 1 hour.
+
+#### 3. Knock/Lock ####
 
 Knock unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
 Lock is like Hold Portal, but permanent.
 Lock may be temporarily overridden by Knock, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the Lock caster.
 Range: 6''; duration: instant.
 
-#### 5. Locate Object ####
+#### 4. Locate Object ####
 
 This spell directs the caster (as the crow flies) toward an object the caster describes.
 The caster must have seen the object or an object of its general type: stairs, gold, etc.
 Range: 9''; duration: 1 minute per level.
 
-#### 6. Phantasmal Force ####
+#### 5. Phantasmal Force ####
 
 This spell paints a realistic illusion.
 Those who behold and believe the illusion (save vs. spell) suffer real damage from any phantasmal assaults.
 The illusion disappears when hit (AC 10).
 Range: 24''; duration: until dispelled.
 
+#### 6. Web ####
+
+Web weaves ten cubic feet of strands that stick any creature of roughly human strength for 2d4 turns and any creature of giant strength for two rounds.
+Flame destroys the web, burning anyone trapped for d6 damage.
+Range: 10'; duration: 8 hours.
+
 ### Magic-User Spells Level 3 ###
 
 #### 1. Clairvoyance/Clairaudence ####
 
-Lets the caster see or hear (choose at time of casting) through solid objects.
-The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
+Lets the caster see or hear (choose when casting) through solid objects.
+The spell cannot penetrate more than two feet of stone and even a thin layer of lead blocks it.
 Range: 6''; duration: 2 hours.
 
 #### 2. Dispel Magic ####
@@ -472,9 +476,9 @@ Range 12''; duration: 10 minutes.
 
 #### 3. Fire Ball ####
 
-A missile shoots from the caster's finger to erupt in a furnace-like blast around the target location.
-It bursts with a 20 foot radius, shaped to the available volume.
-Damage is 1d6 per level of the caster.
+A missile blazes from the caster's finger to engulf the target in a furnace-like eruption.
+The 20' radius blast conforms in shape to the volume available.
+Damage is 1d6 per caster level.
 A successful saving throw halves damage taken by the target.
 Range: 24'', duration: instant.
 
@@ -518,60 +522,62 @@ Range: 12'', duration: 2 hours.
 
 #### 3. Dimension Door ####
 
-The caster can teleport with perfect accuracy himself, an object, or another person to a location within the spell's range.
+The caster creases the universe to slip himself, an object, or another being from one precise point within the spell's range to another such point without travelling through the space between.
 Range: 1'' casting, 36'' teleport; duration: instant.
 
 #### 4. Polymorph Self or Polymorph Other ####
 
-The caster must announce which form he chooses to cast.
+The caster announces which form he chooses when casting.
 
-Polymorph Other turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, and of course, a frog or newt).
-The polymorphed creature gains all the abilities of the new form, but retains its own mind and hit points.
+Polymorph Other turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, or a newt).
+The polymorphed creature gains all the abilities of the new form, but keeps its own mind and hit points.
 This transformation lasts until dispelled.
 
-Polymorph Self allows the caster to assume the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
+Polymorph Self gives the caster the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
 This lasts for one hour plus one additional hour for each caster level.
 
 #### 7. Wall of Fire or Wall of Ice ####
 
-The caster must announce which form he chooses to cast.
+The caster announces which form he chooses when casting.
 
-Wall of Fire ignites a wall that burn for as long as the caster concentrates on it.
-Creatures with 3 or fewer hit dice cannot pass through the wall, and no creature can see through it.
-Passing through the fire inflicts d6 points of damage (no saving throw), and the undead sustain twice that damage.
+Wall of Fire ignites a wall that keeps burning while the caster concentrates on it.
+Creatures with three or fewer hit dice cannot pass through the wall, and no creature sees through it.
+Crossing the fire inflicts d6 points of damage (no saving throw), and undead sustain twice that damage.
 The caster can either create a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
 
 Wall of Ice conjures a 6 foot thick wall of ice.
 The caster chooses either a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
 Creatures with 3 or fewer hit dice cannot affect the wall, but creatures of 4+ hit dice smash through it by taking d6 damage.
-Creatures with fire-based metabolisms take 2d6 damage instead.
-Fire spells and magical effects are negated in the vicinity of the wall.
+Fire-based creatures take 2d6 damage.
+The wall blocks fire-based spells and effects.
 
 #### 6. Wizard Eye ####
 
-The caster conjures up an invisible, magical "eye," that can move up to 240 feet from its creator.
-It floats along as directed by the caster, at a rate of 120 feet per turn.
+The caster conjures an invisible, magic eye that roams up to 240 feet from its creator, relaying what it sees.
+The eye follows a path the caster wills, at speeds up to 120 feet per turn.
 Range: 24'', duration: 1 hour.
 
 ### Magic-User Spells Level 5 ###
 
 #### 1. Animate Dead ####
 
-This spell animates skeletons or zombies from dead bodies.
-1d6 undead are animated (per level of the caster above 8th).
+This spell animates dead bodies as skeletons or zombies.
+1d6 undead are animated per level of the caster above 8th.
 The corpses remain animated until destroyed or dispelled.
 Range: referee's discretion; duration: permanent.
 
 #### 2. Conjure Elemental ####
 
-The caster summons a 16 HD elemental, and binds it to his commands.
+The caster summons a 16 HD elemental, and binds it to his command.
 Each type of elemental may only be summoned once per day.
-The elemental obeys the caster only for as long as the caster concentrates on it; when the caster ceases to concentrate, even for a moment, the elemental is released and will attack.
+The elemental obeys only while the caster concentrates;
+even momentary loss of concentration unleashes the elemental on a murderous rampage.
 Range: 24'', duration: until dispelled.
 
 #### 3. Contact Higher Plane ####
 
-The caster mentally contacts planes, forces, powers, and geometries of the beyond in order to ask affirmative or negative questions. The spell's effect depends on how deeply the caster wishes to delve.
+The caster psychically petitions planes, powers, and geometries of the beyond to ask affirmative or negative questions.
+The spell's effectiveness and peril depends on how distantly the caster chooses to project his mind.
 
 Plane | Insanity | Right  | Wrong
 :----:|:--------:|:------:|:------:
@@ -592,28 +598,26 @@ Range: 24'', duration: permanent until dispelled.
 
 Magic Jar rehouses the caster's life essence, intelligence, and soul into an object within 30 feet.
 
-Once within the magic "jar," the caster can possess the bodies of other creatures and people within 120 feet of the jar who fail a saving throw.
-The caster can return his soul to the magic jar at any time.
+From within the jar, the caster can grasp out to possess the body of any creature within 120 feet that fails its saving throw.
+The caster's soul retreats to the jar whenever it desires or if the possessed body dies.
 
-If a body he controls is slain, his life essence snaps back to the jar.
-If the caster's body is destroyed while his soul is in the magic jar, the soul no longer has a home other than within the magic jar (although the disembodied wizard can still possess other bodies as before).
-If the jar itself is destroyed while the Magic-User's soul is within, the soul is lost.
+While inside the magic jar, the caster can survive destruction of his original body, but destruction of the jar dooms the soul to oblivion.
 
 The spell ends when the Magic-User returns from the jar to his own body.
 
 #### 6. Teleport ####
 
-This spell transports the caster or another person to a destination the caster knows.
-Success depends on how well the caster knows the targeted location.
+This spell whisks the caster or another person to a distant place.
+Success depends on how well the caster knows the destination.
 
-Knowledge of the location may be second hand (from a painting or a map), though with only a 25% chance of success.
+Second-hand knowledge of the location, like from a painting or map, gives a 25% chance of success.
 Failure results in death.
 
-If the caster has seen but not studied the destination, the chance of failure is 20%.
+If the caster has glimpsed but not studied the destination, the chance of failure is 20%.
 Half of failures place the traveler 1d10 x 10 feet below the intended location, possibly resulting in death from arrival within a solid substance.
 The other half of failures place the traveler 1d10 x 10 feet above the targeted location, possibly resulting in a deadly fall.
 
-If the caster is familiar with the location or has studied it carefully, there is a 5% chance of failure, with 1 in 6 failures arriving below and 5 in 6 arriving above the target location.
+If the caster is familiar with the place or has studied it carefully, the chance of failure falls to 5%, with 1 in 6 failures arriving below and the rest arriving above the target location.
 In either case, the arrival is 1d4 x 10 feet low or high.
 
 ### Magic-User Spells Level 6 ###
