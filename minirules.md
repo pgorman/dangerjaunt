@@ -391,7 +391,7 @@ Range: 12''; duration: until dispelled.
 
 #### 2. Detect Magic ####
 
-The caster senses enchantments on places, people, or things.
+The magic-user senses enchantments on places, people, or things.
 This reveals any magic items secreted nearby.
 Range: 6''; duration: 20 minutes.
 
@@ -422,7 +422,7 @@ It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice ea
 
 #### 1. ESP ####
 
-The caster detects the thoughts of other beings.
+The magic-user detects the thoughts of other beings.
 The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
 Range: 6''; duration: 2 hours.
 
@@ -445,7 +445,7 @@ Range: 6''; duration: instant.
 #### 4. Locate Object ####
 
 This spell directs the caster (as the crow flies) toward an object the caster describes.
-The caster must have seen the object or an object of its general type: stairs, gold, etc.
+The magic-user must have seen the object or an object of its general type: stairs, gold, etc.
 Range: 9''; duration: 1 minute per level.
 
 #### 5. Phantasmal Force ####
@@ -476,7 +476,7 @@ Range 12''; duration: 10 minutes.
 
 #### 3. Fire Ball ####
 
-A missile blazes from the caster's finger to engulf the target in a furnace-like eruption.
+A missile blazes from the magic-user's finger to engulf the target in a furnace-like eruption.
 The 20' radius blast conforms in shape to the volume available.
 Damage is 1d6 per caster level.
 A successful saving throw halves damage taken by the target.
@@ -533,7 +533,7 @@ Polymorph Other turns another being within 60 feet into a different type of crea
 The polymorphed creature gains all the abilities of the new form, but keeps its own mind and hit points.
 This transformation lasts until dispelled.
 
-Polymorph Self gives the caster the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
+Polymorph Self gives the magic-user the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
 This lasts for one hour plus one additional hour for each caster level.
 
 #### 7. Wall of Fire or Wall of Ice ####
@@ -554,7 +554,7 @@ The wall blocks fire-based spells and effects.
 #### 6. Wizard Eye ####
 
 The caster conjures an invisible, magic eye that roams up to 240 feet from its creator, relaying what it sees.
-The eye follows a path the caster wills, at speeds up to 120 feet per turn.
+The eye follows a path the magic-user wills, at speeds up to 120 feet per turn.
 Range: 24'', duration: 1 hour.
 
 ### Magic-User Spells Level 5 ###
@@ -568,7 +568,7 @@ Range: referee's discretion; duration: permanent.
 
 #### 2. Conjure Elemental ####
 
-The caster summons a 16 HD elemental, and binds it to his command.
+The magic-user summons a 16 HD elemental, and binds it to his command.
 Each type of elemental may only be summoned once per day.
 The elemental obeys only while the caster concentrates;
 even momentary loss of concentration unleashes the elemental on a murderous rampage.
@@ -598,17 +598,17 @@ Range: 24'', duration: permanent until dispelled.
 
 Magic Jar rehouses the caster's life essence, intelligence, and soul into an object within 30 feet.
 
-From within the jar, the caster can grasp out to possess the body of any creature within 120 feet that fails its saving throw.
+From within the jar, the magic-user can grasp out to possess the body of any creature within 120 feet that fails its saving throw.
 The caster's soul retreats to the jar whenever it desires or if the possessed body dies.
 
 While inside the magic jar, the caster can survive destruction of his original body, but destruction of the jar dooms the soul to oblivion.
 
-The spell ends when the Magic-User returns from the jar to his own body.
+The spell ends when the magic-user returns from the jar to his own body.
 
 #### 6. Teleport ####
 
 This spell whisks the caster or another person to a distant place.
-Success depends on how well the caster knows the destination.
+Success depends on how well the magic-user knows the destination.
 
 Second-hand knowledge of the location, like from a painting or map, gives a 25% chance of success.
 Failure results in death.
@@ -642,7 +642,7 @@ Range: 3'', duration: until complete.
 #### 4. Invisible Stalker ####
 
 This spell summons an Invisible Stalker with 8 HD.
-The stalker completes one task by command of the caster, regardless of how long, twisted, or bloody a road it must travel to reach that goal.
+The stalker completes one task by command of the magic-user, regardless of how long, twisted, or bloody a road it must travel to reach that goal.
 Dispel Magic does not banish the stalker; kill it to end its mission.
 
 #### 5. Reincarnation ####
@@ -729,7 +729,7 @@ Range: 3'', duration: 1 hour.
 
 #### 1. Cure Disease\* ####
 
-Cure Disease cures the recipient of any disease, magical or natural.
+Cure Disease cures the recipient of any magical or natural disease.
 Range: touch, duration: instant.
 
 #### 2. Growth of Animals ####
@@ -744,7 +744,7 @@ Range: touch, duration: instant.
 
 #### 4. Speak with Dead ####
 
-The cleric whispers three questions to a recently deceased spirit, and get answers.
+The cleric whispers three questions to a recently deceased spirit, and gets answers.
 Clerics of less than seventh level can only contact those who died within the last three days.
 Clerics of less than eleventh level can only contact those who died within the last three months.
 Answers from spirits often come as riddles or in an otherwise cryptic form.
@@ -763,51 +763,52 @@ Range: touch, duration: instant.
 
 #### 3. Protection from Evil 10' radius ####
 
-This spell works like Protection from Evil, but covers a 10' area.
+This spell works like Protection from Evil, but covers a 10' radius area and anyone in it.
 Range: 1'', duration: 2 hours.
 
 #### 4. Speak with Plants ####
 
-The caster can speak to and understand the replies of plants.
-Plants obey commands as far as they are able (e.g. --- twisting or bending aside to ease passage, etc.).
+The caster can speak with plants.
+They obey commands as far as possible (e.g. --- twisting or bending aside to ease passage, etc.).
 Range: 3'', duration: 1 hour.
 
 ### Cleric Spells Level 5 ###
 
 #### 1. Commune ####
 
-Higher powers grant answers to three questions the caster poses.
-Higher powers resent constant interrogation by mortals, tolerating only about one communication per week (without divine irritation).
+Higher powers grant answers to three questions the cleric poses.
+Constant interrogation by mortals irritates higher powers, who rarely welcome more than one interview per week.
 A cleric can cast a double strength Commune spell composed of six questions once per year.
 
 #### 2. Dispel Evil\* ####
 
 Dispel Evil works against items, spells, or agents of Evil.
-It also disrupts evil sendings, like dreams or supernatural hunting-beasts.
+It also disrupts evil sendings, like dreams or spectral hunting-beasts.
 Range: 3'', duration: 10 minutes.
 
 #### 3. Insect Plague ####
 
-This spell only works outdoors.
-Insects rush to join a buzzing, clicking 8,000 cubic foot biomass (20' x 20' x 20'), and swarm where the caster directs.
+Insects rush to join a buzzing, clicking 8,000 cubic foot biomass (20' x 20' x 20'), and swarm where the cleric directs.
 Any creature of fewer than 2 HD flees the creeping storm in terror (no saving throw).
+This spell only works outdoors.
 Range: 48'', duration: 1 day.
 
 #### 4. Raise Dead\* ####
 
-Raise Dead allows the Cleric to raise a corpse from the dead, provided it has not been dead too long.
-The normal time limit is 4 days, but for every caster level higher than 8$^{th}$, the time limit extends another 4 days.
-Characters with low constitution might not survive the ordeal; and even for those with a strong constitution, a period of two weeks is required before they can function normally.
-This spell only functions on races that can be used for player characters (i.e., "human-like").
+Provided it has not lain dead too long, Raise Dead allows the cleric to breath life back into a corpse.
+The base time limit is four days, but for every caster level higher than 8$^{th}$, the time limit extends another four days.
+Characters of frail constitution might not survive the ordeal;
+even the robust require two weeks of recuperation before they fully shrug off the chill of the grave.
+Raise Dead only succeeds for human-like beings.
 
 # Play #
 
 ## Exploration ##
 
-"Exploration turns" last about ten times longer than combat turns.
-Each character takes one complex or two simple actions during a turn --- two moves, or a move and listening at a door, or rigging a pulley, etc.
+"Exploration turns" last ten times longer than combat turns.
+Each character takes a single complex action or two simple actions during a turn --- two moves, or a move and listening at a door, or rigging a pulley, etc.
 
-During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see given the lighting and environment, how long light sources burn before exhausting their fuel, and what sounds might carry to or from nearby monsters.
+During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see given the lighting and environment, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
 
 Light Source     | Distance   | Duration
 -----------------|------------|----------
@@ -820,10 +821,10 @@ Bullseye Lantern | 80' cone   | 12 hours
 
 1. Surprise? Base chance of 1--2 in 6. Check both sides, if appropriate.
 2. Set encounter distance based on surprise (if not dictated by environment):
-	- If surprised: d4 x 10' (melee distance)
+	- If surprised: d4 x 10' (within melee distance)
 	- Not surprised: (d6 + 4) x 10'
 3. Each side that is not surprised has the options:
-	- Run away (Referee asks players: "Do you run away?")
+	- Evasion (the referee asks: "Do you run away?")
 	- Fire missiles
 	- Close to melee
 	- Parley
@@ -836,18 +837,18 @@ Bullseye Lantern | 80' cone   | 12 hours
 	2. Missile fire
 	3. Melee
 
-To score a successful hit during missle fire or melee, the sum of the attacker's d20 to-hit roll, base attack bonus, and any situational bonuses must equal or exceed the target's armor class.
+To score a successful hit during missile fire or melee, the sum of the attacker's d20 to-hit roll, base attack bonus, and any situational bonuses must equal or exceed the target's armor class.
 The attacker rolls damage after a hit, and deducts the damage rolled from the target's hit points.
 Any character or monster reduced to zero or fewer hit points dies.
 
 ## Evasion and Pursuit ##
 
-One side, having stumbled into a disadvantageous situation, may try to evade the encounter altogether, so long as the other side has not taken them by surprise.
-If it is monsters fleeing, the players decide whether to pursue them.
+A group of player characters or monsters, having stumbled into a disadvantageous situation, may try to evade the encounter, so long as the other side hasn't taken them by surprise.
+If monsters take flight, the players decide whether to pursue.
 When player characters flee monsters, the referee consults the Monster (Re)actions table;
-a result of "hostile" means the monsters give chase.
+the monsters give chase on a "hostile" result.
 
-The faster side wins.
+The faster side wins a chase.
 If the pursuers have the higher movement rate, they catch the pursued.
 Those fleeing make good their escape if they have a greater movement rate than their pursuers.
 
@@ -889,7 +890,7 @@ Level/HD | Saving Throw
 Rather than having a single saving throw score, some referees prefer several types of saving throws.
 Saving throw types, if used, reflect the sort of dangers characters encounter.
 These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or dangers specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
-Futhermore, some characters classes may be better at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
+Futhermore, some character classes may excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
 
 ## Morale ##
 
@@ -919,12 +920,12 @@ So, the dwarfs pile onto the simian, but it sends them flying.
 
 ## Monsters ##
 
-Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic human beings, carnivorous plants, fungi, dinosaurs, and even sci-fi elements, like robots or Frankenstein's monster.
-Referees can expand the roster of monsters by enhancing existing ones (fire-breathing goblin, basilisk with bat wings), variant themes (wereshark, glass shard golem), or creating new monsters from scratch (use the table below as a starting point for the numbers).
+Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic humans, carnivorous plants, fungi, dinosaurs, and even sci-fi elements, like robots or Frankenstein's monster.
+Referees can expand the roster of monsters by enhancing existing ones (fire-breathing goblins, a basilisk with x-ray vision), variant themes (wereshark, glass shard golem), or creating new monsters from scratch.
 
 ### Monster and Encounter Design ###
 
-This points-based system help to build encounters or design new monsters.
+This points-based system helps to build encounters or design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
 The point system can also assign treasure values for encounters.
 
@@ -991,16 +992,14 @@ Points | XP    | Treasure Value (GP)
 25     | 5,800 | 23,200
 26     | 6,100 | 24,400
 
-We can use this point system to stock rooms in a megadungeon too.
-If our roll on the Room Contents table indicates a monster(s), roll on this table to find the difficulty multiplier.
-The value of the party times this multiplier gives us a budget for the room.
+To vary the difficulty of encounters in the rooms of a large dungeon area, roll a point budget multiplier for each room with an monster.
 
 d8   | Point Multiplier
 -----|----------------
 1    | x 0.2
 2    | x 0.3
-3--4 | x 0.4
-5    | x 0.6
+3--5 | x 0.4
+6    | x 0.6
 7    | x 1
 8    | x 3
 
@@ -1008,8 +1007,8 @@ d8   | Point Multiplier
 
 AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400 Attacks: sword d12, flames 3d6
 
-Wreathed in flame, these bull-like, bat-winged demons resist magic 75%, and casters below 6th level affect them not at all.
-They wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
+Wreathed in flame, these bull-like, bat-winged demons wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
+They resist magic 75%, and casters below 6th level affect them not at all.
 
 ### Basilisk###
 
