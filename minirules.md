@@ -1003,22 +1003,43 @@ d8   | Point Multiplier
 7    | x 1
 8    | x 3
 
+### Animals and Giant Animals ###
+
+Although normal animals rarely attack humans without provocation, the mutations that cause animal gigantism often corresponds with behavioral changes, like increased aggression.
+
+HD     | Animals
+-------|---------
+<1     | Goat, sheep, cobra, frog
+1      | Human, dog
+2      | Mule, wolf, python
+3      | Cougar, draft horse, crocodile
+4--5   | Tiger, bear, bison
+5--6   | Rhinoceros, hippo
+7--8   | Orca, elephant
+10--12 | Mastodon 
+20     | Tyrannosaurus rex
+36     | Sperm whale
+
+Use size as a starting point for animal hit dice.
+Give a giant snail the size of a mule two hit dice.
+Give one the size of an elephant six hit dice.
+
 ### Baalroch Demon ###
 
-AC: 2 [17] HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400 Attacks: sword d12, flames 3d6
+AC: 17 HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400 Attacks: sword d12, flames 3d6
 
 Wreathed in flame, these bull-like, bat-winged demons wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 They resist magic 75%, and casters below 6th level affect them not at all.
 
 ### Basilisk###
 
-AC: 4 [15] HD: 6 (CR 8) Move: 6'' XP: 800 Attacks: bite d10
+AC: 15 HD: 6 (CR 8) Move: 6'' XP: 800 Attacks: bite d10
 
 The gaze of these eight-legged reptiles turns living things to stone.
 
 ### Black Pudding ###
 
-AC: 6 [13] HD: 10 (CR 11) Move: 6'' XP: 1700 Attacks: acid
+AC: 13 HD: 10 (CR 11) Move: 6'' XP: 1700 Attacks: acid
 
 This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
 Its excretions dissolve wood and metal.
@@ -1026,13 +1047,21 @@ It's immune to cold, and split/multiplied by lightening.
 
 ### Bugbear ###
 
-AC: 5 [14] HD: 3+1 (CR 3) Move: 9'' XP: 120 Attacks: weapon d8
+AC: 14 HD: 3+1 (CR 3) Move: 9'' XP: 120 Attacks: weapon d8
 
 Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
 
+### Carcass Scavenger ###
+
+AC: 12 HD: 3+1 (CR 5) Move: 12'' XP: 240 Attacks: eight paralyzing tentacles
+
+The carcass scavanger has a nine foot long segmented body with many legs.
+A ring of eight stinging tentacles surround its maw cause paralysis lasting 2d4 rounds (save allowed).
+Once alone with a paralyzed victim, the carcass scavenger swallows its prey whole.
+
 ### Cockatrice ###
 
-AC: 6 [13] HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600 Attacks: bite d6 & stone
+AC: 13 HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600 Attacks: bite d6 & stone
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -1055,44 +1084,44 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 2 [17] HD: 6--8 (CR 8--10) Move: 12'' (24'' flying) XP: 800, 1100, 1400
+AC: 17 HD: 6--8 (CR 8--10) Move: 12'' (24'' flying) XP: 800, 1100, 1400
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 2 [17] HD: 8--10 (CR 10--12) Move: 12'' (24'' flying) XP: 1400, 1700, 2000
+AC: 17 HD: 8--10 (CR 10--12) Move: 12'' (24'' flying) XP: 1400, 1700, 2000
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 2 [17] HD: 10--12 (CR 12--14) Move: 12'' (24'' flying) XP: 2000, 2300, 2600
+AC: 17 HD: 10--12 (CR 12--14) Move: 12'' (24'' flying) XP: 2000, 2300, 2600
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 2 [17] HD: 7--9 (CR 9--11) Move: 12'' (24'' flying) XP: 1100, 1400, 1700
+AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (24'' flying) XP: 1100, 1400, 1700
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 2 [17] HD: 9--11 (CR 11--13) Move: 12'' (24'' flying) XP: 1700, 2000, 2300
+AC: 17 HD: 9--11 (CR 11--13) Move: 12'' (24'' flying) XP: 1700, 2000, 2300
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 2 [17] HD: 5--7 (CR 7--9) Move: 12'' (24'' flying) XP: 600, 800, 1100
+AC: 17 HD: 5--7 (CR 7--9) Move: 12'' (24'' flying) XP: 600, 800, 1100
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
 ### Djinn ###
 
-AC: 5 [14] HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100 Attacks: fists 2d8 or whirlwind
+AC: 14 HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100 Attacks: fists 2d8 or whirlwind
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
@@ -1100,7 +1129,7 @@ Some grant wishes.
 
 ### Doppelganger ###
 
-AC: 5 [14] HD: 4 (CR 5) Move: 9'' XP: 240 Attacks: claw d8
+AC: 14 HD: 4 (CR 5) Move: 9'' XP: 240 Attacks: claw d8
 
 Doppelgangers transform to look like anyone.
 They're immune to Sleep and Charm, and save +5 versus all magic.
@@ -1447,7 +1476,7 @@ Large amounts of metal attract rust monsters.
 
 ### Shrieker ###
 
-AC 12 HD:3 (CR 3) Move: 1'' XP: 60 Attacks: alarm
+AC: 12 HD:3 (CR 3) Move: 1'' XP: 60 Attacks: alarm
 
 Shriekers are fungi that emit a noisy alarm for movement within 10' or light within 30'.
 Each round it sounds, their alarm attracts a wandering monster on 3 in 6.
@@ -1796,6 +1825,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 - Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
 - Add several outside entrances to the dungeon going to different levels.
 - Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
+- Include environmental hazards, like acid pools, low-lying areas where flammable gas pools, radiation, and rock slides.
 - Make the dungeon is a living thing --- repopluate cleared areas with new factions, include signs that rival adventuring parties have been setting off traps or making deals with monsters, etc.
 
 ## House Rules ##
