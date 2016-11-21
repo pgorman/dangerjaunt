@@ -929,7 +929,7 @@ This points-based system helps to build encounters or design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
 The point system can also assign treasure values for encounters.
 
-Calculate the point value of the player character party by summing points for the following:
+Calculate the Challenge Rating (CR) of the player character party by summing points for the following:
 
 - 1 point per hit die
 - 2 points per character with plate mail (or better)
@@ -937,60 +937,62 @@ Calculate the point value of the player character party by summing points for th
 
 For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a thief for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
 
-Use the point value of the party to set a point budget for creating monster encounters.
+This also works for a non-player character party.
+
+Use the challenge rating of the party to set a point budget for creating monster encounters.
 
 Percent of PC Points | Rough Difficulty of Encounter
-:-------------------:|------------------------------
+:-------------------:|-------------------------------------
 10--30%              | Easy: routine resource depletion
 40--60%              | Hard: a casualty is possible
 80%+                 | Deadly: good chance of one or more casualties
 
-Calculate the point value of a monster encounter by summing the following:
+Calculate the challenge rating of a monster encounter by summing the following points:
 
 - 1 point per hit die
-- 1 point per additional monster (e.g. three monsters add 2 points)
-- 1 point per additional attack per round (e.g. claw/claw/bit adds 2 points)
-- 2 points per monster that's hard to hit (flying, invisible, strong AC)
-- 3 points per attack that bypasses front line (missile fire, area effects)
-- 6 points per very bad attack or permanent wreckage (save or die, turn to stone, level drain)
-- Other special abilities at 1--4 points each
+- 0.5 points per additional monster, rounded down (e.g. four monsters adds 1 points, rounded down from 1.5)
+- 1 point per additional attack per round (e.g. claw/claw/bite adds 2 points)
+- 2 points for being hard to hit (flying, invisible, strong AC, immunity to non-magic weapons)
+- 2 points for attacks that bypass the front line (missile fire, area effects)
+- 4 points for a very bad attack or permanent wreckage (save or die, turn to stone, level drain)
+- Other special abilities at 0--4 points each
 
 Encounter examples:
 
-- Basilisk (6 HD: 6 pt, stone: 6 pt) = 12 points total
-- Adult Red Dragon (9 HD: 9 pt, fly: 2 pt, breath: 3 pt, claw/claw/bite: 2 pt) = 16 points total, or 18 pt if we double-up on "hard to hit" for its strong AC
-- One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 4 pt) = 12 points total
+- Basilisk (6 HD: 6 pt, stone: 4 pt) = 10 CR
+- Adult Red Dragon (9 HD: 9 pt, fly and strong AC: 2 pt, breath: 2 pt, claw/claw/bite: 2 pt) = 15 CR
+- One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 2 pt) = 10 CR
 
 
-Points | XP    | Treasure Value (GP)
-:-----:|-------|--------------------
-<1     | 5     | 20
-1      | 15    | 60
-2      | 30    | 120
-3      | 60    | 240
-4      | 120   | 480
-5      | 240   | 960
-6      | 400   | 1,600
-7      | 600   | 2,400
-8      | 800   | 3,200
-9      | 1,100 | 4,400
-10     | 1,400 | 5,600
-11     | 1,700 | 6,800
-12     | 2,000 | 8,000
-13     | 2,300 | 9,200
-14     | 2,600 | 10,400
-15     | 2,900 | 11,600
-16     | 3,100 | 12,400
-17     | 3,400 | 13,600
-18     | 3,700 | 14,800
-19     | 4,000 | 16,000
-20     | 4,300 | 17,200
-21     | 4,600 | 18,400
-22     | 4,900 | 19,600
-23     | 5,200 | 20,800
-24     | 5,500 | 22,000
-25     | 5,800 | 23,200
-26     | 6,100 | 24,400
+CR   | XP    | Treasure Value (GP)
+:---:|-------|--------------------
+<1   | 5     | 20
+1    | 15    | 60
+2    | 30    | 120
+3    | 60    | 240
+4    | 120   | 480
+5    | 240   | 960
+6    | 400   | 1,600
+7    | 600   | 2,400
+8    | 800   | 3,200
+9    | 1,100 | 4,400
+10   | 1,400 | 5,600
+11   | 1,700 | 6,800
+12   | 2,000 | 8,000
+13   | 2,300 | 9,200
+14   | 2,600 | 10,400
+15   | 2,900 | 11,600
+16   | 3,100 | 12,400
+17   | 3,400 | 13,600
+18   | 3,700 | 14,800
+19   | 4,000 | 16,000
+20   | 4,300 | 17,200
+21   | 4,600 | 18,400
+22   | 4,900 | 19,600
+23   | 5,200 | 20,800
+24   | 5,500 | 22,000
+25   | 5,800 | 23,200
+26   | 6,100 | 24,400
 
 To vary the difficulty of encounters in the rooms of a large dungeon area, roll a point budget multiplier for each room with an monster.
 
@@ -1012,56 +1014,56 @@ HD     | Animals
 <1     | Goat, sheep, cobra, frog
 1      | Human, dog
 2      | Mule, wolf, python
-3      | Cougar, draft horse, crocodile
+3      | Cougar, draft horse, crocodile, gorilla
 4--5   | Tiger, bear, bison
-5--6   | Rhinoceros, hippo
-7--8   | Orca, elephant
-10--12 | Mastodon 
+5--6   | Rhinoceros, hippopotamus
+7--10  | Orca, elephant
+15     | Mammoth
 20     | Tyrannosaurus rex
 36     | Sperm whale
 
 Use size as a starting point for animal hit dice.
 Give a giant snail the size of a mule two hit dice.
-Give one the size of an elephant six hit dice.
+Give one the size of an elephant eight hit dice.
 
 ### Baalroch Demon ###
 
-AC: 17 HD: 9 (CR 10) Move: 6'' (15'' flying) XP: 1400 Attacks: sword d12, flames 3d6
+AC: 17 HD: 9 (CR 10 12) Move: 6'' (15'' flying) Attacks: sword d12, flames 3d6
 
 Wreathed in flame, these bull-like, bat-winged demons wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 They resist magic 75%, and casters below 6th level affect them not at all.
 
 ### Basilisk###
 
-AC: 15 HD: 6 (CR 8) Move: 6'' XP: 800 Attacks: bite d10
+AC: 15 HD: 6 (CR 8 10) Move: 6'' Attacks: bite d10
 
 The gaze of these eight-legged reptiles turns living things to stone.
 
 ### Black Pudding ###
 
-AC: 13 HD: 10 (CR 11) Move: 6'' XP: 1700 Attacks: acid
+AC: 13 HD: 10 (CR 11) Move: 6'' Attacks: acid
 
 This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
-Its excretions dissolve wood and metal.
+A black pudding's excretions dissolve wood and metal.
 It's immune to cold, and split/multiplied by lightening.
 
 ### Bugbear ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 9'' XP: 120 Attacks: weapon d8
+AC: 14 HD: 3+1 (CR 3) Move: 9'' Attacks: weapon d8
 
 Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
 
 ### Carcass Scavenger ###
 
-AC: 12 HD: 3+1 (CR 5) Move: 12'' XP: 240 Attacks: eight paralyzing tentacles
+AC: 12 HD: 3+1 (CR 5 10) Move: 12'' Attacks: eight paralyzing tentacles
 
-The carcass scavanger has a nine foot long segmented body with many legs.
-A ring of eight stinging tentacles surround its maw cause paralysis lasting 2d4 rounds (save allowed).
+The carcass scavenger has a nine-foot-long segmented body with many legs.
+A ring of eight stinging tentacles encircling its maw cause paralysis lasting 2d4 rounds (save allowed).
 Once alone with a paralyzed victim, the carcass scavenger swallows its prey whole.
 
 ### Cockatrice ###
 
-AC: 13 HD: 5 (CR 7) Move: 6'' (18'' flying) XP: 600 Attacks: bite d6 & stone
+AC: 13 HD: 5 (CR 7 9) Move: 6'' (18'' flying) Attacks: bite d6 & stone
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -1084,44 +1086,44 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 17 HD: 6--8 (CR 8--10) Move: 12'' (24'' flying) XP: 800, 1100, 1400
+AC: 17 HD: 6--8 (CR 8--10 10--12) Move: 12'' (24'' flying)
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 17 HD: 8--10 (CR 10--12) Move: 12'' (24'' flying) XP: 1400, 1700, 2000
+AC: 17 HD: 8--10 (CR 10--12 12--14) Move: 12'' (24'' flying)
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 17 HD: 10--12 (CR 12--14) Move: 12'' (24'' flying) XP: 2000, 2300, 2600
+AC: 17 HD: 10--12 (CR 12--14 14--16) Move: 12'' (24'' flying)
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (24'' flying) XP: 1100, 1400, 1700
+AC: 17 HD: 7--9 (CR 9--11 11--13) Move: 12'' (24'' flying)
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 17 HD: 9--11 (CR 11--13) Move: 12'' (24'' flying) XP: 1700, 2000, 2300
+AC: 17 HD: 9--11 (CR 11--13 13--15) Move: 12'' (24'' flying)
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 17 HD: 5--7 (CR 7--9) Move: 12'' (24'' flying) XP: 600, 800, 1100
+AC: 17 HD: 5--7 (CR 7--9 9--11) Move: 12'' (24'' flying)
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
 ### Djinn ###
 
-AC: 14 HD: 7+1 (CR 9) Move: 9'' (24'' flying) XP: 1100 Attacks: fists 2d8 or whirlwind
+AC: 14 HD: 7+1 (CR 9 10) Move: 9'' (24'' flying) Attacks: fists 2d8 or whirlwind
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
@@ -1129,7 +1131,7 @@ Some grant wishes.
 
 ### Doppelganger ###
 
-AC: 14 HD: 4 (CR 5) Move: 9'' XP: 240 Attacks: claw d8
+AC: 14 HD: 4 (CR 5) Move: 9'' Attacks: claw d8
 
 Doppelgangers transform to look like anyone.
 They're immune to Sleep and Charm, and save +5 versus all magic.
@@ -1147,26 +1149,26 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying XP: 1100, 2300, 3400 Attacks: wind 2d8 or hurl creature
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying Attacks: wind 2d8 or hurl creature
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
 ### Elemental, Earth ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' XP: 1100, 2300, 3400 Attacks: bury 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' Attacks: bury 2d8
 
 They can tear down even a castle wall in 1d4+4 rounds.
 Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' XP: 1100, 2300, 3400 Attacks: incinerate 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' Attacks: incinerate 2d8
 
 Their attacks ignite flammable materials (save permitted).
 
 ### Elemental, Water ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) XP: 1100, 2300, 3400 Attacks: drown 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) Attacks: drown 2d8
 
 Water elementals overturn ships in d4+4 rounds.
 They never stray more than 60' from a body of water, and their melee attack do only 1d6 damage out of water.
@@ -1174,7 +1176,7 @@ They never stray more than 60' from a body of water, and their melee attack do o
 
 ### Eye of Terror ###
 
-AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 14) Move: 6'' levitating XP: 2600
+AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 14) Move: 6'' levitating
 
 Its tentacles are poisonous (save or die).
 Each round, it attacks with its central eye and three eye stalks:
@@ -1193,27 +1195,27 @@ Central | Flesh to stone ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) XP: 400 Attacks: claws d3 & d3, bite d4, horn d6
+AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) Attacks: claws d3 & d3, bite d4, horn d6
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
 ### Gas Spore ###
 
-AC: 10 HD: 1 HP (CR 1) Move: 3'' XP: 15 Attacks: infection
+AC: 10 HD: 1 HP (CR 1) Move: 3'' Attacks: infection
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
 A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless Cure Disease is cast.
 
 ### Gelatinous Cube ###
 
-AC: 11 HD: 4 (CR 5) Move: 6'' XP: 240 Attacks: paralysis
+AC: 11 HD: 4 (CR 5) Move: 6'' Attacks: paralysis
 
 Hit opponents are anesthetized (save vs. paralysis), then enveloped in 6 rounds.
 Lightning and cold don't harm gelatinous cubes.
 
 ### Ghoul ###
 
-AC: 13 HD: 2 (CR 3) Move: 9'' XP: 60 Attacks: claws d3 & d3, bite d4, paralysis
+AC: 13 HD: 2 (CR 3) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
 They're immune to Sleep and charm spells.
@@ -1221,13 +1223,13 @@ Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
 
-AC: 15 HD: 12+2 (CR 13) Move: 15'' XP: 2300 Attacks: squash 3d6 or boulders 6d6
+AC: 15 HD: 12+2 (CR 13) Move: 15'' Attacks: squash 3d6 or boulders 6d6
 
 Cloud giants live in cloud castles. Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage. They enslave captives on their cloud islands.
 
 ### Giant, Fire ###
 
-AC: 15 HD: 11+3 (CR 12) Move: 12'' XP: 2000 Attacks: squash 3d6 or boulders 5d6
+AC: 15 HD: 11+3 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 5d6
 
 Fire giants live in iron or basalt castles near volcanoes.
 They throw boulders for 5d6 damage, and are immune to fire damage.
@@ -1235,28 +1237,28 @@ Fire giants keep packs of hell hounds.
 
 ### Giant, Frost ###
 
-AC: 15 HD: 10+1 (CR 12) Move: 12'' XP: 2000 Attacks: squash 3d6 or boulders 4d6
+AC: 15 HD: 10+1 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 4d6
 
 They throw icy boulders for 4d6 damage, and are immune to cold damage.
 Frost giants are often accompanied by giant white wolves.
 
 ### Giant, Hill ###
 
-AC: 15 HD: 8 (CR 9) Move: 12'' XP: 1100 Attacks: squash 2d6 or boulders 2d8
+AC: 15 HD: 8 (CR 9) Move: 12'' Attacks: squash 2d6 or boulders 2d8
 
 Hill giants throw rocks for 2d8 damage.
 They sometimes bully giant lizards, ogres, or worgs into guarding their lairs.
 
 ### Giant, Stone ###
 
-AC: 15 HD: 9 (CR 10) Move: 12'' XP: 1400 Attacks: squash 3d6 or boulders 3d6
+AC: 15 HD: 9 (CR 10) Move: 12'' Attacks: squash 3d6 or boulders 3d6
 
 They throw rocks for 3d6 damage, and favor mountain ambushes.
 Stone giants keep d4 cave bears.
 
 ### Giant, Storm ###
 
-AC: 18 HD: 16 (CR 16) Move: 15'' XP: 3200 Attacks: squash 3d6 or boulders 7d6
+AC: 18 HD: 16 (CR 16) Move: 15'' Attacks: squash 3d6 or boulders 7d6
 
 More intelligent and magical than other giants, storm giants live in undersea or mountaintop castles.
 They throw boulders for 7d6 damage, and cast Control Weather.
@@ -1264,13 +1266,13 @@ Storm giants keep giant mounts of a type appropriate for their castle's terrain.
 
 ### Goblin ###
 
-AC: 13 HD: 1-1 (CR <1) Move: 9'' XP: 10 Attacks: weapon d6
+AC: 13 HD: 1-1 (CR <1) Move: 9'' Attacks: weapon d6
 
 In full sunlight, they attack at -1 to hit.
 
 ### Golem, Flesh ###
 
-AC: 10 HD: 12 (CR 12) Move: 8'' XP: 2000 Attacks: fists d8 & d8
+AC: 10 HD: 12 (CR 12) Move: 8'' Attacks: fists d8 & d8
 
 They're immune to non-magical weapons.
 Only fire or cold spells damage flesh golems.
@@ -1278,7 +1280,7 @@ Lightning heals them.
 
 ### Golem, Iron ###
 
-AC: 16 HD: 13 (CR 17) Move: 6'' XP: 3500 Attacks: weapon 3d10
+AC: 16 HD: 13 (CR 17) Move: 6'' Attacks: weapon 3d10
 
 They breathe a 10' radius cloud of poison gas.
 Only +3 or better magic weapons hit iron golems.
@@ -1287,7 +1289,7 @@ No other spell types affect them.
 
 ### Golem, Stone ###
 
-AC: 14 HD: 16 (CR 16) Move: 6'' XP: 3200 Attacks: fists 2d6 & 2d6
+AC: 14 HD: 16 (CR 16) Move: 6'' Attacks: fists 2d6 & 2d6
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
@@ -1295,7 +1297,7 @@ Only magic weapons +2 or better hit Stone golems.
 
 ### Gray Ooze ###
 
-AC: 11 HD: 3 (CR 5) Move: 1'' XP: 240
+AC: 11 HD: 3 (CR 5) Move: 1'' 
 
 It's immune to spells, blunt weapons, and any heat/cold damage.
 Any metal object it contacts is dissolved (save vs. acid).
@@ -1307,76 +1309,76 @@ Fire or cold kills green slime.
 
 ### Griffon ###
 
-AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) XP: 800 Attacks: claws d4 & d4, bite 2d8
+AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) Attacks: claws d4 & d4, bite 2d8
 
 Eggs snatched from mountain nests command a high price, because fledgling can be trained as mounts.
 
 ### Harpy ###
 
-AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) XP: 120 Attacks: talons d3 & d3, weapon d6
+AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
 
 Their song lures hearers, and their touch acts like Charm Person.
 Saves apply.
 
 ### Hell Hound ###
 
-AC: 15 HD: 4--7 (CR 5--8) Move: 12'' XP: 240, 400, 600, 800 Attacks: bite d6, fire breath
+AC: 15 HD: 4--7 (CR 5--8) Move: 12'' Attacks: bite d6, fire breath
 
 Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why some monsters, especially fire giants, keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) XP: 60 Attacks: claws d6 & d6, bite d10
+AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) Attacks: claws d6 & d6, bite d10
 
 Like griffons.
 
 ### Hobgoblin ###
 
-AC: 14 HD: 1+1 (CR 1) Move: 9'' XP: 15 Attacks: weapon d8
+AC: 14 HD: 1+1 (CR 1) Move: 9'' Attacks: weapon d8
 
 ### Human, Bandit ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
+AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
 
 Larger groups are lead by classed characters, and may hold captives.
 
 ### Human, Berserker ###
 
-AC: 12 HD: 1+2 (CR 2) Move: 12'' XP: 30 Attacks: weapon d8
+AC: 12 HD: 1+2 (CR 2) Move: 12'' Attacks: weapon d8
 
 They attack with +2 to hit. No prisoners.
 
 ### Human, Sergeant-at-Arms ###
 
-AC: 14 HD: 3 (CR 3) Move: 12'' XP: 60 Attacks: weapon d8
+AC: 14 HD: 3 (CR 3) Move: 12'' Attacks: weapon d8
 
 Encountered leading 1d6+5 soldiers.
 
 ### Human, Soldier ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d8
+AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d8
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' XP: 600, 800, 1100, 1400, 1700, 2000 Attacks: bite d6 per head
+AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' Attacks: bite d6 per head
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
 
 ### Invisible Stalker ###
 
-AC: 16 HD: 8 (CR 9) Move: 12'' XP: 1100 Attacks: bite 4d4
+AC: 16 HD: 8 (CR 9) Move: 12'' Attacks: bite 4d4
 
 ### Kobold ###
 
-AC: 13 HD: 1/2 (CR <1) Move: 6'' XP: 10 Attacks: weapon d6
+AC: 13 HD: 1/2 (CR <1) Move: 6'' Attacks: weapon d6
 
 Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 12] Move: 24'' XP: 2000 Attacks: dagger d4 & wisdom drain
+AC: 16 HD: 9 [CR 12] Move: 24'' Attacks: dagger d4 & wisdom drain
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
@@ -1385,7 +1387,7 @@ They cast charm person and phantasmal force once per day.
 
 ### Lich ###
 
-AC: 19 HD: 12--18 (CR 15--21) Move: 6'' XP: 2900, 3200, 3500, 3800, 4100, 4400, 4700 Attacks: paralysis touch
+AC: 19 HD: 12--18 (CR 15--21) Move: 6'' Attacks: paralysis touch
 
 They're undead wizards, with magic-user levels equal to their hit dice.
 Their touch paralyzes (no save);
@@ -1393,50 +1395,50 @@ even seeing a lich paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) XP: 800 Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
+AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 8) Move: 9'' XP: 800 Attacks: snakebite d6 + venom, petrification
+AC: 11 HD: 6 (CR 8) Move: 9'' Attacks: snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
 In addition to their melee attack, their snake hair bites with venom (save allowed).
 
 ### Mimic ###
 
-AC 12 HD: 7--10 (CR 8--11) Move: 3'' XP: 800, 1100, 1400, 1700 Attacks: pseudopod 3d4
+AC 12 HD: 7--10 (CR 8--11) Move: 3'' Attacks: pseudopod 3d4
 
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
 ### Minotaur ###
 
-AC: 13 HD: 6+4 (CR 6) Move: 12'' XP: 400 Attacks: gore d6, bite or weapon d6
+AC: 13 HD: 6+4 (CR 6) Move: 12'' Attacks: gore d6, bite or weapon d6
 
 ### Mummy ###
 
-AC: 16 HD: 5+1 (CR 6) Move: 6'' XP: 600 Attacks: smash d12 (disease)
+AC: 16 HD: 5+1 (CR 6) Move: 6'' Attacks: smash d12 (disease)
 
 They're immune to normal weapons, and magic weapons deal half damage.
 Their touch causes mummy rot --- wounds heal naturally at half rate, and magic healing fails --- until Remove Curse is cast on the victim.
 
 ### Ocher Jelly ###
 
-AC: 11 HD: 5 (CR 6) Move: 3'' XP: 400 Attacks: dissolve 2d6
+AC: 11 HD: 5 (CR 6) Move: 3'' Attacks: dissolve 2d6
 
 Their acid dissolves killed opponents (making Raise Dead nearly impossible).
 
 ### Ogre ###
 
-AC: 14 HD: 4+1 (CR 4) Move: 9'' XP: 120 Attacks: weapon d10
+AC: 14 HD: 4+1 (CR 4) Move: 9'' Attacks: weapon d10
 
 They enslave captives (1--2 on d8) or simply eat them (3--8).
 Orgres themselves are sometimes enslaved by demons.
 
 ### Orc ###
 
-AC: 13 HD: 1 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
+AC: 13 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
 
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and magic-using shamen haunt some tribes.
@@ -1446,15 +1448,15 @@ Reports of stag-headed and cock-headed orcs remain in question, since orcs love 
 
 ### Owlbear ###
 
-AC 14 HD: 5 (CR 5) Move: 12'' XP: 240 Attacks: claws d8 & d8, bite d8
+AC 14 HD: 5 (CR 5) Move: 12'' Attacks: claws d8 & d8, bite d8
 
 ### Pegasus ###
 
-AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) XP: 120 Attacks: hooves d6 & d6
+AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) Attacks: hooves d6 & d6
 
 ### Purple Worm ###
 
-AC: 13 HD: 15 (CR 17) Move: 9'' XP: 3500 Attacks: bite 2d6, sting d8 + venom
+AC: 13 HD: 15 (CR 17) Move: 9'' Attacks: bite 2d6, sting d8 + venom
 
 Massive.
 They chew tunnels through bedrock.
@@ -1463,31 +1465,31 @@ Their tail spike envenoms (save or die).
 
 ### Rat, Sumatran ###
 
-AC: 12 HD: 1-1 (CR <1) Move: 12'' XP: 10 Attacks: bite d3 (disease)
+AC: 12 HD: 1-1 (CR <1) Move: 12'' Attacks: bite d3 (disease)
 
 One in twenty Sumatran rat bites cause disease (save vs. poison).
 
 ### Rust Monster ###
 
-AC: 17 HD: 5 (CR 6) Move 12 XP: 400 Attacks: rust
+AC: 17 HD: 5 (CR 6) Move 12 Attacks: rust
 
 Hits from a rust monster instantly rust armor; hits against it rust weapons.
 Large amounts of metal attract rust monsters.
 
 ### Shrieker ###
 
-AC: 12 HD:3 (CR 3) Move: 1'' XP: 60 Attacks: alarm
+AC: 12 HD:3 (CR 3) Move: 1'' Attacks: alarm
 
 Shriekers are fungi that emit a noisy alarm for movement within 10' or light within 30'.
 Each round it sounds, their alarm attracts a wandering monster on 3 in 6.
 
 ### Skeleton ###
 
-AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' XP: 15 Attacks: weapon d6
+AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' Attacks: weapon d6
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) XP: 1100 Attacks: touch d8 + level drain
+AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) Attacks: touch d8 + level drain
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1495,7 +1497,7 @@ Anyone killed by a specter (or reduced to level 0) becomes one.
 
 ### Spider, Giant ###
 
-AC: 13 HD: 2+2 (CR 5) Move: 18'' XP: 240 Attacks: bite d8 + venom
+AC: 13 HD: 2+2 (CR 5) Move: 18'' Attacks: bite d8 + venom
 
 Save to avoid being stuck in their webs, and even then move only 3''.
 They nearly always surprise.
@@ -1503,13 +1505,13 @@ Giant spider bites are highly venomous.
 
 ### Stirge ###
 
-AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) XP: 30 Attacks: suck d3
+AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) Attacks: suck d3
 
 On a hit, a stirge inserts its blood-sucking proboscis into its opponent, and automatically deals damage each round.
 
 ### Tick, Giant ###
 
-AC: 15 HD: 3 (CR 4) Move: 3'' XP: 60 Attacks: suck 4 HP
+AC: 15 HD: 3 (CR 4) Move: 3'' Attacks: suck 4 HP
 
 Giant ticks suck blood worth 4 HP damage per round after a successful hit.
 Fire forces them off a victim.
@@ -1517,7 +1519,7 @@ Disease caused by tick bites kill in 2d4 days, unless Cure Disease is cast.
 
 ### Toad, Giant ###
 
-AC: 12 HD 2+2 (CR 4) Move: 9'' XP: 120 Attacks: bite d4+1, swallow
+AC: 12 HD 2+2 (CR 4) Move: 9'' Attacks: bite d4+1, swallow
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
@@ -1525,14 +1527,14 @@ They surprise on 6 in 12.
 
 ### Troll ###
 
-AC: 15 HD: 6+3 (CR 8) Move: 12'' XP: 800 Attacks: claws d6 & d6, bite d10
+AC: 15 HD: 6+3 (CR 8) Move: 12'' Attacks: claws d6 & d6, bite d10
 
 They regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
-AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) XP: 1100, 1400, 1700 Attacks: bite d10 + level drain
+AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) Attacks: bite d10 + level drain
 
 Only magic weapons hit them, and they regenerate 3 HP per round.
 When killed by weapons or magic, vampires return to their coffins in gaseous form.
@@ -1544,28 +1546,28 @@ Anyone killed by a vampire become one.
 
 ### Werewolf ###
 
-AC: 14 HD: 3 (CR 4) Move: 12'' XP: 120 Attacks: bite 2d4 (lycanthropy)
+AC: 14 HD: 3 (CR 4) Move: 12'' Attacks: bite 2d4 (lycanthropy)
 
 Werewolves are only harmed by silver or magic weapons.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
 
-AC: 14 HD: 3 (CR 5) Move: 9'' XP: 240 Attacks: level drain
+AC: 14 HD: 3 (CR 5) Move: 9'' Attacks: level drain
 
 Only magic or silver weapons harm them, and they're immune to sleep or charm spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
 
-AC: 16 HD: 4 (CR 6) Move: 24'' XP: 400 Attacks: level drain
+AC: 16 HD: 4 (CR 6) Move: 24'' Attacks: level drain
 
 They're only harmed by magic or silver (half damage) weapons.
 They drain one class level per hit.
 
 ### Yellow Mold ###
 
-AC: N/A HD: N/A (CR 3) Move: 0'' XP: 60 Attacks: acid d6, spores
+AC: N/A HD: N/A (CR 3) Move: 0'' Attacks: acid d6, spores
 
 If cut or punctured, it releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
@@ -1573,11 +1575,11 @@ Fire destroys it.
 
 ### Zombie ###
 
-AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' XP: 30 Attacks: weapon d8
+AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' Attacks: weapon d8
 
 ## Treasure ##
 
-Calculate treasure values based on monster XP.
+Calculate treasure values based on monster CR or XP.
 The gold piece value of a treasure equals three or four times the XP of the monster to which the treasure belongs.
 
 Treasures include other valuable items besides gold, silver, and copper coins.
