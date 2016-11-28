@@ -7,6 +7,11 @@ Despite omissions for brevity, these rules include the tenpole elements that mak
 
 # Characters #
 
+Each characters has a basic class: fighter, cleric, magic-user, or thief.
+Most characters are human, but the referee may allow other types, including elves and dwarfs.
+
+## Abilities ##
+
 For each ability, roll 3d6 and record the total:
 
 - Strength
@@ -18,7 +23,7 @@ For each ability, roll 3d6 and record the total:
 
 After rolling all six ability scores, the player may swap two of them if desired.
 
-## Ability Score Bonuses ##
+### Ability Score Bonuses ###
 
 Score  | Modifier
 :-----:|:-------:
@@ -29,64 +34,6 @@ Score  | Modifier
 13--15 |  +1
 16--17 |  +2
 18     |  +3
-
-## Alignment ##
-
-Choose an Alignment: Law, Chaos, or Neutrality.
-Law promotes the order of civilization, while Chaos favors a world beyond mortal reason.
-Law and Chaos do not necessarily neatly correspond to Good and Evil.
-
-## Character Advancement ##
-
-Level | Experience Points
-:----:|-------------------
-1     | 0
-2     | 400
-3     | 1,200
-4     | 3,600
-5     | 10,000
-6     | 32,000
-7     | 64,000
-8     | 130,000
-9     | 260,000
-10    | 389,000
-11    | 500,000
-12    | 600,000
-13    | 700,000
-14    | 800,000
-15    | 900,000
-16    | 1,000,000
-
-From first through ninth level, characters gain an additional hit die each level, plus any constitution modifier.
-At level ten and above, characters gain only two additional hit points per level.
-All hit dice are d6.
-However, fighters roll two six-sided hit dice, and choose the higher roll.
-
-Characters gain at most one level per session.
-Reduce the experience award of a character who would gain more levels so that their XP totals just shy of the second level.
-
-## Number of Daily Spells per Spell Level ##
-
-Character Level | 1 | 2 | 3 | 4 | 5 | 6
-:--------------:|---|---|---|---|---|---
-1               | 1 |   |   |   |   |
-2               | 2 |   |   |   |   |
-3               | 2 | 1 |   |   |   |
-4               | 3 | 2 |   |   |   |
-5               | 3 | 2 | 1 |   |   |
-6               | 4 | 2 | 2 |   |   |
-7               | 4 | 3 | 2 | 1 |   |
-8               | 4 | 3 | 3 | 2 |   |
-9               | 4 | 3 | 3 | 2 | 1 |
-10              | 4 | 4 | 3 | 2 | 2 |
-11              | 4 | 4 | 3 | 3 | 2 | 1
-12              | 4 | 4 | 4 | 3 | 2 | 1
-13              | 5 | 5 | 4 | 4 | 4 | 2
-14              | 5 | 5 | 4 | 4 | 4 | 3
-15              | 5 | 5 | 5 | 4 | 4 | 4
-16              | 5 | 5 | 5 | 5 | 5 | 5
-
-Clerics do not gain additional spells after level 10.
 
 ## Clerics ##
 
@@ -152,6 +99,69 @@ Dwarfs know about stonework, gems, engineering, and metalwork;
 the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it. Dwarfs notice secret doors on 1--2 in 6 simply by passing near them.
 
 After attaining level 6, dwarfs suffer a 50% reduction in subsequent earned experience.
+
+## Alignment ##
+
+Choose an Alignment: Law, Chaos, or Neutrality.
+Law promotes the order of civilization, while Chaos favors a world beyond mortal reason.
+Law and Chaos do not necessarily neatly correspond to Good and Evil.
+
+## Character Advancement and Hit Points ##
+
+By killing monsters and finding treasure, characters gain experience points (XP).
+After accumulating enough experience points, a character advances to a higher level, gaining additional hit points and better abilities.
+
+Level | Experience Points
+:----:|-------------------
+1     | 0
+2     | 400
+3     | 1,200
+4     | 3,600
+5     | 10,000
+6     | 32,000
+7     | 64,000
+8     | 130,000
+9     | 260,000
+10    | 389,000
+11    | 500,000
+12    | 600,000
+13    | 700,000
+14    | 800,000
+15    | 900,000
+16    | 1,000,000
+
+From first through ninth level, characters gain an additional hit die each level, plus any constitution modifier.
+At level ten and above, characters gain only two additional hit points per level.
+All hit dice are d6.
+However, fighters roll two six-sided hit dice, and choose the higher roll.
+
+Characters gain at most one level per session.
+Reduce the experience award of a character who would gain more levels so that their XP totals just shy of the second level.
+
+## Number of Daily Spells per Spell Level ##
+
+Clerics and magic-users cast a number of spells per day of various spell levels based on their character level.
+
+Character Level | 1 | 2 | 3 | 4 | 5 | 6
+:--------------:|---|---|---|---|---|---
+1               | 1 |   |   |   |   |
+2               | 2 |   |   |   |   |
+3               | 2 | 1 |   |   |   |
+4               | 3 | 2 |   |   |   |
+5               | 3 | 2 | 1 |   |   |
+6               | 4 | 2 | 2 |   |   |
+7               | 4 | 3 | 2 | 1 |   |
+8               | 4 | 3 | 3 | 2 |   |
+9               | 4 | 3 | 3 | 2 | 1 |
+10              | 4 | 4 | 3 | 2 | 2 |
+11              | 4 | 4 | 3 | 3 | 2 | 1
+12              | 4 | 4 | 4 | 3 | 2 | 1
+13              | 5 | 5 | 4 | 4 | 4 | 2
+14              | 5 | 5 | 4 | 4 | 4 | 3
+15              | 5 | 5 | 5 | 4 | 4 | 4
+16              | 5 | 5 | 5 | 5 | 5 | 5
+
+Clerics do not gain additional spells after level 10.
 
 ## Attack Bonus ##
 
@@ -1304,7 +1314,7 @@ Any metal object it contacts is dissolved (save vs. acid).
 
 ### Green Slime ###
 
-Any metal or organic object touching it turns to green slime (save allowed), though Cure Disease halts the transformation.
+Any metal or organic matter touching it turns to slime (save allowed), though Cure Disease halts the transformation.
 Fire or cold kills green slime.
 
 ### Griffon ###
@@ -1325,7 +1335,7 @@ Saves apply.
 AC: 15 HD: 4--7 (CR 5--8) Move: 12'' Attacks: bite d6, fire breath
 
 Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
-Their keen senses detect invisible opponents on 1--3 in 6, which is why some monsters, especially fire giants, keep hell hounds as guard dogs.
+Their keen senses detect invisible opponents on 1--3 in 6, which is why fire giants keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
@@ -1347,7 +1357,8 @@ Larger groups are lead by classed characters, and may hold captives.
 
 AC: 12 HD: 1+2 (CR 2) Move: 12'' Attacks: weapon d8
 
-They attack with +2 to hit. No prisoners.
+They attack with +2 to hit.
+No prisoners.
 
 ### Human, Sergeant-at-Arms ###
 
@@ -1383,7 +1394,7 @@ AC: 16 HD: 9 [CR 12] Move: 24'' Attacks: dagger d4 & wisdom drain
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
 anyone reduced to 3 wisdom becomes the lamia's willing slave.
-They cast charm person and phantasmal force once per day.
+They cast Charm Person and Phantasmal Force once per day.
 
 ### Lich ###
 
@@ -1401,7 +1412,7 @@ They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 8) Move: 9'' Attacks: snakebite d6 + venom, petrification
+AC: 11 HD: 6 (CR 8) Move: 9'' Attacks: weapon, snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
 In addition to their melee attack, their snake hair bites with venom (save allowed).
@@ -1420,8 +1431,8 @@ AC: 13 HD: 6+4 (CR 6) Move: 12'' Attacks: gore d6, bite or weapon d6
 
 AC: 16 HD: 5+1 (CR 6) Move: 6'' Attacks: smash d12 (disease)
 
+The touch of these undead causes mummy rot --- wounds heal naturally at half rate, and magic healing fails until Remove Curse is cast.
 They're immune to normal weapons, and magic weapons deal half damage.
-Their touch causes mummy rot --- wounds heal naturally at half rate, and magic healing fails --- until Remove Curse is cast on the victim.
 
 ### Ocher Jelly ###
 
@@ -1480,8 +1491,8 @@ Large amounts of metal attract rust monsters.
 
 AC: 12 HD:3 (CR 3) Move: 1'' Attacks: alarm
 
-Shriekers are fungi that emit a noisy alarm for movement within 10' or light within 30'.
-Each round it sounds, their alarm attracts a wandering monster on 3 in 6.
+These fungi trumpet a shrill alarm when they detect movement within 10' or light within 30'.
+Each round it sounds, their cry attracts a wandering monster on 1--3 in 6.
 
 ### Skeleton ###
 
@@ -1507,7 +1518,8 @@ Giant spider bites are highly venomous.
 
 AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) Attacks: suck d3
 
-On a hit, a stirge inserts its blood-sucking proboscis into its opponent, and automatically deals damage each round.
+A stirge injects its syringe-like proboscis into its opponent on a successful hit.
+Once attached, the stirge slurps enough blood on each subsequent round to automatically deal damage.
 
 ### Tick, Giant ###
 
@@ -1529,20 +1541,21 @@ They surprise on 6 in 12.
 
 AC: 15 HD: 6+3 (CR 8) Move: 12'' Attacks: claws d6 & d6, bite d10
 
-They regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
+Trolls regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
 AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) Attacks: bite d10 + level drain
 
-Only magic weapons hit them, and they regenerate 3 HP per round.
-When killed by weapons or magic, vampires return to their coffins in gaseous form.
-They summon a horde of bats or 3d6 wolves at will.
-Anyone meeting their gaze must save (-2) or be charmed.
 The vampire's bite drains two class levels.
-Immersion in running water, exposure to sunlight, or a stake through the heart kills them.
 Anyone killed by a vampire become one.
+Anyone meeting their gaze must save (-2) or be charmed.
+They summon a horde of bats or 3d6 wolves at will.
+Vampires regenerate 3 HP per round.
+Only magic weapons hit them.
+When killed by weapons or magic, vampires return to their coffins in gaseous form.
+Immersion in running water, exposure to sunlight, or a stake through the heart kills them.
 
 ### Werewolf ###
 
@@ -1562,14 +1575,14 @@ Anyone killed or completely level drained (1 level per hit) by a wight becomes o
 
 AC: 16 HD: 4 (CR 6) Move: 24'' Attacks: level drain
 
-They're only harmed by magic or silver (half damage) weapons.
-They drain one class level per hit.
+Only magic or silver weapons (half damage) harm a wraith.
+Wraiths drain one class level per hit.
 
 ### Yellow Mold ###
 
 AC: N/A HD: N/A (CR 3) Move: 0'' Attacks: acid d6, spores
 
-If cut or punctured, it releases a 10' diameter cloud of poisonous spores (save or die).
+If cut or punctured, yellow mold releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
 Fire destroys it.
 
