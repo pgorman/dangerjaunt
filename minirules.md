@@ -816,7 +816,7 @@ Raise Dead only succeeds for human-like beings.
 ## Exploration ##
 
 "Exploration turns" last ten times longer than combat turns.
-Each character takes a single complex action or two simple actions during a turn --- two moves, or a move and listening at a door, or rigging a pulley, etc.
+Each character takes a single complex action or two simple actions during a turn --- two moves, a move and listening at a door, rigging a pulley, etc.
 
 During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see given the lighting and environment, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
 
@@ -900,16 +900,16 @@ Level/HD | Saving Throw
 Rather than having a single saving throw score, some referees prefer several types of saving throws.
 Saving throw types, if used, reflect the sort of dangers characters encounter.
 These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or dangers specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
-Futhermore, some character classes may excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
+Furthermore, some character classes may excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
 
 ## Morale ##
 
-Player characters never run unless the players decide they run.
-However, the sensitive nerves of henchman and hirelings, as well as monsters and non-player characters, may fail in the face of adversity.
+Player characters only run when the players decide they run.
+However, the sensitive nerves of henchman and hirelings, as well as monsters and non-player characters, sometimes fail in the face of adversity.
 
 The referee decides when to check morale.
 A morale check might happen after the first wound, or after the first death, or when only a minority remain standing.
-Any round where one side clearly come off worse than the other threatens morale.
+Any round where one side clearly comes off worse than the other threatens morale.
 
 The referee rolls 2d6 to test morale.
 A result of 6+ means they stay in the fight, though the referee might bump this target up or down a point or two based on circumstances.
@@ -917,8 +917,8 @@ Remember to add the loyalty modifier when checking morale for henchmen.
 
 ## Grappling and Subdual ##
 
-One side can attempt to grapple and subdue the other side, rendering them incapacitated but otherwise unharmed.
-In a grapple, each side rolls all its hit dice and sums the rolls.
+One side can attempt to grapple and subdue the opposing side, rendering them incapacitated but otherwise unharmed.
+In a grapple, each side rolls all its hit dice and sums the results.
 The side with the highest total wins.
 
 For example, four 1 HD dwarfs try to grapple a 6 HD cave ape.
@@ -931,11 +931,11 @@ So, the dwarfs pile onto the simian, but it sends them flying.
 ## Monsters ##
 
 Suitable monsters include creatures from mythology, giant or mutant animals, the undead, fairytale beings, antagonistic humans, carnivorous plants, fungi, dinosaurs, and even sci-fi elements, like robots or Frankenstein's monster.
-Referees can expand the roster of monsters by enhancing existing ones (fire-breathing goblins, a basilisk with x-ray vision), variant themes (wereshark, glass shard golem), or creating new monsters from scratch.
+Referees expand the roster of monsters by enhancing existing ones (fire-breathing goblins, a basilisk with x-ray vision), varying themes (wereshark, glass shard golem), or devising new monsters from scratch.
 
 ### Monster and Encounter Design ###
 
-This points-based system helps to build encounters or design new monsters.
+This points-based system helps build encounters or design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
 The point system can also assign treasure values for encounters.
 
@@ -1004,7 +1004,7 @@ CR   | XP    | Treasure Value (GP)
 25   | 5,800 | 23,200
 26   | 6,100 | 24,400
 
-To vary the difficulty of encounters in the rooms of a large dungeon area, roll a point budget multiplier for each room with an monster.
+To vary the difficulty of encounters in the rooms of a large dungeon area, roll a point budget multiplier for each room with a monster.
 
 d8   | Point Multiplier
 -----|----------------
@@ -1017,7 +1017,7 @@ d8   | Point Multiplier
 
 ### Animals and Giant Animals ###
 
-Although normal animals rarely attack humans without provocation, the mutations that cause animal gigantism often corresponds with behavioral changes, like increased aggression.
+Although normal animals rarely attack humans without provocation, mutation that cause animal gigantism often correspond with behavioral changes, like increased aggression.
 
 HD     | Animals
 -------|---------
@@ -1096,38 +1096,38 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 17 HD: 6--8 (CR 8--10 10--12) Move: 12'' (24'' flying)
+AC: 17 HD: 6--8 (CR 8--10 10--12) Move: 12'' (24'' flying) Attacks: claws d4+1 & d4+1, bite 2d10, breath
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 17 HD: 8--10 (CR 10--12 12--14) Move: 12'' (24'' flying)
+AC: 17 HD: 8--10 (CR 10--12 12--14) Move: 12'' (24'' flying) Attacks: claws d6+1 & d6+1, bite 3d10, breath
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 17 HD: 10--12 (CR 12--14 14--16) Move: 12'' (24'' flying)
+AC: 17 HD: 10--12 (CR 12--14 14--16) Move: 12'' (24'' flying) Attacks: claws 2d4 & 2d4, bite 6d6, breath
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 17 HD: 7--9 (CR 9--11 11--13) Move: 12'' (24'' flying)
+AC: 17 HD: 7--9 (CR 9--11 11--13) Move: 12'' (24'' flying) Attacks: claws d6 & d6, bite 3d6, breath
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 17 HD: 9--11 (CR 11--13 13--15) Move: 12'' (24'' flying)
+AC: 17 HD: 9--11 (CR 11--13 13--15) Move: 12'' (24'' flying) Attacks: claws d8 & d8, bite 4d8, breath
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 17 HD: 5--7 (CR 7--9 9--11) Move: 12'' (24'' flying)
+AC: 17 HD: 5--7 (CR 7--9 9--11) Move: 12'' (24'' flying) Attacks: claws d4 & d4, bite 2d8, breath
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
