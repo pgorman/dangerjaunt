@@ -1,9 +1,8 @@
-This book concentrates fantasy roleplaying game rules for experienced players.
-It assumes you know that "3d6" means to sum three rolls of a six-sided die.
+This book assumes you know that "3d6" means to sum three rolls of a six-sided die.
 It assumes you know that one player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 It assumes you know that the remaining players each take the role of an inexperienced but ambitious Player Character.
 
-Despite omissions for brevity, these rules include the tenpole elements that make the game familiar to players, and from which a referee can hang the creative elaborations that make their campaign unique.
+Despite omissions for brevity, these rules include the tenpole elements that make the game familiar to players, and from which a referee hangs the creative elaborations that make a campaign unique.
 
 # Characters #
 
