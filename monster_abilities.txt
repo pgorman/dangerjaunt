@@ -1,0 +1,7 @@
+M&T
+---
+battle lust, never check morale (berserkers)
+fericious, +2 vs normal men (berserkers)
++1 morale (brigands)
+skittish, -1 morale (cavemen)
+sea legs, fight at -1 on land (mermen)
