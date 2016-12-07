@@ -1470,7 +1470,7 @@ AC: 13 HD: 15 (CR 17) Move: 9'' Attacks: bite 2d6, sting d8 + venom
 
 Massive.
 They chew tunnels through bedrock.
-A to-hit roll of 4 higher than needed means the worm swallows its opponent whole (anything horse-size or smaller).
+A to-hit roll of 4 higher than needed or a natural 20 means the worm swallows its opponent whole (anything horse-size or smaller).
 Their tail spike envenoms (save or die).
 
 ### Rat, Sumatran ###
