@@ -1638,12 +1638,12 @@ The effects last for a short time --- no more than 2d6 hours.
 A potion affects any class of character.
 Typical potions include:
 
-1. Healing Potion
-2. Water Breathing Potion
-3. Growth Potion
+1. Healing Potion (restores d6+1 hit points)
+2. Water Breathing Potion (d6 hours per dose; contains 2-4 doses)
+3. Growth Potion (size doubles per dose; contains 3 doses; strength +4, damage doubles)
 4. Invisibility Potion
-5. Potion of Gaseous Form
-6. Potion of Fire Resistance
+5. Potion of Gaseous Form (drinker and gear to gas; immune to physical attacks; pass through any non-airtight portal)
+6. Potion of Fire Resistance (immune to normal fire; magic fire -2 per damage die)
 
 ### Scrolls ###
 
