@@ -1802,6 +1802,19 @@ d12   | Room Contents
 11    | Treasure & trick/trap
 12    | Treasure (concealed/hidden)
 
+### Traps and Tricks ###
+
+Make deadly traps obvious.
+What the trap does and its trigger beg investigation, but telegraph its presence to the players.
+Foreshadow a room that fills with poison gas, for example, with an acrid smell and faint hissing noise;
+players who fail to cautiously pursue those hints (or retreat from the room) can't complain about a save-or-die roll after they turn the dogging wheel on the opposite door, only to find both doors sealed and green steam gushing from nozzles in the ceiling.
+
+Make gotcha traps --- poison needles in door knobs or faux floors that drop characters into pits without warning --- inflict only minor damage or temporary penalties, like 1--3 HP damage or double-vision for a day (-1 to hit).
+
+Tricks differ from traps in that they befuddle players rather than harming characters.
+Tricks might be as simple as a false door, or as sophisticated as an imperceptively revolving room that opens onto different hallways depending on its orientation.
+Tricks include puzzles, riddles, and nonsense, like a sliding tile game built into a dungeon floor that must be arranged to show a picture of an open door, or a verse inscribed on a wall that must be completed by following the rhyme scheme.
+
 ### Adventure Checklist ###
 
 When planning a session, especially a short adventure or lair-type dungeon, consider including the following elements:
@@ -1844,7 +1857,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 
 ## House Rules ##
 
-Rich areas for house rules include death and dying (negative hit points? saving throw? disfigurement?), construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, languages, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, specialized character sub-classes, reincarnation and resurrection, bandaging wounds, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+Rich areas for house rules include death and dying (negative hit points? saving throw? disfigurement?), construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, languages, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, jousting rules, specialized character sub-classes, reincarnation and resurrection, bandaging wounds, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
 
 # Thanks & License #
 
