@@ -116,3 +116,13 @@ major damage (2d6) to exposed flesh (gray ooze)
 only fire kills it (yellow mold)
 burns exposed skin on contact (yellow mold)
 asphyxiating spores 10' (save or die) (yellow mold)
+
+B/X (LL)
+--------
+morale never fails when defending home (ant, giant)
+throw rocks (ape, albino)
+sometimes kept as pets (ape, albino)
+echolocation (bat)
+confuse by swarming (-2 to hit and save, spell casting impossible) (bat)
+paralyzing bite (bat, giant vampiric)
+slain foe become vampire (bat, giant vampiric)
