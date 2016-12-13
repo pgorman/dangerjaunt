@@ -1668,12 +1668,12 @@ Wands hold only a limited number of charges, usually 2--20, and have a range of 
 Only magic-users employ wands.
 Typical wands include:
 
-1. Wand of Lightning Bolts
-2. Wand of Cold
+1. Wand of Lightning Bolts (6d6 damage, save for half damage)
+2. Wand of Cold (3d6 damage, save for half damage)
 3. Wand of Trap & Secret Detection
-4. Wand of Polymorph
+4. Wand of Polymorph (save negates effect for involuntary target)
 5. Wand of Magic Detection
-6. Wand of Enemy Detection
+6. Wand of Enemy Detection (also detects invisible enemies)
 
 ### Staves ###
 
@@ -1681,21 +1681,15 @@ Only clerics use some staves; other staves may be employed only by magic-users.
 Staves hold 3--30 charges.
 Typical staves include:
 
-1. Staff of Command (clerics).
-Casts Speak with Animal, Speak with Plants, or Hold Person.
-2. Staff of Healing (clerics).
-Casts Cure Light Wounds, Cure Disease (3 charges), or Raise Dead (10 charges).
-3. Serpent Staff (clerics).
-Strikes in melee with +1 to hit and damage without expending a charge.
+1. Staff of Command (clerics) casts Speak with Animal, Speak with Plants, or Hold Person.
+2. Staff of Healing (clerics) casts Cure Light Wounds, Cure Disease (3 charges), or Raise Dead (10 charges).
+3. Serpent Staff (clerics) strikes in melee with +1 to hit and damage without expending a charge.
 Upon command, the staff transforms into a large (3 HD) snake capable of rendering a man-size opponent immobile for 1--4 turns.
-4. Staff of Withering (clerics).
-On each melee hit, the target ages ten years.
-5. Staff of Cancellation (magic-users).
+4. Staff of Withering (clerics) ages ten years for each melee hit.
+5. Staff of Cancellation (magic-users) permanently disenchants a magic item.
 Single use.
-Renders the magic item it hits permanently non-magical.
-6. Staff of Wizardry (magic-users).
-Casts Light (without using a charge), Fireball, Lightning Bolt, Charm Person, Invisibility, Fly, or (once per day) Conjure Elemental.
-Strikes in melee at +1 to hit for 2d6 damage without expending a charge.
+6. Staff of Wizardry (magic-users) casts Light (without using a charge), Fireball, Lightning Bolt, Charm Person, Invisibility, Fly, or (once per day) Conjure Elemental.
+It strikes in melee at +1 to hit for 2d6 damage without expending a charge.
 
 ### Rings ###
 
@@ -1707,7 +1701,7 @@ Ring may be worn by any character class.
 3. Ring of Regeneration (regain 1 HP/turn)
 4. Ring of Three Wishes
 5. Ring of Spell Storing (fillable with up to six spells)
-6. Ring of Weakness (requires Remove Curse to take off)
+6. Ring of Weakness (strength reduced to 3; attack and damage rolls -3; requires Remove Curse to take off)
 
 ### Swords ###
 
@@ -1721,7 +1715,7 @@ Typical magic swords include:
 5. Sword +2
 6. Sword -1 (_Remove Curse_ to drop)
 
-Rarely, magic swords are imbued with an ego, or even full-blown artificial intelligence, which they exercise in pursuit of a special mission.
+Rarely, magic swords are imbued with an ego, or even full-blown intelligence, which they exercise in pursuit of a special mission.
 Such blades compel their wielder (saving throw) to disregard self-interest and personal safety when presented with an opportunity to further their goal.
 
 ### Armor ###
@@ -1744,26 +1738,26 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 
 ### Miscellaneous Magic Items ###
 
-1. Bag of Holding
-2. Boots of Leaping
-3. Rope of Climbing
-4. Lamp of Three Wishes
-5. Crystal Ball
-6. Bracers of Defense
-7. Helm of Teleportation
-8. Gauntlets of Dexterity
-9. Girdle of Giant Strength
-10. Censer, Bowl, Brazier, or Stone of Elementals
-11. Horn of Blasting
-12. Chime of Opening
-13. Decanter of Endless water
-14. Helm of Language Comprehension
-15. Spectacles of Mesmerism
-16. Compass of Locating
-17. Flying Carpet
-18. Horseshoes of Speed
-19. Glass Eye of True Seeing
-20. Spade of Prodigious Excavation
+1. Bag of Holding (small sack on the outside, 10 x 5 x 3 ft. inside; weight never exceeds 60 lbs.)
+2. Boots of Leaping (move 24''; leap 15' vertical, 30' long jump)
+3. Bracers of Defense (AC 16)
+4. Chime of Opening (1 in 20 chance of shattering after each use; opens any mundane lock; dispels _Hold Portal_; _Silence_ negates)
+5. Censer, Bowl, Brazier, or Stone of Elementals
+6. Compass of Locating
+7. Crystal Ball
+8. Decanter of Endless water
+9. Flying Carpet
+10. Gauntlets of Dexterity
+11. Girdle of Giant Strength
+12. Glass Eye of True Seeing
+13. Helm of Language Comprehension
+14. Helm of Teleportation
+15. Horn of Blasting
+16. Horseshoes of Speed
+17. Lamp of Three Wishes
+18. Rope of Climbing
+19. Spade of Prodigious Excavation
+20. Spectacles of Mesmerism
 
 ## Adventure Design ##
 
