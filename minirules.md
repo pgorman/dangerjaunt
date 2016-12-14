@@ -1746,18 +1746,18 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 6. Compass of Locating (Like _Locate Object_; operates for 10 minutes per day)
 7. Crystal Ball (view any remote location for 1 turn; 3 uses per day)
 8. Decanter of Endless water (three command words cause either "stream" at 1 gallon/round, "fountain" at 5 gallons/round, or high-pressure "geyser" at 30 gallons/round)
-9. Flying Carpet
-10. Gauntlets of Dexterity
-11. Girdle of Giant Strength
-12. Glass Eye of True Seeing
-13. Helm of Language Comprehension
-14. Helm of Teleportation
-15. Horn of Blasting
-16. Horseshoes of Speed
+9. Flying Carpet (carries one passenger at 100'/round, two at 80'/round, three at 60'/round)
+10. Girdle of Giant Strength (melee attacks +1, damage doubled)
+11. Glass Eye of True Seeing (see invisible things, and recognize illusions; needs empty eye socket)
+12. Gloves of Dexterity (give dexterity 18)
+13. Helm of Language Comprehension (understand any speech or text)
+14. Helm of Teleportation (_Teleport_ three times per day)
+15. Horn of Blasting (deals 2d6 damage in 100' cone, save or deafens for 2d6 rounds; damages walls at close range)
+16. Horseshoes of Speed (horse travels at double speed, and needs rest only every three nights)
 17. Lamp of Three Wishes
-18. Rope of Climbing
-19. Spade of Prodigious Excavation
-20. Spectacles of Mesmerism
+18. Rope of Climbing (slithers on command to tie/untie itself to nearby anchors within 60')
+19. Spade of Prodigious Excavation (digs 10 cubic feet per turn, for up to 6 turns/day)
+20. Spectacles of Mesmerism (hold one creature frozen as long as wearer maintains eye contact; save permitted)
 
 ## Adventure Design ##
 
