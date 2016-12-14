@@ -1742,10 +1742,10 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 2. Boots of Leaping (move 24''; leap 15' vertical, 30' long jump)
 3. Bracers of Defense (AC 16)
 4. Chime of Opening (1 in 20 chance of shattering after each use; opens any mundane lock; dispels _Hold Portal_; _Silence_ negates)
-5. Censer, Bowl, Brazier, or Stone of Elementals
-6. Compass of Locating
-7. Crystal Ball
-8. Decanter of Endless water
+5. Censer, Bowl, Brazier, or Stone of Elementals (summons one elemental per day)
+6. Compass of Locating (Like _Locate Object_; operates for 10 minutes per day)
+7. Crystal Ball (view any remote location for 1 turn; 3 uses per day)
+8. Decanter of Endless water (three command words cause either "stream" at 1 gallon/round, "fountain" at 5 gallons/round, or high-pressure "geyser" at 30 gallons/round)
 9. Flying Carpet
 10. Gauntlets of Dexterity
 11. Girdle of Giant Strength
