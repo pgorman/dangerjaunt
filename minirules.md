@@ -6,7 +6,7 @@ Despite omissions for brevity, these rules include the tenpole elements that mak
 
 # Characters #
 
-Each characters has a basic class: fighter, cleric, magic-user, or thief.
+Each characters has a basic class: fighter, cleric, magic-user, or rogue.
 Most characters are human, but the referee may allow other types, including elves and dwarfs.
 
 ## Abilities ##
@@ -62,14 +62,14 @@ These magic-users wear no armor, and lack expertise in any weapon demanding more
 Magic-users begin their day by wrestling incantations from the pages of spell books into their brains.
 Once cast, a spell escapes the magic-user's mind completely, unusable a second time without further sleep and study.
 
-## Thieves ##
+## Rogues ##
 
-Thieves include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
+Rogues include altruistic Robin Hoods, dashing cat-burglar jewel rogues, and merciless petty cutthroats.
 
-Thieves know five broad skills, with each skill rated between one and six.
+Rogues know five broad skills, with each skill rated between one and six.
 To successfully use a skill, the player must roll that score or lower on a d6.
-New thief characters start with a 1 in all skills, plus two points the player may assign as desired.
-Each time the thief gains a level, the player assigns one additional point to a skill.
+New rogue characters start with a 1 in all skills, plus two points the player may assign as desired.
+Each time the rogue gains a level, the player assigns one additional point to a skill.
 
 A d6 roll equal to or lower than the skill score indicates success.
 For skills with a score of six, roll two dice; a failure occurs only when both dice come up sixes.
@@ -80,7 +80,7 @@ For skills with a score of six, roll two dice; a failure occurs only when both d
 - Assassination (poisons, backstabbing, nerve strikes)
 - Chicanery (disguise, fast-talking, forgery, intimidation, ventriloquism, coin clipping)
 
-When surprising an opponent, a thief backstabs with a damage roll multiplied by their Assassination score.
+When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score.
 
 ## Elves ##
 
@@ -92,7 +92,7 @@ Elf characters maintain one experience total for their magic-user levels and ano
 
 ## Dwarfs ##
 
-Dwarfs can be either fighters or thieves.
+Dwarfs can be either fighters or rogues.
 Dwarfs make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
 Dwarfs know about stonework, gems, engineering, and metalwork;
 the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it. Dwarfs notice secret doors on 1--2 in 6 simply by passing near them.
@@ -944,7 +944,7 @@ Calculate the Challenge Rating (CR) of the player character party by summing poi
 - 2 points per character with plate mail (or better)
 - 1 pt per spell caster maximum spell level (e.g. a magic-user who can cast third-level spells is 3 points)
 
-For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a thief for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
+For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a rogue for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
 
 This also works for a non-player character party.
 
