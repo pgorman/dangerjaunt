@@ -32,6 +32,12 @@
 }{
     \end{enumerate}
 }
+\newcommand{\blankpage}{
+    \newpage
+    \thispagestyle{empty}
+    \mbox{}
+    \newpage
+}
 \setlength\columnsep{4ex}
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -40,10 +46,21 @@
 
 \begin{document}
 
-\title{\normalfont\normalsize \uline{Danger Jaunt to Wonder Vault} \\ \vspace{3ex} \footnotesize Concentrated Fantasy Roleplaying Game Guidelines \\ Unearthed in Furtherance of the Cloistered Labors of Devil Ghost}
-\author{\normalsize Paul Gorman \\ \footnotesize devilghost.com}
-\date{}
-\maketitle
+\begin{titlepage}
+\null
+    \begin{center}
+	\Huge Danger Jaunt to Wonder Vault \\
+    \vspace{1.5ex}
+    \includegraphics[scale=0.65]{img/poag-adventurers-and-bem.png} \\
+	\small Condensed Guidelines for Fantastic Adventure Gaming \\
+    \vspace{5ex}
+	\normalsize Paul Gorman \\
+	\footnotesize devilghost.com
+    \end{center}
+\end{titlepage}
+\clearpage
+
+\blankpage
 
 \input{test-body}
 
