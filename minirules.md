@@ -7,7 +7,7 @@ Despite omissions for brevity, these rules include the tenpole elements that mak
 # Characters #
 
 Each characters has a basic class: fighter, cleric, magic-user, or rogue.
-Most characters are human, but the referee may allow other types, including elves and dwarfs.
+Most characters are human, but the referee may allow other types, including elves and dwarves.
 
 ## Abilities ##
 
@@ -90,14 +90,15 @@ When acting as a fighter, an elf casts no spells.
 
 Elf characters maintain one experience total for their magic-user levels and another for their fighter levels.
 
-## Dwarfs ##
+## Dwarves ##
 
-Dwarfs can be either fighters or rogues.
-Dwarfs make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
-Dwarfs know about stonework, gems, engineering, and metalwork;
-the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it. Dwarfs notice secret doors on 1--2 in 6 simply by passing near them.
+Dwarves can be either fighters or rogues.
+Dwarves make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
+Dwarves know about stonework, gems, engineering, and metalwork;
+the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it.
+Dwarves notice secret doors on 1--2 in 6 simply by passing near them.
 
-After attaining level 6, dwarfs suffer a 50% reduction in subsequent earned experience.
+After attaining level 6, dwarves suffer a 50% reduction in subsequent earned experience.
 
 ## Alignment ##
 
@@ -345,7 +346,7 @@ Clerics replenish their expended spells each morning by prayer.
 
 ### Spell Books ###
 
-New magic-users start the game with a spell book containing Read Magic, one spell rolled at random, and one spell chosen by the player.
+New magic-users start the game with a spell book containing Read Magic/Languages, one spell rolled at random, and one spell chosen by the player.
 Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, has acquired a new spell book containing one chosen and one random spell of that level.
 Additional spells must be researched by the character, found in dank dungeon vaults, or looted from the corpses of enemy casters.
 
@@ -383,7 +384,7 @@ The cost doubles for each spell level, so scribing a sixth-level spell costs 3,2
 
 ### Brewing Potions ###
 
-While only casters invoke a spell scrolls, drinking a potion affects anyone.
+While only casters invoke spell scrolls, drinking a potion affects anyone.
 Clerics brew up to one potion per week to duplicate the effect of any spell they can cast that affects the caster.
 Magic-users brew potions with the help of an alchemist.
 Material costs of potions follow that of scrolls.
@@ -394,7 +395,7 @@ Material costs of potions follow that of scrolls.
 
 #### 1. Charm Person ####
 
-Charm Person affects living bipeds of about human size or smaller, such as hobgoblins and dwarfs.
+Charm Person affects living bipeds of about human size or smaller, such as hobgoblins and dwarves.
 Should the unfortunate creature fail its saving throw, it believes the caster a close, trusted friend.
 Range: 12''; duration: until dispelled.
 
@@ -417,7 +418,7 @@ Range 12''; duration: 2 hours.
 
 #### 5. Read Magic/Languages ####
 
-Only the Read Magic spell allows a caster to decipher mystical writing on items and scrolls.
+The spell allows a caster to comprehend either mystical writing on items and scrolls, or mundane foreign tongues.
 The caster also understands otherwise unknown, lost, ancient, or cryptic scribblings.
 Range: caster; duration: instant.
 
@@ -920,10 +921,10 @@ One side can attempt to grapple and subdue the opposing side, rendering them inc
 In a grapple, each side rolls all its hit dice and sums the results.
 The side with the highest total wins.
 
-For example, four 1 HD dwarfs try to grapple a 6 HD cave ape.
-The dwarfs roll 4d6 for a total of eleven.
+For example, four 1 HD dwarves try to grapple a 6 HD cave ape.
+The dwarves roll 4d6 for a total of eleven.
 The ape rolls 6d6 for a total of seventeen.
-So, the dwarfs pile onto the simian, but it sends them flying.
+So, the dwarves pile onto the simian, but it sends them flying.
 
 # Referee #
 
