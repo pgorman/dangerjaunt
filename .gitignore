@@ -7,3 +7,6 @@
 test-body.tex
 test-body.tmp.tex
 ogl.tmp.tex
+.body.tex
+.body.tmp.tex
+.ogl.tmp.tex
