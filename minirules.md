@@ -1858,6 +1858,6 @@ Rich areas for house rules include death and dying (negative hit points? saving 
 
 Thanks to Gary Gygax, Dave Arneson, Eric Holmes, Tom Moldvay, Matt Finch, Daniel Proctor, and James Raggi.
 
-This work is licensed under the Open Gaming License.
+This work is copyright Paul Gorman 2015, and licensed under the Open Gaming License.
 You should have received a copy of the full license with this book.
-The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the entire Referee section.
+The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the Adventure Design section.

@@ -3,6 +3,7 @@
 *.out
 *.pdf
 *.swp
+*.toc
 test-body.tex
 test-body.tmp.tex
 ogl.tmp.tex

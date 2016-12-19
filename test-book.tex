@@ -1,8 +1,11 @@
 \documentclass[fontsize=9pt,twoside]{scrreprt}
 \linespread{1.2}
-\usepackage[T1]{fontenc}
 \usepackage[variablett]{lmodern}
 \renewcommand*\familydefault{\ttdefault} % Use typewritter font for body
+\usepackage{tgadventor} % Default sans-serif font for section headings
+\usepackage[T1]{fontenc}
+\setcounter{tocdepth}{2}
+\usepackage{tocloft}
 \usepackage{tipa}
 \usepackage{hyphenat}
 \usepackage[protrusion=true,expansion=true]{microtype} % Tweak typography
@@ -10,7 +13,7 @@
 % \usepackage{multicol}
 \usepackage{xfrac}
 %\usepackage{lipsum}
-\usepackage[bookmarksopen,bookmarksopenlevel=2,bookmarksdepth=4]{hyperref}
+\usepackage[bookmarks,bookmarksopen,bookmarksopenlevel=2,bookmarksdepth=4]{hyperref}
 \hypersetup{pdftex,colorlinks=true,allcolors=blue}
 \pagestyle{plain}
 \usepackage[normalem]{ulem} % Enhanced underlining
@@ -18,10 +21,10 @@
 \usepackage{supertabular}
 \usepackage{booktabs}
 \setcounter{secnumdepth}{-1}
-\setkomafont{chapter}{\centering\fontfamily{antt}\selectfont\Huge}
-\setkomafont{section}{\fontfamily{antt}\selectfont\huge}
-\setkomafont{subsection}{\fontfamily{antt}\selectfont\Large}
-\setkomafont{subsubsection}{\fontfamily{antt}\selectfont\normalsize}
+\setkomafont{chapter}{\centering\selectfont\Huge}
+\setkomafont{section}{\selectfont\huge}
+\setkomafont{subsection}{\selectfont\Large}
+\setkomafont{subsubsection}{\selectfont\normalsize}
 \setkomafont{paragraph}{\normalfont\normalsize\uline}
 \setlist[enumerate]{leftmargin=1.2em,itemsep=-1ex\raggedright}
 % Enumerated list for ranges:
@@ -49,14 +52,14 @@
 \begin{titlepage}
 \null
     \begin{center}
+    \vspace{-5ex}
+	\textbf{\fontfamily{antt}\fontsize{40}{40}\selectfont Danger Jaunt \\ \fontsize{32}{32}\selectfont to Wonder Vault} \\
     \vspace{1.5ex}
-	\textbf{\fontfamily{antt}\selectfont \Huge Danger Jaunt to Wonder Vault} \\
-    \vspace{1.5ex}
-    \includegraphics[scale=0.65]{img/poag-adventurers-and-bem.png} \\
+    \includegraphics[scale=0.625]{img/poag-adventurers-and-bem.png} \\
 	\small Condensed Guidelines for Fantastic Adventure Gaming \\
-    \vspace{5ex}
+    \vspace{2.5ex}
 	\normalsize Paul Gorman \\
-    \vspace{7ex}
+    \vspace{4ex}
 	\includegraphics[scale=.125]{img/devilghost.png} \\
 	\footnotesize devilghost.com
     \end{center}
@@ -64,6 +67,13 @@
 \clearpage
 
 \blankpage
+
+\renewcommand\thepage{}
+\thispagestyle{empty}
+\pdfbookmark[1]{Contents}{toc}
+{\small \tableofcontents}
+\clearpage
+\renewcommand\thepage{\arabic{page}}
 
 \input{test-body}
 
