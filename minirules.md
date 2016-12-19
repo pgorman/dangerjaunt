@@ -1017,7 +1017,7 @@ d8   | Point Multiplier
 
 ### Animals and Giant Animals ###
 
-Although normal animals rarely attack humans without provocation, mutation that cause animal gigantism often correspond with behavioral changes, like increased aggression.
+Although normal animals rarely attack humans without provocation, mutations that cause animal gigantism often correspond with behavioral changes, like increased aggression.
 
 HD     | Animals
 -------|---------

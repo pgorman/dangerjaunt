@@ -18,10 +18,10 @@
 \usepackage{supertabular}
 \usepackage{booktabs}
 \setcounter{secnumdepth}{-1}
-\setkomafont{chapter}{\centering\normalsize\normalfont\uppercase}
-\setkomafont{section}{\normalfont\normalsize\uline}
-\setkomafont{subsection}{\normalfont\normalsize\uline}
-\setkomafont{subsubsection}{\normalfont\normalsize\uline}
+\setkomafont{chapter}{\centering\fontfamily{antt}\selectfont\Huge}
+\setkomafont{section}{\fontfamily{antt}\selectfont\huge}
+\setkomafont{subsection}{\fontfamily{antt}\selectfont\Large}
+\setkomafont{subsubsection}{\fontfamily{antt}\selectfont\normalsize}
 \setkomafont{paragraph}{\normalfont\normalsize\uline}
 \setlist[enumerate]{leftmargin=1.2em,itemsep=-1ex\raggedright}
 % Enumerated list for ranges:
@@ -49,12 +49,15 @@
 \begin{titlepage}
 \null
     \begin{center}
-	\Huge Danger Jaunt to Wonder Vault \\
+    \vspace{1.5ex}
+	\textbf{\fontfamily{antt}\selectfont \Huge Danger Jaunt to Wonder Vault} \\
     \vspace{1.5ex}
     \includegraphics[scale=0.65]{img/poag-adventurers-and-bem.png} \\
 	\small Condensed Guidelines for Fantastic Adventure Gaming \\
     \vspace{5ex}
 	\normalsize Paul Gorman \\
+    \vspace{7ex}
+	\includegraphics[scale=.125]{img/devilghost.png} \\
 	\footnotesize devilghost.com
     \end{center}
 \end{titlepage}
