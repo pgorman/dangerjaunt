@@ -172,6 +172,12 @@ A sixth-level cleric, for example, gets an attack bonus of +3.
 
 Monsters use an attack bonus equal to their hit dice.
 
+## Damage ##
+
+Most weapons do 1d6 damage on a successful hit.
+A fighter wielding a martial weapon, such as a longsword, does 1d8 damage.
+Fighters who forgo a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
+
 ## Armor Class, Encumbrance, Wandering Monsters ##
 
 Of all pieces of standard gear, armor is the heaviest and most mechanically important.
@@ -282,12 +288,6 @@ Stakes (wood, dozen) 1 gp,
 Tent 20 gp,
 Waterskin 1 gp,
 Wolfsbane 10 gp
-
-## Damage ##
-
-Most weapons do 1d6 damage on a successful hit.
-A fighter wielding a martial weapon, such as a longsword, does 1d8 damage.
-Fighters who forgo a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
 
 ## Henchmen, Hirelings, and Experts ##
 
