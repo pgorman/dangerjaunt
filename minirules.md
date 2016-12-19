@@ -39,7 +39,7 @@ Score  | Modifier
 Clerics are militant crusaders, jovial friars, or cunning hunters of the undead.
 
 Each day, they pray for particular spells from their spell list.
-At any point during play, a cleric may swap out a prepared spell for the Turn Undead spell.
+At any point during play, a cleric may swap out a prepared spell for the _Turn Undead_ spell.
 
 Clerics use any armor, but only blunt weapons.
 
@@ -346,7 +346,7 @@ Clerics replenish their expended spells each morning by prayer.
 
 ### Spell Books ###
 
-New magic-users start the game with a spell book containing Read Magic/Languages, one spell rolled at random, and one spell chosen by the player.
+New magic-users start the game with a spell book containing _Read Magic/Languages_, one spell rolled at random, and one spell chosen by the player.
 Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, has acquired a new spell book containing one chosen and one random spell of that level.
 Additional spells must be researched by the character, found in dank dungeon vaults, or looted from the corpses of enemy casters.
 
@@ -395,7 +395,7 @@ Material costs of potions follow that of scrolls.
 
 #### 1. Charm Person ####
 
-Charm Person affects living bipeds of about human size or smaller, such as hobgoblins and dwarves.
+_Charm Person_ affects living bipeds of about human size or smaller, such as hobgoblins and dwarves.
 Should the unfortunate creature fail its saving throw, it believes the caster a close, trusted friend.
 Range: 12''; duration: until dispelled.
 
@@ -407,7 +407,7 @@ Range: 6''; duration: 20 minutes.
 
 #### 3. Hold Portal ####
 
-Hold Portal magically freezes the position of a door or gate.
+_Hold Portal_ magically freezes the position of a door or gate.
 Creatures with magic resistance unhinge the spell with minor effort.
 Range: referee's discretion; duration: 2d6 turns.
 
@@ -438,18 +438,18 @@ Range: 6''; duration: 2 hours.
 
 #### 2. Invisibility/Detect Invisibility  ####
 
-The object of Invisiblity, whether a person or a thing, becomes invisible to both normal vision and darkvision.
+The object of _Invisiblity_, whether a person or a thing, becomes invisible to both normal vision and darkvision.
 An invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to hit.
 Range: 24''; duration: until dispelled or attack.
 
-Detect Invisibility reveals invisible creatures and objects to the caster.
+_Detect Invisibility_ reveals invisible creatures and objects to the caster.
 Range: 1''/caster level; duration: 1 hour.
 
 #### 3. Knock/Lock ####
 
 Knock unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
-Lock is like Hold Portal, but permanent.
-Lock may be temporarily overridden by Knock, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the Lock caster.
+Lock is like _Hold Portal_, but permanent.
+Lock may be temporarily overridden by _Knock_, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the _Lock_ caster.
 Range: 6''; duration: instant.
 
 #### 4. Locate Object ####
@@ -481,7 +481,7 @@ Range: 6''; duration: 2 hours.
 
 #### 2. Dispel Magic ####
 
-Dispel Magic completely dispels most enchantments and spells.
+_Dispel Magic_ completely dispels most enchantments and spells.
 Range 12''; duration: 10 minutes.
 
 #### 3. Fire Ball ####
@@ -507,14 +507,14 @@ Range: 6'', duration: instant.
 
 #### 6. Water Breathing ####
 
-Water Breathing imbues the target's lungs with the ability to wring oxygen from water.
+_Water Breathing_ imbues the target's lungs with the ability to wring oxygen from water.
 Range: 3'', duration: 2 hours.
 
 ### Magic-User Spells Level 4 ###
 
 #### 1. Charm Monster ####
 
-Charm Monster acts like Charm Person, but affects any creature.
+_Charm Monster_ acts like _Charm Person_, but affects any creature.
 For monsters 3 HD or fewer, it charms 3d6 individuals.
 Range: 6'', duration: until dispelled.
 
@@ -539,23 +539,23 @@ Range: 1'' casting, 36'' teleport; duration: instant.
 
 The caster announces which form he chooses when casting.
 
-Polymorph Other turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, or a newt).
+_Polymorph Other_ turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, or a newt).
 The polymorphed creature gains all the abilities of the new form, but keeps its own mind and hit points.
 This transformation lasts until dispelled.
 
-Polymorph Self gives the magic-user the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
+_Polymorph Self_ gives the magic-user the form and attributes (use of wings, for example) of any object or creature, but not its hit points or combat abilities.
 This lasts for one hour plus one additional hour for each caster level.
 
 #### 7. Wall of Fire or Wall of Ice ####
 
 The caster announces which form she chooses when casting.
 
-Wall of Fire ignites a wall that keeps burning while the caster concentrates on it.
+_Wall of Fire_ ignites a wall that keeps burning while the caster concentrates on it.
 Creatures with three or fewer hit dice cannot pass through the wall, and no creature sees through it.
 Crossing the fire inflicts d6 points of damage (no saving throw), and undead sustain twice that damage.
 The caster can either create a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
 
-Wall of Ice conjures a 6 foot thick wall of ice.
+_Wall of Ice_ conjures a 6 foot thick wall of ice.
 The caster chooses either a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
 Creatures with 3 or fewer hit dice cannot affect the wall, but creatures of 4+ hit dice smash through it by taking d6 damage.
 Fire-based creatures take 2d6 damage.
@@ -600,7 +600,7 @@ Plane | Insanity | Right  | Wrong
 
 #### 4. Feeblemind ####
 
-This arcane lobotomy renders a target Magic-User's mind inadaquate to contain spells.
+This arcane lobotomy renders a target Magic-User's mind inadequate to contain spells.
 Save with a -4 penalty.
 Range: 24'', duration: permanent until dispelled.
 
@@ -640,7 +640,7 @@ The caster calls down rain or drains it away, parches the ground or freezes the 
 
 The caster atomizes one specific target --- a door, a peasant, a statue --- into a scant shower of dust.
 Magical materials ignore disintegration, and living creatures get a saving throw.
-Dispel Magic fails to restore the pile of dust to its original form.
+_Dispel Magic_ fails to restore the pile of dust to its original form.
 Range: 6'', duration: permanent.
 
 #### 3. Geas ####
@@ -653,7 +653,7 @@ Range: 3'', duration: until complete.
 
 This spell summons an Invisible Stalker with 8 HD.
 The stalker completes one task by command of the magic-user, regardless of how long, twisted, or bloody a road it must travel to reach that goal.
-Dispel Magic does not banish the stalker; kill it to end its mission.
+_Dispel Magic_ does not banish the stalker; kill it to end its mission.
 
 #### 5. Reincarnation ####
 
@@ -669,7 +669,7 @@ Range: 12'', duration: permanent.
 
 ## Cleric Spells ##
 
-An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. Cause Light Wounds).
+An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. _Cause Light Wounds_).
 
 ### Cleric Spells Level 1 ###
 
@@ -720,7 +720,7 @@ Range: touch, duration: 1 hour.
 
 #### 2. Hold Person ####
 
-The caster influences either 1d4 persons (with the same stipulations as Charm Person) or a single person who saves at -2.
+The caster influences either 1d4 persons (with the same stipulations as _Charm Person_) or a single person who saves at -2.
 Range: 18'', duration: 90 minutes.
 
 #### 3. Silence 15' Radius ####
@@ -739,7 +739,7 @@ Range: 3'', duration: 1 hour.
 
 #### 1. Cure Disease\* ####
 
-Cure Disease cures the recipient of any magical or natural disease.
+_Cure Disease_ cures the recipient of any magical or natural disease.
 Range: touch, duration: instant.
 
 #### 2. Growth of Animals ####
@@ -763,7 +763,7 @@ Answers from spirits often come as riddles or in an otherwise cryptic form.
 
 #### 1. Cure Serious Wounds\* ####
 
-Cure Serious Wounds heals 3d6+3 hit points.
+_Cure Serious Wounds_ heals 3d6+3 hit points.
 Range: touch, duration: instant.
 
 #### 2. Neutralize Poison ####
@@ -773,7 +773,7 @@ Range: touch, duration: instant.
 
 #### 3. Protection from Evil 10' radius ####
 
-This spell works like Protection from Evil, but covers a 10' radius area and anyone in it.
+This spell works like _Protection from Evil_, but covers a 10' radius area and anyone in it.
 Range: 1'', duration: 2 hours.
 
 #### 4. Speak with Plants ####
@@ -788,11 +788,11 @@ Range: 3'', duration: 1 hour.
 
 Higher powers grant answers to three questions the cleric poses.
 Constant interrogation by mortals irritates higher powers, who rarely welcome more than one interview per week.
-A cleric can cast a double strength Commune spell composed of six questions once per year.
+A cleric can cast a double strength _Commune_ spell composed of six questions once per year.
 
 #### 2. Dispel Evil\* ####
 
-Dispel Evil works against items, spells, or agents of Evil.
+_Dispel Evil_ works against items, spells, or agents of Evil.
 It also disrupts evil sendings, like dreams or spectral hunting-beasts.
 Range: 3'', duration: 10 minutes.
 
@@ -805,11 +805,11 @@ Range: 48'', duration: 1 day.
 
 #### 4. Raise Dead\* ####
 
-Provided it has not lain dead too long, Raise Dead allows the cleric to breath life back into a corpse.
+Provided it has not lain dead too long, _Raise Dead_ allows the cleric to breath life back into a corpse.
 The base time limit is four days, but for every caster level higher than 8$^{th}$, the time limit extends another four days.
 Characters of frail constitution might not survive the ordeal;
 even the robust require two weeks of recuperation before they fully shrug off the chill of the grave.
-Raise Dead only succeeds for human-like beings.
+_Raise Dead_ only succeeds for human-like beings.
 
 # Play #
 
@@ -1144,7 +1144,7 @@ Some grant wishes.
 AC: 14 HD: 4 (CR 5) Move: 9'' Attacks: claw d8
 
 Doppelgangers transform to look like anyone.
-They're immune to Sleep and Charm, and save +5 versus all magic.
+They're immune to _Sleep_ and _Charm_, and save +5 versus all magic.
 
 ### Elemental ###
 
@@ -1193,15 +1193,15 @@ Each round, it attacks with its central eye and three eye stalks:
 
 Eye     | Power
 :------:|------
-Central | Flesh to stone ray
+Central | _Flesh to Stone_ ray
 1       | Alter time (slow)
-2       | Polymorph
-3       | Hold monster
-4       | Sleep
-5       | Hold person
+2       | _Polymorph_
+3       | _Hold Monster_
+4       | _Sleep_
+5       | _Hold Person_
 6       | Stun ray
-7       | Telekinesis
-8       | Feeblemind
+7       | _Telekinesis_
+8       | _Feeblemind_
 
 ### Gargoyle ###
 
@@ -1214,7 +1214,7 @@ Only magical weapons hit gargoyles. They sometimes serve evil masters.
 AC: 10 HD: 1 HP (CR 1) Move: 3'' Attacks: infection
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
-A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless Cure Disease is cast.
+A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless _Cure Disease_ is cast.
 
 ### Gelatinous Cube ###
 
@@ -1228,7 +1228,7 @@ Lightning and cold don't harm gelatinous cubes.
 AC: 13 HD: 2 (CR 3) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
-They're immune to Sleep and charm spells.
+They're immune to _Sleep_ and charm spells.
 Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
@@ -1271,7 +1271,7 @@ Stone giants keep d4 cave bears.
 AC: 18 HD: 16 (CR 16) Move: 15'' Attacks: squash 3d6 or boulders 7d6
 
 More intelligent and magical than other giants, storm giants live in undersea or mountaintop castles.
-They throw boulders for 7d6 damage, and cast Control Weather.
+They throw boulders for 7d6 damage, and cast _Control Weather_.
 Storm giants keep giant mounts of a type appropriate for their castle's terrain.
 
 ### Goblin ###
@@ -1303,7 +1303,7 @@ AC: 14 HD: 16 (CR 16) Move: 6'' Attacks: fists 2d6 & 2d6
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
-Only magic weapons +2 or better hit Stone golems.
+Only magic weapons +2 or better hit stone golems.
 
 ### Gray Ooze ###
 
@@ -1314,7 +1314,7 @@ Any metal object it contacts is dissolved (save vs. acid).
 
 ### Green Slime ###
 
-Any metal or organic matter touching it turns to slime (save allowed), though Cure Disease halts the transformation.
+Any metal or organic matter touching it turns to slime (save allowed), though _Cure Disease_ halts the transformation.
 Fire or cold kills green slime.
 
 ### Griffon ###
@@ -1327,7 +1327,7 @@ Eggs snatched from mountain nests command a high price, because fledgling can be
 
 AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
 
-Their song lures hearers, and their touch acts like Charm Person.
+Their song lures hearers, and their touch acts like _Charm Person_.
 Saves apply.
 
 ### Hell Hound ###
@@ -1394,7 +1394,7 @@ AC: 16 HD: 9 [CR 12] Move: 24'' Attacks: dagger d4 & wisdom drain
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
 anyone reduced to 3 wisdom becomes the lamia's willing slave.
-They cast Charm Person and Phantasmal Force once per day.
+They cast _Charm Person_ and _Phantasmal Force_ once per day.
 
 ### Lich ###
 
@@ -1431,14 +1431,14 @@ AC: 13 HD: 6+4 (CR 6) Move: 12'' Attacks: gore d6, bite or weapon d6
 
 AC: 16 HD: 5+1 (CR 6) Move: 6'' Attacks: smash d12 (disease)
 
-The touch of these undead causes mummy rot --- wounds heal naturally at half rate, and magic healing fails until Remove Curse is cast.
+The touch of these undead causes mummy rot --- wounds heal naturally at half rate, and magic healing fails until _Remove Curse_ is cast.
 They're immune to normal weapons, and magic weapons deal half damage.
 
 ### Ocher Jelly ###
 
 AC: 11 HD: 5 (CR 6) Move: 3'' Attacks: dissolve 2d6
 
-Their acid dissolves killed opponents (making Raise Dead nearly impossible).
+Their acid dissolves killed opponents (making _Raise Dead_ nearly impossible).
 
 ### Ogre ###
 
@@ -1527,7 +1527,7 @@ AC: 15 HD: 3 (CR 4) Move: 3'' Attacks: suck 4 HP
 
 Giant ticks suck blood worth 4 HP damage per round after a successful hit.
 Fire forces them off a victim.
-Disease caused by tick bites kill in 2d4 days, unless Cure Disease is cast.
+Disease caused by tick bites kill in 2d4 days, unless _Cure Disease_ is cast.
 
 ### Toad, Giant ###
 
@@ -1654,9 +1654,9 @@ Scrolls are single-use --- the writing of each spell vanishes from the page as i
 Spell scrolls contain 1--3 spells.
 Typical scrolls include:
 
-1. Spell scroll: Light, Knock
-2. Spell scroll: Charm Person, Charm Monster, Conjure Elemental
-3. Spell scroll: Sleep
+1. Spell scroll: _Light_, _Knock_
+2. Spell scroll: _Charm Person_, _Charm Monster_, _Conjure Elemental_
+3. Spell scroll: _Sleep_
 4. Protection from Lycanthropes
 5. Protection from Undead
 6. Protection from Magic
@@ -1682,14 +1682,14 @@ Only clerics use some staves; other staves may be employed only by magic-users.
 Staves hold 3--30 charges.
 Typical staves include:
 
-1. Staff of Command (clerics) casts Speak with Animal, Speak with Plants, or Hold Person.
-2. Staff of Healing (clerics) casts Cure Light Wounds, Cure Disease (3 charges), or Raise Dead (10 charges).
+1. Staff of Command (clerics) casts _Speak with Animal_, Speak with Plants, or Hold Person.
+2. Staff of Healing (clerics) casts _Cure Light Wounds_, Cure Disease (3 charges), or Raise Dead (10 charges).
 3. Serpent Staff (clerics) strikes in melee with +1 to hit and damage without expending a charge.
 Upon command, the staff transforms into a large (3 HD) snake capable of rendering a man-size opponent immobile for 1--4 turns.
 4. Staff of Withering (clerics) ages ten years for each melee hit.
 5. Staff of Cancellation (magic-users) permanently disenchants a magic item.
 Single use.
-6. Staff of Wizardry (magic-users) casts Light (without using a charge), Fireball, Lightning Bolt, Charm Person, Invisibility, Fly, or (once per day) Conjure Elemental.
+6. Staff of Wizardry (magic-users) casts _Light_ (without using a charge), _Fireball_, _Lightning Bolt_, _Charm Person_, _Invisibility_, _Fly_, or (once per day) _Conjure Elemental_.
 It strikes in melee at +1 to hit for 2d6 damage without expending a charge.
 
 ### Rings ###
@@ -1702,7 +1702,7 @@ Ring may be worn by any character class.
 3. Ring of Regeneration (regain 1 HP/turn)
 4. Ring of Three Wishes
 5. Ring of Spell Storing (fillable with up to six spells)
-6. Ring of Weakness (strength reduced to 3; attack and damage rolls -3; requires Remove Curse to take off)
+6. Ring of Weakness (strength reduced to 3; attack and damage rolls -3; requires _Remove Curse_ to take off)
 
 ### Swords ###
 
