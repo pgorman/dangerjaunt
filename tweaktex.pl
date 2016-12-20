@@ -8,6 +8,7 @@ while (<>) {
 	s/(\d+)'/\1\$\^\{\\prime\}\$\\,/g; # Foot marks
 	s/(\d+)\/(\d+)/\$\\sfrac\{\1\}\{\2\}\$/g; # Fractions
 	s/([Mm])elee/\1\\^\{e\}l\\'\{e\}e/g; # Melee
+	s/Magic\/Languages/Magic\\slash Languages/g; # Breakable frontslash
 #	s/\\begin\{longtable\}\[\]/\\begin\{table*\}\[t\]\\begin\{tabular\}/g; # We're not using longtable because we want twocolumn
 #	s/\\end\{longtable\}/\\end\{tabular\}\\end\{table*\}/g;
 #	s/^\\endhead$//g; # We're not using longtable because we want twocolumn

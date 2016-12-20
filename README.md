@@ -5,7 +5,7 @@
 What sets **Danger Jaunt to Wonder Vault** apart from other games?
 
 - short page count
-- small page size (5.5 x 8.5 inches)
+- compact page size: available as both US digest (5.5 x 8.5) and A5
 - concise writing style
 - provide _enough_ stuff to run a game, but _little enough_ stuff to leave the referee creative space
 - base text written in Markdown (easy to edit)
