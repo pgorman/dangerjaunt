@@ -961,7 +961,7 @@ Calculate the challenge rating of a monster encounter by summing the following p
 
 - 1 point per hit die
 - 0.5 points per additional monster, rounded down (e.g. four monsters adds 1 points, rounded down from 1.5)
-- 1 point per additional attack per round (e.g. claw/claw/bite adds 2 points)
+- 0.5 points per additional attack per round, rounded down (e.g. claw/claw/bite adds 1 points)
 - 2 points for being hard to hit (flying, invisible, strong AC, immunity to non-magic weapons)
 - 2 points for attacks that bypass the front line (missile fire, area effects)
 - 4 points for a very bad attack or permanent wreckage (save or die, turn to stone, level drain)
@@ -1038,14 +1038,14 @@ Give one the size of an elephant eight hit dice.
 
 ### Baalroch Demon ###
 
-AC: 17 HD: 9 (CR 10 12) Move: 6'' (15'' flying) Attacks: sword d12, flames 3d6
+AC: 17 HD: 9 (CR 13) Move: 6'' (15'' flying) Attacks: sword d12, flames 3d6
 
 Wreathed in flame, these bull-like, bat-winged demons wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 They resist magic 75%, and casters below 6th level affect them not at all.
 
 ### Basilisk###
 
-AC: 15 HD: 6 (CR 8 10) Move: 6'' Attacks: bite d10
+AC: 15 HD: 6 (CR 10) Move: 6'' Attacks: bite d10
 
 The gaze of these eight-legged reptiles turns living things to stone.
 
@@ -1065,7 +1065,7 @@ Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents
 
 ### Carcass Scavenger ###
 
-AC: 12 HD: 3+1 (CR 5 10) Move: 12'' Attacks: eight paralyzing tentacles
+AC: 12 HD: 3+1 (CR 7) Move: 12'' Attacks: eight paralyzing tentacles
 
 The carcass scavenger has a nine-foot-long segmented body with many legs.
 A ring of eight stinging tentacles encircling its maw cause paralysis lasting 2d4 rounds (save allowed).
@@ -1073,7 +1073,7 @@ Once alone with a paralyzed victim, the carcass scavenger swallows its prey whol
 
 ### Cockatrice ###
 
-AC: 13 HD: 5 (CR 7 9) Move: 6'' (18'' flying) Attacks: bite d6 & stone
+AC: 13 HD: 5 (CR 11) Move: 6'' (18'' flying) Attacks: bite d6 & stone
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -1096,44 +1096,44 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 17 HD: 6--8 (CR 8--10 10--12) Move: 12'' (24'' flying) Attacks: claws d4+1 & d4+1, bite 2d10, breath
+AC: 17 HD: 6--8 (CR 11--13) Move: 12'' (24'' flying) Attacks: claws d4+1 & d4+1, bite 2d10, breath
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 17 HD: 8--10 (CR 10--12 12--14) Move: 12'' (24'' flying) Attacks: claws d6+1 & d6+1, bite 3d10, breath
+AC: 17 HD: 8--10 (CR 13--15) Move: 12'' (24'' flying) Attacks: claws d6+1 & d6+1, bite 3d10, breath
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 17 HD: 10--12 (CR 12--14 14--16) Move: 12'' (24'' flying) Attacks: claws 2d4 & 2d4, bite 6d6, breath
+AC: 17 HD: 10--12 (CR 15--17) Move: 12'' (24'' flying) Attacks: claws 2d4 & 2d4, bite 6d6, breath
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 17 HD: 7--9 (CR 9--11 11--13) Move: 12'' (24'' flying) Attacks: claws d6 & d6, bite 3d6, breath
+AC: 17 HD: 7--9 (CR 12--14) Move: 12'' (24'' flying) Attacks: claws d6 & d6, bite 3d6, breath
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 17 HD: 9--11 (CR 11--13 13--15) Move: 12'' (24'' flying) Attacks: claws d8 & d8, bite 4d8, breath
+AC: 17 HD: 9--11 (CR 14--16) Move: 12'' (24'' flying) Attacks: claws d8 & d8, bite 4d8, breath
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 17 HD: 5--7 (CR 7--9 9--11) Move: 12'' (24'' flying) Attacks: claws d4 & d4, bite 2d8, breath
+AC: 17 HD: 5--7 (CR 10--12) Move: 12'' (24'' flying) Attacks: claws d4 & d4, bite 2d8, breath
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
 ### Djinn ###
 
-AC: 14 HD: 7+1 (CR 9 10) Move: 9'' (24'' flying) Attacks: fists 2d8 or whirlwind
+AC: 14 HD: 7+1 (CR 10) Move: 9'' (24'' flying) Attacks: fists 2d8 or whirlwind
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
@@ -1159,7 +1159,7 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 36'' flying Attacks: wind 2d8 or hurl creature
+AC: 17 HD: 8, 12, 16 (CR 10, 14, 18) Move: 36'' flying Attacks: wind 2d8 or hurl creature
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
@@ -1186,7 +1186,7 @@ They never stray more than 60' from a body of water, and their melee attack do o
 
 ### Eye of Terror ###
 
-AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 14) Move: 6'' levitating
+AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 6'' levitating
 
 Its tentacles are poisonous (save or die).
 Each round, it attacks with its central eye and three eye stalks:
@@ -1205,7 +1205,7 @@ Central | _Flesh to Stone_ ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 6) Move: 9'' (15'' flying) Attacks: claws d3 & d3, bite d4, horn d6
+AC: 14 HD: 4 (CR 7) Move: 9'' (15'' flying) Attacks: claws d3 & d3, bite d4, horn d6
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
@@ -1225,7 +1225,7 @@ Lightning and cold don't harm gelatinous cubes.
 
 ### Ghoul ###
 
-AC: 13 HD: 2 (CR 3) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
+AC: 13 HD: 2 (CR 4) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
 They're immune to _Sleep_ and charm spells.
@@ -1233,13 +1233,15 @@ Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
 
-AC: 15 HD: 12+2 (CR 13) Move: 15'' Attacks: squash 3d6 or boulders 6d6
+AC: 15 HD: 12+2 (CR 15) Move: 15'' Attacks: squash 3d6 or boulders 6d6
 
-Cloud giants live in cloud castles. Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage. They enslave captives on their cloud islands.
+Cloud giants live in cloud castles.
+Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage.
+They enslave captives on their cloud islands.
 
 ### Giant, Fire ###
 
-AC: 15 HD: 11+3 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 5d6
+AC: 15 HD: 11+3 (CR 14) Move: 12'' Attacks: squash 3d6 or boulders 5d6
 
 Fire giants live in iron or basalt castles near volcanoes.
 They throw boulders for 5d6 damage, and are immune to fire damage.
@@ -1247,28 +1249,28 @@ Fire giants keep packs of hell hounds.
 
 ### Giant, Frost ###
 
-AC: 15 HD: 10+1 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 4d6
+AC: 15 HD: 10+1 (CR 13) Move: 12'' Attacks: squash 3d6 or boulders 4d6
 
 They throw icy boulders for 4d6 damage, and are immune to cold damage.
 Frost giants are often accompanied by giant white wolves.
 
 ### Giant, Hill ###
 
-AC: 15 HD: 8 (CR 9) Move: 12'' Attacks: squash 2d6 or boulders 2d8
+AC: 15 HD: 8 (CR 11) Move: 12'' Attacks: squash 2d6 or boulders 2d8
 
 Hill giants throw rocks for 2d8 damage.
 They sometimes bully giant lizards, ogres, or worgs into guarding their lairs.
 
 ### Giant, Stone ###
 
-AC: 15 HD: 9 (CR 10) Move: 12'' Attacks: squash 3d6 or boulders 3d6
+AC: 15 HD: 9 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 3d6
 
 They throw rocks for 3d6 damage, and favor mountain ambushes.
 Stone giants keep d4 cave bears.
 
 ### Giant, Storm ###
 
-AC: 18 HD: 16 (CR 16) Move: 15'' Attacks: squash 3d6 or boulders 7d6
+AC: 18 HD: 16 (CR 20) Move: 15'' Attacks: squash 3d6 or boulders 7d6
 
 More intelligent and magical than other giants, storm giants live in undersea or mountaintop castles.
 They throw boulders for 7d6 damage, and cast _Control Weather_.
@@ -1276,13 +1278,13 @@ Storm giants keep giant mounts of a type appropriate for their castle's terrain.
 
 ### Goblin ###
 
-AC: 13 HD: 1-1 (CR <1) Move: 9'' Attacks: weapon d6
+AC: 13 HD: 1-1 (CR 1/2) Move: 9'' Attacks: weapon d6
 
 In full sunlight, they attack at -1 to hit.
 
 ### Golem, Flesh ###
 
-AC: 10 HD: 12 (CR 12) Move: 8'' Attacks: fists d8 & d8
+AC: 10 HD: 12 (CR 14) Move: 8'' Attacks: fists d8 & d8
 
 They're immune to non-magical weapons.
 Only fire or cold spells damage flesh golems.
@@ -1299,7 +1301,7 @@ No other spell types affect them.
 
 ### Golem, Stone ###
 
-AC: 14 HD: 16 (CR 16) Move: 6'' Attacks: fists 2d6 & 2d6
+AC: 14 HD: 16 (CR 18) Move: 6'' Attacks: fists 2d6 & 2d6
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
@@ -1319,27 +1321,27 @@ Fire or cold kills green slime.
 
 ### Griffon ###
 
-AC: 16 HD: 7 (CR 8) Move: 12'' (27'' flying) Attacks: claws d4 & d4, bite 2d8
+AC: 16 HD: 7 (CR 10) Move: 12'' (27'' flying) Attacks: claws d4 & d4, bite 2d8
 
 Eggs snatched from mountain nests command a high price, because fledgling can be trained as mounts.
 
 ### Harpy ###
 
-AC: 12 HD: 3 (CR 4) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
+AC: 12 HD: 3 (CR 6) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
 
 Their song lures hearers, and their touch acts like _Charm Person_.
 Saves apply.
 
 ### Hell Hound ###
 
-AC: 15 HD: 4--7 (CR 5--8) Move: 12'' Attacks: bite d6, fire breath
+AC: 15 HD: 4--7 (CR 6--9) Move: 12'' Attacks: bite d6, fire breath
 
 Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why fire giants keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 12'' (27'' flying) Attacks: claws d6 & d6, bite d10
+AC: 14 HD: 3+1 (CR 6) Move: 12'' (27'' flying) Attacks: claws d6 & d6, bite d10
 
 Like griffons.
 
@@ -1355,9 +1357,9 @@ Larger groups are lead by classed characters, and may hold captives.
 
 ### Human, Berserker ###
 
-AC: 12 HD: 1+2 (CR 2) Move: 12'' Attacks: weapon d8
+AC: 12 HD: 1+2 (CR 2) Move: 12'' Attacks: weapon d8 (+2 to hit)
 
-They attack with +2 to hit.
+Their frenzied attacks strike with +2 to hit.
 No prisoners.
 
 ### Human, Sergeant-at-Arms ###
@@ -1372,24 +1374,24 @@ AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d8
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 7--12) Move: 9'' Attacks: bite d6 per head
+AC: 14 HD: 5--12 (equals of heads) (CR 8--15) Move: 9'' Attacks: bite d6 per head
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
 
 ### Invisible Stalker ###
 
-AC: 16 HD: 8 (CR 9) Move: 12'' Attacks: bite 4d4
+AC: 16 HD: 8 (CR 10) Move: 12'' Attacks: bite 4d4
 
 ### Kobold ###
 
-AC: 13 HD: 1/2 (CR <1) Move: 6'' Attacks: weapon d6
+AC: 13 HD: 1/2 (CR 1/2) Move: 6'' Attacks: weapon d6
 
 Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 12] Move: 24'' Attacks: dagger d4 & wisdom drain
+AC: 16 HD: 9 [CR 13] Move: 24'' Attacks: dagger d4 & wisdom drain
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
@@ -1398,7 +1400,7 @@ They cast _Charm Person_ and _Phantasmal Force_ once per day.
 
 ### Lich ###
 
-AC: 19 HD: 12--18 (CR 15--21) Move: 6'' Attacks: paralysis touch
+AC: 19 HD: 12--18 (CR 22--28) Move: 6'' Attacks: paralysis touch
 
 They're undead wizards, with magic-user levels equal to their hit dice.
 Their touch paralyzes (no save);
@@ -1406,20 +1408,20 @@ even seeing a lich paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 8) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
+AC: 15 HD: 6+4 (CR 11) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 8) Move: 9'' Attacks: weapon, snakebite d6 + venom, petrification
+AC: 11 HD: 6 (CR 11) Move: 9'' Attacks: weapon, snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
 In addition to their melee attack, their snake hair bites with venom (save allowed).
 
 ### Mimic ###
 
-AC 12 HD: 7--10 (CR 8--11) Move: 3'' Attacks: pseudopod 3d4
+AC 12 HD: 7--10 (CR 7--10) Move: 3'' Attacks: pseudopod 3d4
 
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
@@ -1429,7 +1431,7 @@ AC: 13 HD: 6+4 (CR 6) Move: 12'' Attacks: gore d6, bite or weapon d6
 
 ### Mummy ###
 
-AC: 16 HD: 5+1 (CR 6) Move: 6'' Attacks: smash d12 (disease)
+AC: 16 HD: 5+1 (CR 9) Move: 6'' Attacks: smash d12 (disease)
 
 The touch of these undead causes mummy rot --- wounds heal naturally at half rate, and magic healing fails until _Remove Curse_ is cast.
 They're immune to normal weapons, and magic weapons deal half damage.
@@ -1459,7 +1461,7 @@ Reports of stag-headed and cock-headed orcs remain in question, since orcs love 
 
 ### Owlbear ###
 
-AC 14 HD: 5 (CR 5) Move: 12'' Attacks: claws d8 & d8, bite d8
+AC 14 HD: 5 (CR 6) Move: 12'' Attacks: claws d8 & d8, bite d8
 
 ### Pegasus ###
 
@@ -1476,13 +1478,13 @@ Their tail spike envenoms (save or die).
 
 ### Rat, Sumatran ###
 
-AC: 12 HD: 1-1 (CR <1) Move: 12'' Attacks: bite d3 (disease)
+AC: 12 HD: 1-1 (CR 1/2) Move: 12'' Attacks: bite d3 (disease)
 
 One in twenty Sumatran rat bites cause disease (save vs. poison).
 
 ### Rust Monster ###
 
-AC: 17 HD: 5 (CR 6) Move 12 Attacks: rust
+AC: 17 HD: 5 (CR 7) Move 12'' Attacks: rust
 
 Hits from a rust monster instantly rust armor; hits against it rust weapons.
 Large amounts of metal attract rust monsters.
@@ -1500,7 +1502,7 @@ AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' Attacks: weapon d6
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 9) Move: 15'' (30'' flying) Attacks: touch d8 + level drain
+AC: 17 HD: 6 (CR 12) Move: 15'' (30'' flying) Attacks: touch d8 + level drain
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1531,7 +1533,7 @@ Disease caused by tick bites kill in 2d4 days, unless _Cure Disease_ is cast.
 
 ### Toad, Giant ###
 
-AC: 12 HD 2+2 (CR 4) Move: 9'' Attacks: bite d4+1, swallow
+AC: 12 HD 2+2 (CR 3) Move: 9'' Attacks: bite d4+1, swallow
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
@@ -1546,7 +1548,7 @@ Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
-AC: 17 HD: 7--9 (CR 9--11) Move: 12'' (18'' flying) Attacks: bite d10 + level drain
+AC: 17 HD: 7--9 (CR 15--17) Move: 12'' (18'' flying) Attacks: bite d10 + level drain
 
 The vampire's bite drains two class levels.
 Anyone killed by a vampire become one.
@@ -1559,21 +1561,21 @@ Immersion in running water, exposure to sunlight, or a stake through the heart k
 
 ### Werewolf ###
 
-AC: 14 HD: 3 (CR 4) Move: 12'' Attacks: bite 2d4 (lycanthropy)
+AC: 14 HD: 3 (CR 5) Move: 12'' Attacks: bite 2d4 (lycanthropy)
 
 Werewolves are only harmed by silver or magic weapons.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
 
-AC: 14 HD: 3 (CR 5) Move: 9'' Attacks: level drain
+AC: 14 HD: 3 (CR 9) Move: 9'' Attacks: level drain
 
 Only magic or silver weapons harm them, and they're immune to sleep or charm spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
 
-AC: 16 HD: 4 (CR 6) Move: 24'' Attacks: level drain
+AC: 16 HD: 4 (CR 10) Move: 24'' Attacks: level drain
 
 Only magic or silver weapons (half damage) harm a wraith.
 Wraiths drain one class level per hit.
@@ -1588,7 +1590,7 @@ Fire destroys it.
 
 ### Zombie ###
 
-AC: 11, 12 w/ shield HD: 1 (CR 2) Move: 6'' Attacks: weapon d8
+AC: 11, 12 w/ shield HD: 1 (CR 1) Move: 6'' Attacks: weapon d8
 
 ## Treasure ##
 

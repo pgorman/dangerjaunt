@@ -27,6 +27,11 @@ The PDF uses the following LaTeX fonts:
 - Latin Modern Mono (lmodern)
 - Antykwa Toruńska (antt)
 
+## Making It Your Own ##
+
+- Make your changes to `dangerjaunt.md`.
+- Generate the PDF's and HTML by running `./makebook.sh`.
+
 ## License ##
 
 The text of **Danger Jaunt to Wonder Vault** is licensed under the terms of the Open Gaming License;
