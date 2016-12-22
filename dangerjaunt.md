@@ -82,6 +82,8 @@ For skills with a score of six, roll two dice; a failure occurs only when both d
 
 When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score.
 
+Wearing heavier than leather armor prevents use of Stealth, Acrobatics, and Tinkering.
+
 ## Elves ##
 
 Elves choose each morning whether to act as magic-users or fighters.
