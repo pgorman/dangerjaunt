@@ -178,7 +178,8 @@ Monsters use an attack bonus equal to their hit dice.
 
 Most weapons do 1d6 damage on a successful hit.
 A fighter wielding a martial weapon, such as a longsword, does 1d8 damage.
-Fighters who forgo a shield in order to wield a two-handed weapons, such as a polearm, deal 1d10 damage.
+Fighters who forgo a shield in order to wield a two-handed weapon, such as a polearm, deal 1d10 damage.
+(A fighter wielding two weapons is mechanically identical --- make one attack roll for d10 damage.)
 
 ## Armor Class, Encumbrance, Wandering Monsters ##
 
