@@ -858,18 +858,13 @@ If monsters take flight, the players decide whether to pursue.
 When player characters flee monsters, the referee consults the Monster (Re)actions table;
 the monsters give chase on a "hostile" result.
 
-The faster side wins a chase.
-If the pursuers have the higher movement rate, they catch the pursued.
-Those fleeing make good their escape if they have a greater movement rate than their pursuers.
+Pursuit is asymmetric.
+Faster player characters always catch slower monsters, and faster monsters always escape slower characters.
+But, when fleeing monsters, characters always escape.
 
-The frenzy of the chase makes drafting or consulting maps impossible.
-When player characters make a getaway through unfamiliar territory, they wind up in a room (selected by the referee) 1--3 full moves from where the chase began, and must reorient themselves.
-
-Players desperate for their characters to escape a faster foe have one final option: a sacrifice.
-A player character with the slowest movement, perhaps through heroic self-sacrifice or perhaps after being tripped by another party member, stays behind so that the others escape.
-The referee decides whether the sacrificed characters is captured (and eligible for later rescue) or eaten whole.
-The remaining player characters find themselves disoriented (as above) and split into 2--3 separate rooms.
-They must reorient themselves and reunite.
+After escaping, characters wind up in a room chosen by the referee, and must reorient themselves.
+When evading slower pursuers, the chase ends 1--2 moves from its start, in a cardinal direction chosen by the players.
+Having fled faster foes, characters find themselves 1--4 moves away, in an unknown cardinal direction secretly rolled by the referee.
 
 ## Monster (Re)actions ##
 
