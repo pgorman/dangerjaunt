@@ -1011,6 +1011,77 @@ d8   | Point Multiplier
 7    | x 1
 8    | x 3
 
+#### Monster Attributes ####
+
+1. Ferocious/strong/fast: +_N_ to hit
+2. Dangerous underfoot: +_N_ to hit vs large/giants
+3. Trained: +_N_ vs 1 HD creatures
+4. Veteran: 1 attack/HD vs 1 HD creatures
+5. Disciplined: +_N_ morale
+6. Mindless: never check morale
+7. Only magic attacks damage them
+8. Brute: +_N_ damage
+9. Hulk: _N_ damage dice
+10. Regenerate _N_ hp/turn
+12. Those killed by them become like them
+13. Those killed by them become like them, under control of killer
+14. Those killed by them become a different monster
+15. Their hits paralyze opponents for _N_ turns
+16. Their hits drain _N_ levels
+17. Escapist: flee in insubstantial form when apparently killed
+18. Call other monsters
+19. Turn opponent to stone on hit/look
+20. Fly
+22. Venomous sting/bite (save or die? save for half damage?)
+23. Breath fire/acid/gas/lightning/cold
+24. Shoot natural missiles, _N_ per turn
+25. Multi-part monster, _N_ hit dice per part
+26. Multiple heads, one attack per head
+27. Mass attack (e.g. whirlwind) blows away those of less than _N_ HD
+28. Can carry massive weight
+29. Creates food/gold/drugs _N_ times per day
+30. Create illusions
+31. Assume gaseous form
+32. Charm
+33. Polymorph
+34. Invisibility
+35. Cast a particular spell _N_ times per day
+36. Cast spell like a level _N_ magic-user
+37. If summoned/subdued/named, will serve for _N_ days
+38. Hits multiply/fragment/divide it
+39. Squeezed through small spaces
+40. Moves over floors, walls, or ceilings
+41. Corrodes/dissolves metal/wood/flesh/whatever on contact
+42. Asphyxiating spores/gas _N_ feet (save or die? save for half damage?)
+43. Morale never fails when defending home
+44. "Attach" after first hit; subsequent turns damage without further to-hit roll
+45. Darkvision: see in darkness but -1 in daylight
+46. Echolocation
+47. Young can be trained as mounts
+48. Only encountered near water/lava/whatever
+49. Keep pets/animal guardians
+50. Sometimes kept as pets
+51. Invulnerability exception: fire/lighting/whatever hurts them
+52. Sunlight/fire/beheading/whatever truly kills them
+53. Sensitive to cold/fire/water/whatever, takes double damage
+54. Sea legs -1 to hit on land
+55. Skittish -_N_ morale
+56. Flee from mirrors/garlic/whatever
+57. Mirrors/garlic/whatever force them to check morale at -_N_
+58. Need regular proximity to coffin/tree/whatever
+59. Can't move across water/fire/whatever
+60. _Dispel Magic_ banishes them
+61. They carry treasure around with them
+62. Confuse/distract with their swarming/shrieking/whatever (-1 to hit)
+63. Hit causes disease (magical or non-magical)
+64. Undead (susceptible to _Turn Undead_)
+65. Immune to _Sleep_/_Charm Person_/_Hold Person_
+66. 
+67. 
+68. 
+69. 
+70. 
+
 ### Animals and Giant Animals ###
 
 Although normal animals rarely attack humans without provocation, mutations that cause animal gigantism often correspond with behavioral changes, like increased aggression.

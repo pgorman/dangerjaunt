@@ -1,8 +1,68 @@
 Extracted
 ---------
 
-ferocious/strong/fast +N to hit
-ferocious/strong/fast +N vs 1 HD/giants/etc.
+Ferocious/strong/fast: +N to hit
+Dangerous underfoot: +N to hit vs large/giants
+Trained: +N vs 1 HD creatures
+Veteran: 1 attack/HD vs 1 HD creatures
+Disciplined: +N morale
+Mindless: never check morale
+Only magic attacks damage them
+Brute: +N damage
+Hulk: N damage dice
+Regenerate N hp/turn
+Those killed by them become like them
+Those killed by them become like them, under control of killer
+Those killed by them become a different monster
+Their hits paralyze opponents for N turns
+Their hits drain N levels
+Escapist: flee in insubstantial form when apparently killed
+Call NdN (lesser) monsters
+Turn opponent to stone on hit/look
+Fly
+Venomous sting/bite (save or die? save for half damage?)
+Breath fire/acid/gas/lightning/cold
+Shoot natural missiles, N per turn
+Multi-part monster, N hit dice per part
+Multiple heads, one attack per head
+Mass attack (e.g. whirlwind) blows away those of less than N HD
+Can carry massive weight
+Creates food/gold/drugs N times per day
+Create illusions
+Assume gaseous form
+Charm
+Polymorph
+Invisibility
+Cast a particular spell N times per day
+Cast spell like a level N magic-user
+If summoned/subdued/named, will serve for N days
+Hits multiply/fragment/divide it
+Squeezed through small spaces
+Moves over floors, walls, or ceilings
+Corrodes/dissolves metal/wood/flesh/whatever on contact
+Asphyxiating spores/gas N feet (save or die? save for half damage?)
+Morale never fails when defending home
+"Attach" after first hit; subsequent turns damage without further to-hit roll
+
+Darkvision: see in darkness but -1 in daylight
+Echolocation
+Young can be trained as mounts
+Only encountered near water/lava/whatever
+Keep pets/animal guardians
+Sometimes kept as pets
+
+Invulnerability exception: fire/lighting/whatever hurts them
+Sunlight/fire/beheading/whatever truly kills them
+Sensitive to cold/fire/water/whatever, takes double damage
+Sea legs -1 to hit on land
+Skittish -N morale
+Flee from mirrors/garlic/whatever
+Mirrors/garlic/whatever force them to check morale at -N
+Need regular proximity to coffin/tree/whatever
+Can't move across water/fire/whatever
+_Dispel Magic_ banishes them
+
+They carry treasure around with them
 
 M&T
 ---
