@@ -1814,26 +1814,6 @@ Tricks include puzzles, riddles, and nonsense, like a sliding tile game built in
 
 ### Wandering Monster List Making List ###
 
-1. Smells 2. Noises 3. NPC 4. Weirdness 5--20. Monsters
-
-#### Smells ####
-
-1. Floral 2. Sulfurous/chemical 3. Smoky 4. Savory 5. Decay 6. Wood/earthy 7. Toasty/nutty 8. Pungent/fishy 9. Ozone 10. Fecal
-
-#### Noises ####
-
-1. Muffled angry voices 2. Distant laughter 3. Weeping 4. Drums or pipes 5. Crash/explosion 6. High-pitch whine 7. Low-pitch drone/rumble 8. Metallic scraping or tapping 9. Howling, grunts, animal noises 10. Horn/siren
-
-#### NPC ####
-
-1--8. Mixed party 9--12. Fighter/soldiers 13--14. Merchants/traders 15. Elves 16. Dwarves 17. Clerics 18. Magic-Users 19. Rogues 20. Villager/commoners/angry mob
-
-#### Weirdness ####
-
-1. Mist/fog 2. Phantasmal patrol 3. Seismic tremors 4. Mystical vision 5. Glowing energy cloud 6. Sounds unnaturally amplified 7. Very hot/cold 8. Trail of blood/slime/fur/feather/mud/broken glass 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20.
-
-#### Monsters ####
-
 1. Traveling: 1. To/from elsewhere on current level 2. To/from level above 3. To/from level below 4. To/from surface 5. Very secret passage 6. By magic
 2. Escorting: 1. Slaves 2. Enemy captives 3. Friendly VIP 4. Criminals 5. Livestock 6. Diplomatic mission
 3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering tribute (paying) 4. Tribute (collecting) 5. Foodstuffs 6. Threats 7. Weapons 8. Intelligence/maps 9. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber) 10. xxxxxx
