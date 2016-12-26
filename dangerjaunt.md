@@ -1023,6 +1023,7 @@ d8   | Point Multiplier
 8. Brute: +_N_ damage
 9. Hulk: _N_ damage dice
 10. Regenerate _N_ hp/turn
+11. Hit from whip/sticky tongue/whatever drags enemy into melee
 12. Those killed by them become like them
 13. Those killed by them become like them, under control of killer
 14. Those killed by them become a different monster
@@ -1032,8 +1033,9 @@ d8   | Point Multiplier
 18. Call other monsters
 19. Turn opponent to stone on hit/look
 20. Fly
+21. Creates persistent area effects (e.g. sticky webs)
 22. Venomous sting/bite (save or die? save for half damage?)
-23. Breath fire/acid/gas/lightning/cold
+23. Breath fire/acid/gas/lightning/cold/steam
 24. Shoot natural missiles, _N_ per turn
 25. Multi-part monster, _N_ hit dice per part
 26. Multiple heads, one attack per head
@@ -1043,13 +1045,13 @@ d8   | Point Multiplier
 30. Create illusions
 31. Assume gaseous form
 32. Charm
-33. Polymorph
+33. Polymorph self, possibly limited to one or two alternate forms
 34. Invisibility
 35. Cast a particular spell _N_ times per day
 36. Cast spell like a level _N_ magic-user
 37. If summoned/subdued/named, will serve for _N_ days
 38. Hits multiply/fragment/divide it
-39. Squeezed through small spaces
+39. Squeezes through small spaces
 40. Moves over floors, walls, or ceilings
 41. Corrodes/dissolves metal/wood/flesh/whatever on contact
 42. Asphyxiating spores/gas _N_ feet (save or die? save for half damage?)
@@ -1076,11 +1078,41 @@ d8   | Point Multiplier
 63. Hit causes disease (magical or non-magical)
 64. Undead (susceptible to _Turn Undead_)
 65. Immune to _Sleep_/_Charm Person_/_Hold Person_
-66. 
-67. 
-68. 
-69. 
-70. 
+66. Hug/swallow: after hitting in one turn, it does more damage on the subsequent turn
+67. Final strike: delivers major attack, then dies
+68. Nettle: hit leaves behind irritant that causes ongoing minor damage or disadvantage until treated
+69. Limited teleport
+70. Stealthy: surprise opponents on _N_ in 6
+71. Numerous minor/inconvenience attacks accrue disadvantage on opponents
+72. Attracted by noise/spells/cooking/whatever
+73. Curse
+74. Disguised as someone or something else
+75. Drowns opponents underwater or drops them from the air
+76. Leader type has superior abilities
+77. Takes no damage from fire/cold/lightning/magic/whatever
+78. Alert: never or rarely surprised
+79. Often ride special mounts
+80. Surrounded by aura or gas cloud that disadvantages melee opponents
+81. Destroys (wood/metal) weapons that strike it
+82. Those it kills can not be raised from death
+83. _N_ percent chance to resist magic
+84. Can see invisible things
+85. Damage it causes drops as it looses hit points
+86. Part of its body (tusk/horn/gland/skin/fur) has commercial value
+87. Dormant/non-aggressive until exposed to light/water/air/whatever
+88. Several of them work together to achieve a high-level spell/elemental summoning/whatever
+89. Confusing resemblance to another monster
+90. Takes only half damage from edged/piercing/blunt weapons
+91. Infects/burrows into/lays eggs in victim, resulting in death/whatever in _N_ days
+92. Possesses the body of its victim
+93. Especially powerful/vulnerable at a certain time of month/year
+94. Blinds/deafens opponents
+95. Detects and pilfers certain item types (food/magic-items/whatever)
+96. Chance to disenchant magic items
+97. Cause earthquake or explosion, which may collapse cave or dungeon
+98. Visually or audibly loud; they never surprise
+99. Particular animus or fondness for another type of monster
+100. Attack (temporarily or permanently) reduces an ability score
 
 ### Animals and Giant Animals ###
 
