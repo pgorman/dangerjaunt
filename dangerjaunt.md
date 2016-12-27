@@ -808,7 +808,7 @@ Range: 48'', duration: 1 day.
 
 #### 4. Raise Dead\* ####
 
-Provided it has not lain dead too long, _Raise Dead_ allows the cleric to breath life back into a corpse.
+Provided it has not lain dead too long, _Raise Dead_ allows the cleric to breathe life back into a corpse.
 The base time limit is four days, but for every caster level higher than 8$^{th}$, the time limit extends another four days.
 Characters of frail constitution might not survive the ordeal;
 even the robust require two weeks of recuperation before they fully shrug off the chill of the grave.
@@ -832,7 +832,7 @@ Bullseye Lantern | 80' cone   | 12 hours
 
 ## Encounters ##
 
-1. Surprise? Base chance of 1--2 in 6. Check both sides, if appropriate.
+1. Surprise? Base chance of 1--2 in 6. Roll for both sides.
 2. Encounter distance (if not dictated by environment) is the sum of both surprise rolls x 10'.
 3. Anyone surprised stands frozen for a turn. Anyone not surprised has the options:
 	- Evasion (the referee asks: "Do you run away?")
@@ -848,7 +848,7 @@ Bullseye Lantern | 80' cone   | 12 hours
 	2. Missile fire
 	3. Melee
 
-To score a successful hit during missile fire or melee, the sum of the attacker's d20 to-hit roll, base attack bonus, and any situational bonuses must equal or exceed the target's armor class.
+To score a hit during missile fire or melee, the sum of the attacker's d20 to-hit roll, base attack bonus, and any situational bonuses must equal or exceed the target's armor class.
 The attacker rolls damage after a hit, and deducts the damage rolled from the target's hit points.
 Any character or monster reduced to zero or fewer hit points dies.
 
@@ -1011,7 +1011,7 @@ d8   | Point Multiplier
 7    | x 1
 8    | x 3
 
-#### Monster Attributes ####
+### Monster Attributes ###
 
 1. Ferocious/strong/fast: +_N_ to hit
 2. Dangerous underfoot: +_N_ to hit vs large/giants
@@ -1035,7 +1035,7 @@ d8   | Point Multiplier
 20. Fly
 21. Creates persistent area effects (e.g. sticky webs)
 22. Venomous sting/bite (save or die? save for half damage?)
-23. Breath fire/acid/gas/lightning/cold/steam
+23. Breathe fire/acid/gas/lightning/cold/steam
 24. Shoot natural missiles, _N_ per turn
 25. Multi-part monster, _N_ hit dice per part
 26. Multiple heads, one attack per head
@@ -1180,7 +1180,7 @@ Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
 Dragons use their breath weapons three times per day (save for half damage).
 The breath weapon damage and their hit points per HD depend on their age.
-A 6 HD adult black dragon has 24 HP and breaths acid for 24 HP damage.
+A 6 HD adult black dragon has 24 HP and breathes acid for 24 HP damage.
 
 d8 | Dragon Age | HP per HD | Dmg per HD
 :-:|------------|:---------:|:---------:
@@ -1428,14 +1428,14 @@ Eggs snatched from mountain nests command a high price, because fledgling can be
 
 AC: 12 HD: 3 (CR 6) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
 
-Their song lures hearers, and their touch acts like _Charm Person_.
+Their song lures listeners, and their touch acts like _Charm Person_.
 Saves apply.
 
 ### Hell Hound ###
 
 AC: 15 HD: 4--7 (CR 6--9) Move: 12'' Attacks: bite d6, fire breath
 
-Besides biting, they breath fire for 2 HP damage per HD (10', save for half damage).
+They breathe fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why fire giants keep hell hounds as guard dogs.
 
 ### Hippogriff ###
@@ -1941,8 +1941,8 @@ The type of "lair" dungeons seen in adventure modules is composed of one or two 
 A megadungeon, on the other hand, descends at least ten levels deep --- each level more perilous than the one above it --- with dozens or hundreds of rooms per level occupied by numerous monster factions.
 Such a dungeon acts as the tentpole of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
 
-- To start, map and key all or most of the first two or three levels.
-- Make the maps non-linear, so the players tackle or bypass areas by choice.
+- Map and key all or most of the first two or three levels before play begins.
+- Make the maps non-linear, to let the players tackle or bypass areas as they choose.
 - Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level).
 - Remember vertical movement!
 	- Connect each level to several others, not just the levels immediately above and below.
@@ -1954,8 +1954,8 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 	- Each level holds one or two magic swords, locked in forgotten vaults or possessed by the local anti-paladin.
 	- Each level holds one or two major magic items of note.
 	- Each level has one or two exceptionally interesting baddies.
-- Make a list of rumors about the above, and slowly feed them to the players.
-- Write a wandering monster table for each level, and include lost, visiting, or raiding monsters from the adjacent levels.
+- List rumors about major magic items and monsters, and slowly feed them to the players.
+- Write a wandering monster table for each level, and include lost, visiting, or raiding monsters from adjacent levels.
 - Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
 - Add several outside entrances to the dungeon going to different levels.
 - Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
