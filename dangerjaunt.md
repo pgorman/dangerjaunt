@@ -1945,7 +1945,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 - Make the maps non-linear, to let the players tackle or bypass areas as they choose.
 - Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level).
 - Remember vertical movement!
-	- Connect each level to several others, not just the levels immediately above and below.
+	- Connect each level to at least one other, besides the levels immediately above and below.
 	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
 - Populate each level with multiple cooperative or antagonistic monster factions.
 - Divide each level into sub-areas with distinct features, under the control of a particular monster faction.
