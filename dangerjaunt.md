@@ -86,19 +86,24 @@ Wearing heavier than leather armor prevents use of Stealth, Acrobatics, and Tink
 
 ## Elves ##
 
-Elves choose each morning whether to act as magic-users or fighters.
-When acting as a magic-user, an elf wears no armor.
-When acting as a fighter, an elf casts no spells.
+Elves are outsiders.
+Psychologically and physiologically alien, they walk as tourists through the human world.
 
-Elf characters maintain one experience total for their magic-user levels and another for their fighter levels.
+Their nature lets them cast spells while wearing armor and bearing arms, but it also distances them from the immediacy and urgency of experience that drives mortal men.
+After third level, elves keep only 1/4 the experience points they earn.
+
+Aging and fear effects, _Sleep_, _Charm_, _Hold_, and ghoul paralysis do not affect elves.
 
 ## Dwarves ##
 
-Dwarves can be either fighters or rogues.
-Dwarves make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
+Dwarves are flesh and blood, but also ore and stone.
+They love beards, brew, and cunning craft.
+
+Dwarves work as either fighters or rogues.
+They make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
 Dwarves know about stonework, gems, engineering, and metalwork;
 the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it.
-Dwarves notice secret doors on 1--2 in 6 simply by passing near them.
+On 1--2 in 6, dwarves notice secret doors simply by passing near them.
 
 After attaining level 6, dwarves suffer a 50% reduction in subsequent earned experience.
 
