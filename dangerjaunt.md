@@ -64,10 +64,9 @@ Once cast, a spell escapes the magic-user's mind completely, unusable a second t
 
 ## Rogues ##
 
-Rogues include altruistic Robin Hoods, dashing cat-burglar jewel rogues, and merciless petty cutthroats.
+Rogues include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
 
 Rogues know five broad skills, with each skill rated between one and six.
-To successfully use a skill, the player must roll that score or lower on a d6.
 New rogue characters start with a 1 in all skills, plus two points the player may assign as desired.
 Each time the rogue gains a level, the player assigns one additional point to a skill.
 
@@ -97,7 +96,7 @@ Aging and fear effects, _Sleep_, _Charm_, _Hold_, and ghoul paralysis do not aff
 ## Dwarves ##
 
 Dwarves are flesh and blood, but also ore and stone.
-They love beards, brew, and cunning craft.
+They love their beards, their brew, and all masterful craft.
 
 Dwarves work as either fighters or rogues.
 They make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
