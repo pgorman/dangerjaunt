@@ -1,12 +1,13 @@
-This book assumes you know that "3d6" means to sum three rolls of a six-sided die.
-It assumes you know that one player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
-It assumes you know that the remaining players each take the role of an inexperienced but ambitious Player Character.
+This fantasy adventure game is played with pencils, paper, and polyhedral dice.
+"3d6" means to sum three rolls of a six-sided die.
+One player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
+The remaining players each take the role of an inexperienced but ambitious Player Character.
 
-Despite omissions for brevity, these rules include the tenpole elements that make the game familiar to players, and from which a referee hangs the creative elaborations that make a campaign unique.
+Despite omissions for brevity, these rules include the tent pole elements that make the game familiar to players, and from which a referee hangs the creative elaborations that make a campaign unique.
 
 # Characters #
 
-Each characters has a basic class: fighter, cleric, magic-user, or rogue.
+Each characters has a class: fighter, cleric, magic-user, or rogue.
 Most characters are human, but the referee may allow other types, including elves and dwarves.
 
 ## Abilities ##
@@ -51,7 +52,7 @@ Whether seasoned soldier, retired gladiator, or haughty duelist, a fighter lives
 
 Fighters use any weapons or armor.
 
-At ninth level, fighters may become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
+At ninth level, fighters become lords of their own domain, clearing wilderness to build a castle, raising an army, and levying taxes.
 
 ## Magic-Users ##
 
@@ -67,7 +68,7 @@ Once cast, a spell escapes the magic-user's mind completely, unusable a second t
 Rogues include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
 
 Rogues know five broad skills, with each skill rated between one and six.
-New rogue characters start with a 1 in all skills, plus two points the player may assign as desired.
+New rogue characters start with a 1 in all skills, plus two points the player assigns as desired.
 Each time the rogue gains a level, the player assigns one additional point to a skill.
 
 A d6 roll equal to or lower than the skill score indicates success.
@@ -197,7 +198,7 @@ Furthermore, every 250 coins of treasure carried drops the character's movement 
 
 The referee makes a wandering monster check every real hour of play time.
 The odds depend on the movement rate/encumbrance of the party.
-The referee may add an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
+The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
 ----------------:|:--------:|:-------------:|:----------------------:
@@ -319,7 +320,7 @@ Initially, the loyalty score equals d6+7, plus the player character's charisma m
 
 The henchman's loyalty score modifies morale checks.
 
-The referee may bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
+The referee might bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
 
 A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
 A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
@@ -374,7 +375,7 @@ During this period, the magic-user forgoes adventuring to sequester herself in h
 For an equal number of game sessions, the player assumes the role of an alternate character or NPC henchman.
 
 The magic-user's chance of success depends upon how well she funds the research.
-Costs in lab glass, exotic substances, and consultations with sages can reach staggering totals, especially for high-level spells.
+Costs in lab glass, exotic substances, and consultations with sages reach staggering totals, especially for high-level spells.
 For each 10% cumulative chance of success, the cost for first-level spells is 1,000 gp, second-level 2,000 gp, third 4,000 gp, fourth 8,000 gp, fifth 16,000 gp, and sixth-level spells cost 32,000 gp.
 
 After the minimum number of weeks, the player rolls percentile dice to check the success or failure of the research.
@@ -446,7 +447,7 @@ Range: 6''; duration: 2 hours.
 #### 2. Invisibility/Detect Invisibility  ####
 
 The object of _Invisiblity_, whether a person or a thing, becomes invisible to both normal vision and darkvision.
-An invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to hit.
+An invisible creature cannot be attacked unless its approximate location is known, and those attacks suffer a -4 penalty to hit.
 Range: 24''; duration: until dispelled or attack.
 
 _Detect Invisibility_ reveals invisible creatures and objects to the caster.
@@ -454,9 +455,9 @@ Range: 1''/caster level; duration: 1 hour.
 
 #### 3. Knock/Lock ####
 
-Knock unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
-Lock is like _Hold Portal_, but permanent.
-Lock may be temporarily overridden by _Knock_, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the _Lock_ caster.
+_Knock_ unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
+_Lock_ is like _Hold Portal_, but permanent.
+_Lock_ may be temporarily overridden by _Knock_, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the _Lock_ caster.
 Range: 6''; duration: instant.
 
 #### 4. Locate Object ####
@@ -560,7 +561,7 @@ The caster announces which form she chooses when casting.
 _Wall of Fire_ ignites a wall that keeps burning while the caster concentrates on it.
 Creatures with three or fewer hit dice cannot pass through the wall, and no creature sees through it.
 Crossing the fire inflicts d6 points of damage (no saving throw), and undead sustain twice that damage.
-The caster can either create a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
+The caster raises either a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
 
 _Wall of Ice_ conjures a 6 foot thick wall of ice.
 The caster chooses either a straight wall 60 feet long and 20 feet high, or a 20 foot high circular wall with a 15 foot radius.
@@ -578,9 +579,8 @@ Range: 24'', duration: 1 hour.
 
 #### 1. Animate Dead ####
 
-This spell animates dead bodies as skeletons or zombies.
-1d6 undead are animated per level of the caster above 8th.
-The corpses remain animated until destroyed or dispelled.
+The spell animates 1d6 dead bodies as skeletons or zombies per level of the caster above 8th.
+Corpses remain animated until destroyed or dispelled.
 Range: referee's discretion; duration: permanent.
 
 #### 2. Conjure Elemental ####
@@ -618,7 +618,7 @@ Magic Jar rehouses the caster's life essence, intelligence, and soul into an obj
 From within the jar, the magic-user can grasp out to possess the body of any creature within 120 feet that fails its saving throw.
 The caster's soul retreats to the jar whenever it desires or if the possessed body dies.
 
-While inside the magic jar, the caster can survive destruction of his original body, but destruction of the jar dooms the soul to oblivion.
+While inside the magic jar, the caster survives destruction of his original body, but destruction of the jar dooms the soul to oblivion.
 
 The spell ends when the magic-user returns from the jar to his own body.
 
@@ -716,7 +716,7 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 9         |  -- | --  | --  | --  | --  | 12  | 11  | 9   | 7   | 5
 10+       |  -- | --  | --  | --  | --  | --  | 12  | 11  | 9   | 7
 
-"T" means the undead are turned. "D" means the undead are destroyed. "--" means the undead is too powerful to turn.
+"T" turns undead. "D" destroys undead. "--" means the undead is too powerful to turn.
 
 ### Cleric Spells Level 2 ###
 
@@ -762,8 +762,8 @@ Range: touch, duration: instant.
 #### 4. Speak with Dead ####
 
 The cleric whispers three questions to a recently deceased spirit, and gets answers.
-Clerics of less than seventh level can only contact those who died within the last three days.
-Clerics of less than eleventh level can only contact those who died within the last three months.
+Clerics of less than seventh level contact only those who died within the last three days.
+Clerics of less than eleventh level contact only those who died within the last three months.
 Answers from spirits often come as riddles or in an otherwise cryptic form.
 
 ### Cleric Spells Level 4 ###
@@ -795,7 +795,7 @@ Range: 3'', duration: 1 hour.
 
 Higher powers grant answers to three questions the cleric poses.
 Constant interrogation by mortals irritates higher powers, who rarely welcome more than one interview per week.
-A cleric can cast a double strength _Commune_ spell composed of six questions once per year.
+Once per year, the higher powers tolerate a double-strength _Commune_ spell composed of six questions.
 
 #### 2. Dispel Evil\* ####
 
@@ -900,7 +900,7 @@ Level/HD | Saving Throw
 Rather than having a single saving throw score, some referees prefer several types of saving throws.
 Saving throw types, if used, reflect the sort of dangers characters encounter.
 These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or dangers specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
-Furthermore, some character classes may excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
+Furthermore, some character classes might excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
 
 ## Morale ##
 
@@ -937,13 +937,13 @@ Referees expand the roster of monsters by enhancing existing ones (fire-breathin
 
 This points-based system helps build encounters or design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
-The point system can also assign treasure values for encounters.
+The point system also suggests treasure values for encounters.
 
 Calculate the Challenge Rating (CR) of the player character party by summing points for the following:
 
 - 1 point per hit die
 - 2 points per character with plate mail (or better)
-- 1 pt per spell caster maximum spell level (e.g. a magic-user who can cast third-level spells is 3 points)
+- 1 pt per spell caster maximum spell level (e.g. a magic-user who casts third-level spells is 3 points)
 
 For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a rogue for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
 
@@ -1270,7 +1270,7 @@ They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely kil
 
 AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' Attacks: bury 2d8
 
-They can tear down even a castle wall in 1d4+4 rounds.
+They tear down even a castle wall in 1d4+4 rounds.
 Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
@@ -1286,13 +1286,12 @@ AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) Attacks: drown 2d8
 Water elementals overturn ships in d4+4 rounds.
 They never stray more than 60' from a body of water, and their melee attack do only 1d6 damage out of water.
 
-
 ### Eye of Terror ###
 
 AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 6'' levitating
 
-Its tentacles are poisonous (save or die).
-Each round, it attacks with its central eye and three eye stalks:
+Its tentacles envenom on a hit (save or die).
+Each round, the eye of terror attacks with its central eye and three eye stalks:
 
 Eye     | Power
 :------:|------
@@ -1323,7 +1322,8 @@ A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully
 
 AC: 11 HD: 4 (CR 5) Move: 6'' Attacks: paralysis
 
-Hit opponents are anesthetized (save vs. paralysis), then enveloped in 6 rounds.
+Hits anesthetize opponents (saving throw allowed).
+The gelatinous cube envelopes helpless victims in 6 rounds.
 Lightning and cold don't harm gelatinous cubes.
 
 ### Ghoul ###
@@ -1355,7 +1355,7 @@ Fire giants keep packs of hell hounds.
 AC: 15 HD: 10+1 (CR 13) Move: 12'' Attacks: squash 3d6 or boulders 4d6
 
 They throw icy boulders for 4d6 damage, and are immune to cold damage.
-Frost giants are often accompanied by giant white wolves.
+Giant white wolves often accompany frost giants.
 
 ### Giant, Hill ###
 
@@ -1456,7 +1456,8 @@ AC: 14 HD: 1+1 (CR 1) Move: 9'' Attacks: weapon d8
 
 AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
 
-Larger groups are lead by classed characters, and may hold captives.
+Non-player characters with class levels lead larger groups.
+Bandits sometimes hold captives.
 
 ### Human, Berserker ###
 
@@ -1559,7 +1560,7 @@ AC: 13 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and magic-using shamen haunt some tribes.
 
-Orcs are typically pig-faced and green of skin.
+Orcs are typically green-skinned and pig-faced.
 Reports of stag-headed and cock-headed orcs remain in question, since orcs love masks as much as they love cruelty.
 
 ### Owlbear ###
@@ -1666,7 +1667,7 @@ Immersion in running water, exposure to sunlight, or a stake through the heart k
 
 AC: 14 HD: 3 (CR 5) Move: 12'' Attacks: bite 2d4 (lycanthropy)
 
-Werewolves are only harmed by silver or magic weapons.
+Only silver or magic weapons harm werewolves.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
@@ -1704,7 +1705,7 @@ Treasures include other valuable items besides gold, silver, and copper coins.
 By substituting some currency with unique valuable objects (e.g. --- an oil painting of a historical battle, a fine instrument from a famous luthier, a huge but flawed pearl), the referee makes the treasure more interesting for the players.
 
 A map to a hidden treasure is itself a prized item, and carries the promise of further adventure.
-The map may show the distant location of a famous item or a simple cache of coins hidden behind a secret door in the next room.
+The map might show the distant location of a famous item or a simple cache of coins hidden behind a secret door in the next room.
 Some obscure their meaning with riddles or codes.
 
 A large hoard may contain magic items.
@@ -1755,7 +1756,7 @@ Typical potions include:
 
 Scrolls either contain magic-user spells, or offer a particular type of protection.
 Only magic-users understand spell scrolls, but anyone can read a protection scroll.
-Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a a scroll into his spell book.
+Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a scroll into his spell book.
 Spell scrolls contain 1--3 spells.
 Typical scrolls include:
 
@@ -1769,7 +1770,7 @@ Typical scrolls include:
 ### Wands ###
 
 Wands create an effect on targets in line of a ray or in the area of a narrow cone.
-They may duplicate the effect of a spell, or provide a flashlight/Geiger counter/radar-like detection function.
+Some wands duplicate the effect of a spell, while others function like a flashlight/radar/Geiger counter.
 Wands hold only a limited number of charges, usually 2--20, and have a range of 60'.
 Only magic-users employ wands.
 Typical wands include:
@@ -1800,7 +1801,7 @@ It strikes in melee at +1 to hit for 2d6 damage without expending a charge.
 ### Rings ###
 
 Magic rings work only when worn on a finger, and only one may be worn on each hand.
-Ring may be worn by any character class.
+A ring may be worn by any character class.
 
 1. Ring of Invisibility
 2. Ring of Protection (+1 AC)
@@ -1891,7 +1892,7 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 
 ### Random Dungeon Room Stocking ###
 
-After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area with the following table.
+After thoughtfully placing unique monsters and treasures, the referee may stock the remainder of a large dungeon area using the following table.
 
 d12   | Room Contents
 :----:|--------------
@@ -1913,7 +1914,7 @@ Make gotcha traps --- poison needles in door knobs or faux floors that drop char
 
 Tricks differ from traps in that they befuddle players rather than harming characters.
 Tricks might be as simple as a false door, or as sophisticated as an imperceptively revolving room that opens onto different hallways depending on its orientation.
-Tricks include puzzles, riddles, and nonsense, like a sliding tile game built into a dungeon floor that must be arranged to show a picture of an open door, or a verse inscribed on a wall that must be completed by following the rhyme scheme.
+Tricks include puzzles, riddles, and nonsense, like a sliding tile game built into a dungeon floor that the characters must arrange to show a picture of an open door, or a verse inscribed on a wall that the players complete by following the rhyme scheme.
 
 ### Wandering Monster List Making List ###
 
@@ -1934,7 +1935,7 @@ When planning a session, especially a short adventure or lair-type dungeon, cons
 - A small, non-linear dungeon map (about 8-12 rooms)
 - A trap or two
 - One or more toys that are not clearly beneficial or harmful, but could be either or just strange
-- A secret that might or might not be discovered (secret door, hidden treasure, etc.)
+- A secret that the characters might or might not discover (secret door, hidden treasure, etc.)
 - One or two hooks or hints for further adventures
 - Reason to use a funny voice, role-playing opportunity (non-hostile NPC, talking mirror, etc.)
 - Something bound to the location that might motivate the characters to return in the future
@@ -1943,11 +1944,11 @@ When planning a session, especially a short adventure or lair-type dungeon, cons
 
 The type of "lair" dungeons seen in adventure modules is composed of one or two dozen rooms spread over one to three vertical levels, and occupied by a handful of different monster types.
 A megadungeon, on the other hand, descends at least ten levels deep --- each level more perilous than the one above it --- with dozens or hundreds of rooms per level occupied by numerous monster factions.
-Such a dungeon acts as the tentpole of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
+Such a dungeon acts as the centerpiece of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
 
 - Map and key all or most of the first two or three levels before play begins.
 - Make the maps non-linear, to let the players tackle or bypass areas as they choose.
-- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though some individual encounters should be exceptionally easy or deadly for their level).
+- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though include a few exceptionally easy or deadly encounters on each level).
 - Remember vertical movement!
 	- Connect each level to at least one other, besides the levels immediately above and below.
 	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
@@ -1960,7 +1961,7 @@ Such a dungeon acts as the tentpole of a whole campaign, with players characters
 	- Each level has one or two exceptionally interesting baddies.
 - List rumors about major magic items and monsters, and slowly feed them to the players.
 - Write a wandering monster table for each level, and include lost, visiting, or raiding monsters from adjacent levels.
-- Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance (the party won't find all the treasure, and some will be lost to fatalities).
+- Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance. The party won't find all the treasure, and some character fatalities burn some XP.
 - Add several outside entrances to the dungeon going to different levels.
 - Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
 - Include environmental hazards, like acid pools, low-lying areas where flammable gas pools, radiation, and rock slides.
