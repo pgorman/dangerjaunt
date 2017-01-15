@@ -10,8 +10,6 @@ while (<>) {
 	s/(\d+)\/(\d+)/\$\\sfrac\{\1\}\{\2\}\$/g; # Fractions
 	s/([Mm])elee/\1\\^\{e\}l\\'\{e\}e/g; # Melee
 	s/(\w)\/(\w)/\1\\slash \2/g; # Breakable frontslash
-#	s/\\begin\{longtable\}\[\]/\\begin\{table*\}\[t\]\\begin\{tabular\}/g; # We're not using longtable because we want twocolumn
-#	s/\\end\{longtable\}/\\end\{tabular\}\\end\{table*\}/g;
-#	s/^\\endhead$//g; # We're not using longtable because we want twocolumn
+	s/(\d)(st|nd|rd|th)/\1\$\^\{\2\}\$/g; # Ordinals
 	print;
 }

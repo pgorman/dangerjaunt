@@ -1,5 +1,6 @@
 This fantasy adventure game is played with pencils, paper, and polyhedral dice.
-"3d6" means to sum three rolls of a six-sided die.
+``3d6'' means to sum three rolls of a six-sided die.
+
 One player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 The remaining players each take the role of an inexperienced but ambitious Player Character.
 
@@ -75,10 +76,10 @@ A d6 roll equal to or lower than the skill score indicates success.
 For skills with a score of six, roll two dice; a failure occurs only when both dice come up sixes.
 
 - Stealth (hide in shadows, move silently)
-- Acrobatics (climbing, backflips, tightrope walking)
+- Acrobatics (climb sheer walls, backflip, walk tightrope)
 - Tinkering (open locks, pick pockets, arm or disarm tiny traps or alarms, safecracking)
 - Assassination (poisons, backstabbing, nerve strikes)
-- Chicanery (disguise, fast-talking, forgery, intimidation, ventriloquism, coin clipping)
+- Chicanery (disguise, fast-talk, forgery, intimidation, ventriloquism, coin clipping)
 
 When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score.
 
@@ -143,7 +144,7 @@ All hit dice are d6.
 However, fighters roll two six-sided hit dice, and choose the higher roll.
 
 Characters gain at most one level per session.
-Reduce the experience award of a character who would gain more levels so that their XP totals just shy of the second level.
+Reduce the experience award of a character who would gain more levels so that their XP totals half way to the second level.
 
 ## Number of Daily Spells per Spell Level ##
 
@@ -174,24 +175,24 @@ Clerics do not gain additional spells after level 10.
 
 Player characters start at first level with an attack bonus of +1, which they add to their d20 attack rolls.
 Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4).
-Other classes gain an additional +1 at levels three, six, nine, twelve, and fifteen.
+Other classes, including elves, gain an additional +1 at levels three, six, nine, twelve, and fifteen.
 A sixth-level cleric, for example, gets an attack bonus of +3.
 
-Monsters use an attack bonus equal to their hit dice.
+Monsters attack with a bonus equal to their hit dice.
 
 ## Damage ##
 
 Most weapons do 1d6 damage on a successful hit.
 A fighter wielding a martial weapon, such as a longsword, does 1d8 damage.
 Fighters who forgo a shield in order to wield a two-handed weapon, such as a polearm, deal 1d10 damage.
-(A fighter wielding two weapons is mechanically identical --- make one attack roll for d10 damage.)
+A fighter wielding two weapons also makes one attack roll for d10 damage.
 
-## Armor Class, Encumbrance, Wandering Monsters ##
+## Armor, Encumbrance, Wandering Monsters ##
 
-Of all pieces of standard gear, armor is the heaviest and most mechanically important.
+Of all standard gear, armor is the heaviest and most mechanically important.
 This makes armor the primary factor for encumbrance and movement.
 
-However, when a character hauls something very bulky or heavy, movement drops to the next lower movement tier.
+However, when a character hauls something bulky or heavy, movement drops to the next lower movement tier.
 A fighter in plate dragging a statue, for example, falls to 3''.
 
 Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
@@ -201,7 +202,7 @@ The odds depend on the movement rate/encumbrance of the party.
 The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
-----------------:|:--------:|:-------------:|:----------------------:
+----------------:|:--:|:-------------:|:----------------------:
 Naked            | 10 | 18''          | 1 in 6
 Shield only      | 11 | 18''          | 1 in 6
 Leather armor    | 13 | 12''          | 2 in 6
@@ -299,7 +300,7 @@ Wolfsbane 10 gp
 
 ## Henchmen, Hirelings, and Experts ##
 
-Henchmen and hirelings work for the player characters, although they are non-player characters controlled by the referee.
+Henchmen and hirelings work for the player characters, although they are non-player characters (NPC's) controlled by the referee.
 
 Hirelings are normal humans with a single hit die and no attack bonus --- regular folks looking to pick up a gold piece or two as a porter or link-boy.
 They work for a fixed rate, do not share in treasure, and gain no experience.
@@ -318,7 +319,7 @@ Henchmen tolerate greater risks than hirelings (but not abuse).
 Each henchman has a loyalty score.
 Initially, the loyalty score equals d6+7, plus the player character's charisma modifier.
 
-The henchman's loyalty score modifies morale checks.
+A henchman's loyalty score modifies morale checks.
 
 The referee might bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
 
@@ -355,7 +356,7 @@ Clerics replenish their expended spells each morning by prayer.
 ### Spell Books ###
 
 New magic-users start the game with a spell book containing _Read Magic/Languages_, one spell rolled at random, and one spell chosen by the player.
-Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, has acquired a new spell book containing one chosen and one random spell of that level.
+Upon gaining the ability to cast a higher tier of spells, assume the character, by hook or by crook, acquires a new spell book containing one chosen and one random spell of that level.
 Additional spells must be researched by the character, found in dank dungeon vaults, or looted from the corpses of enemy casters.
 
 Woe for the magic-user who loses his spell books!
@@ -421,18 +422,18 @@ Range: referee's discretion; duration: 2d6 turns.
 
 #### 4. Light ####
 
-Light illuminates with the brightness of a torch an area with a radius of 40 feet around a person or object.
+With the brightness of a torch, _Light_ illuminates an area with a radius of 40 feet around a person or object.
 Range 12''; duration: 2 hours.
 
 #### 5. Read Magic/Languages ####
 
 The spell allows a caster to comprehend either mystical writing on items and scrolls, or mundane foreign tongues.
-The caster also understands otherwise unknown, lost, ancient, or cryptic scribblings.
+The caster also understands lost, ancient, or encrypted scribblings.
 Range: caster; duration: instant.
 
 #### 6. Sleep ####
 
-Sleep puts enemies into an enchanted slumber.
+_Sleep_ puts enemies into an enchanted slumber.
 No saving throw is permitted.
 It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice each.
 
@@ -441,13 +442,13 @@ It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice ea
 #### 1. ESP ####
 
 The magic-user detects the thoughts of other beings.
-The spell cannot penetrate more than two feet of stone and is blocked by even a thin sheet of lead.
+Stone thicker than two feet, or even a thin sheet of lead, blocks the spell.
 Range: 6''; duration: 2 hours.
 
 #### 2. Invisibility/Detect Invisibility  ####
 
-The object of _Invisiblity_, whether a person or a thing, becomes invisible to both normal vision and darkvision.
-An invisible creature cannot be attacked unless its approximate location is known, and those attacks suffer a -4 penalty to hit.
+The object of _Invisiblity_, whether a person or a thing, becomes undetectable by normal sight or darkvision.
+An invisible creature cannot be attacked without knowledge of its presence and approximate location, and those attacks suffer a -4 penalty to hit.
 Range: 24''; duration: until dispelled or attack.
 
 _Detect Invisibility_ reveals invisible creatures and objects to the caster.
@@ -504,7 +505,7 @@ Range: 24'', duration: instant.
 
 Soar with a movement rate of 120 feet per round.
 The referee rolls the duration of the spell without disclosing the result to the player.
-Range: touch, duration: d6 turn + 1 turn/level.
+Range: touch, duration: d6 turns + 1 turn/level.
 
 #### 5. Lightning Bolt ####
 
@@ -529,7 +530,7 @@ Range: 6'', duration: until dispelled.
 #### 2. Confusion ####
 
 This spell confuses people and monsters, making them act randomly.
-Roll 2d6 every turn to determine the creature's behavior.
+Roll 2d6 every turn to determine the creatures' behavior.
 Range: 12'', duration: 2 hours.
 
 2d6   | Confused Behavior
@@ -547,7 +548,7 @@ Range: 1'' casting, 36'' teleport; duration: instant.
 
 The caster announces which form he chooses when casting.
 
-_Polymorph Other_ turns another being within 60 feet into a different type of creature (such as a dragon, a garden slug, or a newt).
+_Polymorph Other_ turns another being within 60 feet into a different type of creature (such as a dragon, garden slug, or newt).
 The polymorphed creature gains all the abilities of the new form, but keeps its own mind and hit points.
 This transformation lasts until dispelled.
 
@@ -634,7 +635,7 @@ If the caster has glimpsed but not studied the destination, the chance of failur
 Half of failures place the traveler 1d10 x 10 feet below the intended location, possibly resulting in death from arrival within a solid substance.
 The other half of failures place the traveler 1d10 x 10 feet above the targeted location, possibly resulting in a deadly fall.
 
-If the caster is familiar with the place or has studied it carefully, the chance of failure falls to 5%, with 1 in 6 failures arriving below and the rest arriving above the target location.
+If the caster is familiar with the place or studies it carefully, the chance of failure falls to 5%, with 1 in 6 failures arriving below and the rest arriving above the target location.
 In either case, the arrival is 1d4 x 10 feet low or high.
 
 ### Magic-User Spells Level 6 ###
@@ -722,7 +723,7 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 
 #### 1. Bless\* ####
 
-The recipient gets a +1 bonus to all attack rolls and morale checks.
+The recipient gets a +1 bonus to attack rolls and morale checks.
 Range: touch, duration: 1 hour.
 
 #### 2. Hold Person ####
@@ -775,7 +776,7 @@ Range: touch, duration: instant.
 
 #### 2. Neutralize Poison ####
 
-This spell counteracts poison, but does not bring the dead back to life.
+This spell counteracts poisons and venoms, but does not bring the dead back to life.
 Range: touch, duration: instant.
 
 #### 3. Protection from Evil 10' radius ####
@@ -813,7 +814,7 @@ Range: 48'', duration: 1 day.
 #### 4. Raise Dead\* ####
 
 Provided it has not lain dead too long, _Raise Dead_ allows the cleric to breathe life back into a corpse.
-The base time limit is four days, but for every caster level higher than 8$^{th}$, the time limit extends another four days.
+The base time limit is four days, but for every caster level higher than 8th, the time limit extends another four days.
 Characters of frail constitution might not survive the ordeal;
 even the robust require two weeks of recuperation before they fully shrug off the chill of the grave.
 _Raise Dead_ only succeeds for human-like beings.
@@ -825,7 +826,7 @@ _Raise Dead_ only succeeds for human-like beings.
 "Exploration turns" last ten times longer than combat turns.
 Each character takes a single complex action or two simple actions during a turn --- two moves, a move and listening at a door, rigging a pulley, etc.
 
-During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see given the lighting and environment, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
+During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see in the gloom, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
 
 Light Source     | Distance   | Duration
 -----------------|------------|----------
@@ -863,7 +864,7 @@ If monsters take flight, the players decide whether to pursue.
 When player characters flee monsters, the referee consults the Monster (Re)actions table;
 the monsters give chase on a "hostile" result.
 
-Pursuit is asymmetric.
+Pursuit is differs for monsters and player characters.
 Faster player characters always catch slower monsters, and faster monsters always escape slower characters.
 But, when fleeing monsters, characters always escape.
 
@@ -964,7 +965,7 @@ Calculate the challenge rating of a monster encounter by summing the following p
 - 0.5 points per additional attack per round, rounded down (e.g. claw/claw/bite adds 1 points)
 - 2 points for being hard to hit (flying, invisible, strong AC, immunity to non-magic weapons)
 - 2 points for attacks that bypass the front line (missile fire, area effects)
-- 4 points for a very bad attack or permanent wreckage (save or die, turn to stone, level drain)
+- 4 points for a ruinous attack or permanent wreckage (save or die, turn to stone, level drain)
 - Other special abilities at 0--4 points each
 
 Encounter examples:
@@ -1098,7 +1099,7 @@ d8   | Point Multiplier
 79. Often ride special mounts
 80. Surrounded by aura or gas cloud that disadvantages melee opponents
 81. Destroys (wood/metal) weapons that strike it
-82. Those it kills can not be raised from death
+82. Those it kills cannot be raised from death
 83. _N_ percent chance to resist magic
 84. Can see invisible things
 85. Damage it causes drops as it looses hit points
