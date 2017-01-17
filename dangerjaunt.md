@@ -1921,9 +1921,9 @@ Tricks include puzzles, riddles, and nonsense, like a sliding tile game built in
 
 1. Traveling: 1. To/from elsewhere on current level 2. To/from level above 3. To/from level below 4. To/from surface 5. Very secret passage 6. By magic
 2. Escorting: 1. Slaves 2. Enemy captives 3. Friendly VIP 4. Criminals 5. Livestock 6. Diplomatic mission
-3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering tribute (paying) 4. Tribute (collecting) 5. Foodstuffs 6. Threats 7. Weapons 8. Intelligence/maps 9. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber) 10. xxxxxx
-4. Patrolling/hunting: 1. Searching for intruders 2. Searching for lost fellows 3. Hunting food 4. xxxxxx
-5. Raiding: 1. To/from raid property on same level 2. To/from raid property on level above 3. To/from raid property on level below 4. To/from freeing of friendly captives 5. To/from kidnapping enemies 6. xxxxxx
+3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering 4. tribute (paying) 5. Tribute (collecting) 6. Foodstuffs 7. Threats 8. Weapons 9. Intelligence/maps 10. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber)
+4. Patrolling/hunting: 1. Searching for intruders 2. Searching for lost fellows 3. Hunting food 4. Sport hunting
+5. Raiding: 1. To/from raid property on same level 2. To/from raid property on level above 3. To/from raid property on level below 4. To/from freeing of friendly captives 5. To/from kidnapping enemies 6. To/from raid counting coup, pulling pranks, or making mischief
 6. Labor: 1. Decorating 2. Structural repairs (doors, beams, bridges, stairs) 3. Setting/fixing traps 4. Demolition/renovation 5. Mining 6. Harvesting 7. Cleaning 8. Crafting 9. Cooking 10. Brewing
 7. Fighting: 1. Enemy from same level 2. Enemy from level above 3. Enemy from level below 4. Among themselves
 8. Socializing: 1. Race 2. Boxing/wresting 3. Sacrifice 4. Wedding 5. Initiation 6. Funeral 7. Parade 8. Dance 9. Wake 10. Parlor game 11. Negotiation 12. Performance 13. Consecration 14. Commemoration 15. Worship 16. Coronation/award 17. Vote 18. Carnival/circus 19. Bacchanal 20. Trial/execution
