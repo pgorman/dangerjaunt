@@ -859,14 +859,14 @@ Any character or monster reduced to zero or fewer hit points dies.
 
 ## Evasion and Pursuit ##
 
-A group of player characters or monsters, having stumbled into a disadvantageous situation, may try to evade the encounter, so long as the other side hasn't taken them by surprise.
+A group of player characters or monsters, having stumbled into a disadvantageous situation, may try to evade the encounter, so long as the other side hasn't surprised them.
 If monsters take flight, the players decide whether to pursue.
 When player characters flee monsters, the referee consults the Monster (Re)actions table;
 the monsters give chase on a "hostile" result.
 
-Pursuit is differs for monsters and player characters.
+Pursuit differs for monsters and player characters.
 Faster player characters always catch slower monsters, and faster monsters always escape slower characters.
-But, when fleeing monsters, characters always escape.
+But, monsters never catch fleeing characters.
 
 After escaping, characters wind up in a room chosen by the referee, and must reorient themselves.
 When evading slower pursuers, the chase ends 1--2 moves from its start, in a cardinal direction chosen by the players.

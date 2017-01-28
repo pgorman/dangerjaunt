@@ -6,3 +6,5 @@ pandoc -f markdown+pipe_tables -o .body.tmp.tex dangerjaunt.md
 perl tweaktex.pl .body.tmp.tex > .body.tex
 pdflatex dangerjaunt.tex
 pdflatex dangerjaunt-A5.tex
+pdflatex booklet.tex
+pdflatex booklet-A5.tex
