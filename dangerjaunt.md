@@ -9,7 +9,7 @@ Despite omissions for brevity, these rules include the tent pole elements that m
 # Characters #
 
 Each characters has a class: fighter, cleric, magic-user, or rogue.
-Most characters are human, but the referee may allow other types, including elves and dwarves.
+Most characters are human, but the referee may allow other types, like elves and dwarves.
 
 ## Abilities ##
 
@@ -313,7 +313,7 @@ Typical expert wages include: alchemist 250 gp/week, armorer 25 gp/week, animal 
 
 Henchmen have personal loyalty to a player character.
 They work for a half-share of found treasure.
-Accordingly, they have a characters class, and gain experience.
+Accordingly, they have a character class, and gain experience.
 
 Henchmen tolerate greater risks than hirelings (but not abuse).
 Each henchman has a loyalty score.
@@ -387,7 +387,7 @@ After a failure, the magic-user may increase funding to improve chances of succe
 ### Scribing Scrolls ###
 
 The few days between delves into the dungeon allow a magic-user enough leisure to scribe one scroll.
-The cost of fast inks, scare quills, and blotting sand from distant shores depends upon the spell's level.
+The cost of fast inks, scare quills, and blotting sand from distant shores depend upon the spell's level.
 A scroll with one first-level spell costs 100 gp.
 The cost doubles for each spell level, so scribing a sixth-level spell costs 3,200 gp.
 
@@ -839,7 +839,7 @@ Bullseye Lantern | 80' cone   | 12 hours
 
 1. Surprise? Base chance of 1--2 in 6. Roll for both sides.
 2. Encounter distance (if not dictated by environment) is the sum of both surprise rolls x 10'.
-3. Anyone surprised stands frozen for a turn. Anyone not surprised has the options:
+3. Anyone surprised stands frozen for a turn. Anyone not surprised chooses:
 	- Evasion (the referee asks: "Do you run away?")
 	- Fire missiles
 	- Close to melee
@@ -884,7 +884,7 @@ Monster reactions may be modified by the situation, rumors about the player char
 
 ## Saving Throws ##
 
-Some effects, like the petrifaction caused by a medusa, call for a saving throw.
+Some effects, like the petrification caused by a medusa, call for a saving throw.
 A successful save avoids or reduces harm (e.g. "save for half damage").
 To make a save, the target must equal or exceed its saving throw score with a d20 roll.
 
@@ -900,7 +900,7 @@ Level/HD | Saving Throw
 
 Rather than having a single saving throw score, some referees prefer several types of saving throws.
 Saving throw types, if used, reflect the sort of dangers characters encounter.
-These might be general fantasy types (e.g. Death/Poison, Petrifaction/Paralysis, Wands, Dragon's Breath, Spells) or dangers specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
+These might be general fantasy types (e.g. Death/Poison, Petrification/Paralysis, Wands, Dragon's Breath, Spells) or dangers specific to the campaign world (e.g. Science Rays, Ectoplasm/Toxic Goo, Cosmic Madness, Voodoo Curses, Hallucinogens, Meteors).
 Furthermore, some character classes might excel at particular types of saves (e.g. fighters get +2 to save versus action hero situations).
 
 ## Morale ##
@@ -1699,13 +1699,13 @@ AC: 11, 12 w/ shield HD: 1 (CR 1) Move: 6'' Attacks: weapon d8
 
 ## Treasure ##
 
-Calculate treasure values based on monster CR or XP.
+Calculate treasure values based on monster XP.
 The gold piece value of a treasure equals three or four times the XP of the monster to which the treasure belongs.
 
-Treasures include other valuable items besides gold, silver, and copper coins.
-By substituting some currency with unique valuable objects (e.g. --- an oil painting of a historical battle, a fine instrument from a famous luthier, a huge but flawed pearl), the referee makes the treasure more interesting for the players.
+Treasure includes any valuable item.
+An oil painting of a historic battle, a fine instrument bearing the mark of a famous luthier, or the cracked half of a cannonball-sized pearl excites the interests of players more than a pile of coins.
 
-A map to a hidden treasure is itself a prized item, and carries the promise of further adventure.
+A map to a hidden treasure is a prized item itself, and promises further adventure.
 The map might show the distant location of a famous item or a simple cache of coins hidden behind a secret door in the next room.
 Some obscure their meaning with riddles or codes.
 
@@ -1757,6 +1757,7 @@ Typical potions include:
 
 Scrolls either contain magic-user spells, or offer a particular type of protection.
 Only magic-users understand spell scrolls, but anyone can read a protection scroll.
+Protection effects last 2d6 hours.
 Scrolls are single-use --- the writing of each spell vanishes from the page as it's read --- although a magic-user can transcribe a scroll into his spell book.
 Spell scrolls contain 1--3 spells.
 Typical scrolls include:
@@ -1770,7 +1771,7 @@ Typical scrolls include:
 
 ### Wands ###
 
-Wands create an effect on targets in line of a ray or in the area of a narrow cone.
+Wands shoot either a line-like ray or a narrow cone.
 Some wands duplicate the effect of a spell, while others function like a flashlight/radar/Geiger counter.
 Wands hold only a limited number of charges, usually 2--20, and have a range of 60'.
 Only magic-users employ wands.
@@ -1785,7 +1786,7 @@ Typical wands include:
 
 ### Staves ###
 
-Only clerics use some staves; other staves may be employed only by magic-users.
+Staves are either _cleric staves_ or _magic-user staves_.
 Staves hold 3--30 charges.
 Typical staves include:
 
