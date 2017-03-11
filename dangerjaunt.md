@@ -81,7 +81,7 @@ For skills with a score of six, roll two dice; a failure occurs only when both d
 - Assassination (poisons, backstabbing, nerve strikes)
 - Chicanery (disguise, fast-talk, forgery, intimidation, ventriloquism, coin clipping)
 
-When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score.
+When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score, and adds the Assassination score to their to-hit roll.
 
 Wearing heavier than leather armor prevents use of Stealth, Acrobatics, and Tinkering.
 
@@ -175,8 +175,8 @@ Clerics do not gain additional spells after level 10.
 
 Player characters start at first level with an attack bonus of +1, which they add to their d20 attack rolls.
 Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4).
-Other classes, including elves, gain an additional +1 at levels three, six, nine, twelve, and fifteen.
-A sixth-level cleric, for example, gets an attack bonus of +3.
+Other classes, including elves, gain an additional +1 at levels four, seven, ten, thirteen, and sixteen.
+A seventh-level cleric, for example, gets an attack bonus of +3.
 
 Monsters attack with a bonus equal to their hit dice.
 
