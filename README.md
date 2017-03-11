@@ -1,14 +1,16 @@
 # Danger Jaunt to Wonder Vault #
 
-**Danger Jaunt to Wonder Vault** is another fantasy roleplaying game "retro-clone" --- a set of rules based on early versions of the granddaddy of roleplaying games, as allowed by the Open Gaming License.
+[Read it now!](https://github.com/pgorman/dangerjaunt/blob/master/dangerjaunt.md)
+
+**Danger Jaunt to Wonder Vault** is a fantasy roleplaying game "retro-clone" --- a set of rules based on early versions of the original pen and paper roleplaying game, as allowed by the Open Gaming License.
 
 What sets **Danger Jaunt to Wonder Vault** apart from other games?
 
-- short page count
-- compact page size: available as both US digest (5.5 x 8.5) and A5
-- concise writing style
-- provide _enough_ stuff to run a game, but _little enough_ stuff to leave the referee creative space
-- base text written in Markdown (easy to edit)
+- its short page count
+- its compact page size: available as both US digest (5.5 x 8.5) and A5
+- a concise writing style
+- it provides _enough_ stuff to run a game, but _little enough_ stuff to leave the referee creative space
+- written in Markdown (easy to edit)
 - easily output as PDF or HTML (by Pandoc)
 
 ## Requirements ##
@@ -16,15 +18,14 @@ What sets **Danger Jaunt to Wonder Vault** apart from other games?
 The `dangerjaunt.md` Markdown text file is readable in any text editor or web browser.
 To build the book as a PDF and HTML document requires:
 
-- a POSIX shell (/bin/sh)
+- a POSIX shell (e.g. /bin/sh)
 - Perl 5
 - Pandoc
 - a version of LaTeX with pdfTeX
 
-The PDF uses the following LaTeX fonts:
+The PDF uses the following LaTeX font packages:
 
-- TeX Gyre Adventor (tgadventor)
-- Latin Modern Mono (lmodern)
+- The New PX Palladio clone (newpxtext, newpxmath)
 - Antykwa Toruńska (antt)
 
 ## Making It Your Own ##
