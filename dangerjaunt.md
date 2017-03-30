@@ -1102,7 +1102,7 @@ d8   | Point Multiplier
 82. Those it kills cannot be raised from death
 83. _N_ percent chance to resist magic
 84. Can see invisible things
-85. Damage it causes drops as it looses hit points
+85. Damage it causes drops as it loses hit points
 86. Part of its body (tusk/horn/gland/skin/fur) has commercial value
 87. Dormant/non-aggressive until exposed to light/water/air/whatever
 88. Several of them work together to achieve a high-level spell/elemental summoning/whatever
