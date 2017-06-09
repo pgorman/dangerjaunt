@@ -116,7 +116,7 @@ Law and Chaos do not necessarily neatly correspond to Good and Evil.
 
 ## Character Advancement and Hit Points ##
 
-By killing monsters and finding treasure, characters gain experience points (XP).
+By killing monsters and finding treasure, characters amass experience points (XP).
 After accumulating enough experience points, a character advances to a higher level, gaining additional hit points and better abilities.
 
 Level | Experience Points
@@ -138,12 +138,12 @@ Level | Experience Points
 15    | 900,000
 16    | 1,000,000
 
-From first through ninth level, characters gain an additional hit die each level, plus any constitution modifier.
+From first through ninth level, character roll an additional hit die, plus any constitution modifier, to add to their total hit points.
 At level ten and above, characters gain only two additional hit points per level.
 All hit dice are d6.
-However, fighters roll two six-sided hit dice, and choose the higher roll.
+However, fighters roll two hit dice, and choose the higher roll.
 
-Characters gain at most one level per session.
+Characters advance one level per session at most.
 Reduce the experience award of a character who would gain more levels so that their XP totals half way to the second level.
 
 ## Number of Daily Spells per Spell Level ##
@@ -169,7 +169,7 @@ Character Level | 1 | 2 | 3 | 4 | 5 | 6
 15              | 5 | 5 | 5 | 4 | 4 | 4
 16              | 5 | 5 | 5 | 5 | 5 | 5
 
-Clerics do not gain additional spells after level 10.
+Clerics stop gaining additional spells after level 10.
 
 ## Attack Bonus ##
 
@@ -197,7 +197,7 @@ A fighter in plate dragging a statue, for example, falls to 3''.
 
 Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
 
-The referee makes a wandering monster check every real hour of play time.
+The referee checks for wandering monsters every real hour of play time.
 The odds depend on the movement rate/encumbrance of the party.
 The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
 
@@ -303,7 +303,7 @@ Wolfsbane 10 gp
 Henchmen and hirelings work for the player characters, although they are non-player characters (NPC's) controlled by the referee.
 
 Hirelings are normal humans with a single hit die and no attack bonus --- regular folks looking to pick up a gold piece or two as a porter or link-boy.
-They work for a fixed rate, do not share in treasure, and gain no experience.
+They work for a fixed rate, do not share in treasure, and get no experience.
 Commensurate with their wages, hirelings tolerate only limited risk.
 Employers bear the cost of any gear, weapons, and armor.
 
@@ -313,7 +313,7 @@ Typical expert wages include: alchemist 250 gp/week, armorer 25 gp/week, animal 
 
 Henchmen have personal loyalty to a player character.
 They work for a half-share of found treasure.
-Accordingly, they have a character class, and gain experience.
+Accordingly, they have a character class, and earn experience.
 
 Henchmen tolerate greater risks than hirelings (but not abuse).
 Each henchman has a loyalty score.
@@ -351,7 +351,7 @@ Henchman Loyalty Score | Morale Check Modifier
 
 Magic-users and clerics cast a number of spells per day limited by their level.
 Magic-users replenish their expended spells after a night's rest through study of their spell books.
-Clerics replenish their expended spells each morning by prayer.
+Clerics pray each morning for their spells.
 
 ### Spell Books ###
 
@@ -360,7 +360,7 @@ Upon gaining the ability to cast a higher tier of spells, assume the character, 
 Additional spells must be researched by the character, found in dank dungeon vaults, or looted from the corpses of enemy casters.
 
 Woe for the magic-user who loses his spell books!
-The cost of recreating a spell book is equal to that of researching its spells, although the time is less and success assured.
+The cost of recreating a spell book matches that of researching its spells, although the time is less and success assured.
 
 ### Spell Research ###
 
