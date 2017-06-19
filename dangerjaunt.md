@@ -4,7 +4,9 @@ This fantasy adventure game is played with pencils, paper, and polyhedral dice.
 One player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 The remaining players each take the role of an inexperienced but ambitious Player Character.
 
-Despite omissions for brevity, these rules include the tent pole elements that make the game familiar to players, and from which a referee hangs the creative elaborations that make a campaign unique.
+An adventure exploring a small, ancient tomb might take an hour of play time.
+Finding all the treasure in a sprawling ruined castle could occupy a dozen hours spread over several game sessions.
+As the party of player characters campaign from one adventure to another, over months or years of play, exploring the world imagined by the referee, they evolve into unique and memorable heroes.
 
 # Characters #
 
@@ -73,7 +75,7 @@ New rogue characters start with a 1 in all skills, plus two points the player as
 Each time the rogue gains a level, the player assigns one additional point to a skill.
 
 A d6 roll equal to or lower than the skill score indicates success.
-For skills with a score of six, roll two dice; a failure occurs only when both dice come up sixes.
+For skills with a score of six, roll two dice; a failure occurs if both dice come up sixes.
 
 - Stealth (hide in shadows, move silently)
 - Acrobatics (climb sheer walls, backflip, walk tightrope)
@@ -98,7 +100,7 @@ Aging and fear effects, _Sleep_, _Charm_, _Hold_, and ghoul paralysis do not aff
 ## Dwarves ##
 
 Dwarves are flesh and blood, but also ore and stone.
-They love their beards, their brew, and all masterful craft.
+They love their beards, rich brew, and all masterful craft.
 
 Dwarves work as either fighters or rogues.
 They make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
@@ -112,7 +114,7 @@ After attaining level 6, dwarves suffer a 50% reduction in subsequent earned exp
 
 Choose an Alignment: Law, Chaos, or Neutrality.
 Law promotes the order of civilization, while Chaos favors a world beyond mortal reason.
-Law and Chaos do not necessarily neatly correspond to Good and Evil.
+Law and Chaos do not necessarily correspond neatly to Good and Evil.
 
 ## Character Advancement and Hit Points ##
 
@@ -149,6 +151,8 @@ Reduce the experience award of a character who would gain more levels so that th
 ## Number of Daily Spells per Spell Level ##
 
 Clerics and magic-users cast a number of spells per day of various spell levels based on their character level.
+Clerics stop gaining additional spells after level 10.
+
 
 Character Level | 1 | 2 | 3 | 4 | 5 | 6
 :--------------:|---|---|---|---|---|---
@@ -168,8 +172,6 @@ Character Level | 1 | 2 | 3 | 4 | 5 | 6
 14              | 5 | 5 | 4 | 4 | 4 | 3
 15              | 5 | 5 | 5 | 4 | 4 | 4
 16              | 5 | 5 | 5 | 5 | 5 | 5
-
-Clerics stop gaining additional spells after level 10.
 
 ## Attack Bonus ##
 
@@ -199,7 +201,7 @@ Furthermore, every 250 coins of treasure carried drops the character's movement 
 
 The referee checks for wandering monsters every real hour of play time.
 The odds depend on the movement rate/encumbrance of the party.
-The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like noisily bash down a door or roast a kobold.
+The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like batter a door or roast a kobold.
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
 ----------------:|:--:|:-------------:|:----------------------:
@@ -225,7 +227,6 @@ Descending AC  |  9 |  8 |  6 |  5 |  4 |  3 |  2 |  1
 
 Each new character starts the game with 3d6 x 10 gold pieces to buy equipment.
 One gold piece (gp) is worth 10 silver pieces (sp) or 100 copper pieces (cp).
-The referee may vary the cost and availability of items depending on locality.
 
 ### Armor ###
 
@@ -416,7 +417,7 @@ Range: 6''; duration: 20 minutes.
 
 #### 3. Hold Portal ####
 
-_Hold Portal_ magically freezes the position of a door or gate.
+_Hold Portal_ freezes the position of a door or gate.
 Creatures with magic resistance unhinge the spell with minor effort.
 Range: referee's discretion; duration: 2d6 turns.
 
@@ -588,7 +589,7 @@ Range: referee's discretion; duration: permanent.
 
 The magic-user summons a 16 HD elemental, and binds it to his command.
 Each type of elemental may only be summoned once per day.
-The elemental obeys only while the caster concentrates;
+The elemental obeys while the caster concentrates;
 even momentary loss of concentration unleashes the elemental on a murderous rampage.
 Range: 24'', duration: until dispelled.
 
@@ -632,8 +633,8 @@ Second-hand knowledge of the location, like from a painting or map, gives a 25% 
 Failure results in death.
 
 If the caster has glimpsed but not studied the destination, the chance of failure is 20%.
-Half of failures place the traveler 1d10 x 10 feet below the intended location, possibly resulting in death from arrival within a solid substance.
-The other half of failures place the traveler 1d10 x 10 feet above the targeted location, possibly resulting in a deadly fall.
+Half of failures place the traveler 1d10 x 10 feet below the intended location, risking death from materialization within a solid substance.
+The other half of failures place the traveler 1d10 x 10 feet above the targeted location, risking a deadly fall.
 
 If the caster is familiar with the place or studies it carefully, the chance of failure falls to 5%, with 1 in 6 failures arriving below and the rest arriving above the target location.
 In either case, the arrival is 1d4 x 10 feet low or high.
@@ -763,8 +764,8 @@ Range: touch, duration: instant.
 #### 4. Speak with Dead ####
 
 The cleric whispers three questions to a recently deceased spirit, and gets answers.
-Clerics of less than seventh level contact only those who died within the last three days.
-Clerics of less than eleventh level contact only those who died within the last three months.
+Clerics of less than seventh level contact those who died within the last three days.
+Clerics of less than eleventh level contact those who died within the last three months.
 Answers from spirits often come as riddles or in an otherwise cryptic form.
 
 ### Cleric Spells Level 4 ###
@@ -824,7 +825,7 @@ _Raise Dead_ only succeeds for human-like beings.
 ## Exploration ##
 
 "Exploration turns" last ten times longer than combat turns.
-Each character takes a single complex action or two simple actions during a turn --- two moves, a move and listening at a door, rigging a pulley, etc.
+Each character takes a single complex action or two simple actions during a turn --- two moves; one move and listening at a door; rigging a pulley; etc.
 
 During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see in the gloom, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
 
@@ -860,17 +861,22 @@ Any character or monster reduced to zero or fewer hit points dies.
 ## Evasion and Pursuit ##
 
 A group of player characters or monsters, having stumbled into a disadvantageous situation, may try to evade the encounter, so long as the other side hasn't surprised them.
-If monsters take flight, the players decide whether to pursue.
-When player characters flee monsters, the referee consults the Monster (Re)actions table;
-the monsters give chase on a "hostile" result.
 
 Pursuit differs for monsters and player characters.
-Faster player characters always catch slower monsters, and faster monsters always escape slower characters.
-But, monsters never catch fleeing characters.
 
-After escaping, characters wind up in a room chosen by the referee, and must reorient themselves.
-When evading slower pursuers, the chase ends 1--2 moves from its start, in a cardinal direction chosen by the players.
-Having fled faster foes, characters find themselves 1--4 moves away, in an unknown cardinal direction secretly rolled by the referee.
+If monsters take flight, the players decide whether to pursue.
+Player characters may or may not catch them.
+Faster player characters always overtake slower monsters.
+Faster monsters always escape slower characters.
+
+When player characters flee monsters, the referee consults the Monster (Re)actions table;
+the monsters give chase on a "hostile" result.
+Monsters never catch fleeing adventurers.
+Characters wind up 1--3 moves from where the chase began, at a place picked by the referee.
+Players must reorient themselves.
+When evading slower pursuers, players chose the cardinal direction where the chase ends.
+The confused desperation of flight from faster pursuers leaves characters disoriented;
+the referee rolls the cardinal direction in secret.
 
 ## Monster (Re)actions ##
 
@@ -936,7 +942,7 @@ Referees expand the roster of monsters by enhancing existing ones (fire-breathin
 
 ### Monster and Encounter Design ###
 
-This points-based system helps build encounters or design new monsters.
+This points-based system helps referees build encounters or design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
 The point system also suggests treasure values for encounters.
 
@@ -971,7 +977,7 @@ Calculate the challenge rating of a monster encounter by summing the following p
 Encounter examples:
 
 - Basilisk (6 HD: 6 pt, stone: 4 pt) = 10 CR
-- Adult Red Dragon (9 HD: 9 pt, fly and strong AC: 2 pt, breath: 2 pt, claw/claw/bite: 2 pt) = 15 CR
+- Adult Red Dragon (9 HD: 9 pt, fly and strong AC: 2 pt, breath: 2 pt, claw/claw/bite: 1 pt) = 14 CR
 - One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 2 pt) = 10 CR
 
 
@@ -1005,7 +1011,7 @@ CR   | XP    | Treasure Value (GP)
 25   | 5,800 | 23,200
 26   | 6,100 | 24,400
 
-To vary the difficulty of encounters in the rooms of a large dungeon area, roll a point budget multiplier for each room with a monster.
+Add variety to the encounter difficulties in a large dungeon area by rolling a point budget multiplier for each room with a monster.
 
 d8   | Point Multiplier
 -----|----------------
@@ -1121,7 +1127,7 @@ d8   | Point Multiplier
 
 ### Animals and Giant Animals ###
 
-Although normal animals rarely attack humans without provocation, mutations that cause animal gigantism often correspond with behavioral changes, like increased aggression.
+Although normal animals rarely attack humans without provocation, mutations that cause animal gigantism correspond with behavioral changes, like increased aggression.
 
 HD     | Animals
 -------|---------
@@ -1332,7 +1338,7 @@ Lightning and cold don't harm gelatinous cubes.
 AC: 13 HD: 2 (CR 4) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
-They're immune to _Sleep_ and charm spells.
+They're immune to _Sleep_ and _Charm_ spells.
 Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
@@ -1363,7 +1369,7 @@ Giant white wolves often accompany frost giants.
 AC: 15 HD: 8 (CR 11) Move: 12'' Attacks: squash 2d6 or boulders 2d8
 
 Hill giants throw rocks for 2d8 damage.
-They sometimes bully giant lizards, ogres, or worgs into guarding their lairs.
+They sometimes bully giant lizards, ogres, or giant wolves into guarding their lairs.
 
 ### Giant, Stone ###
 
@@ -1551,7 +1557,7 @@ Their acid dissolves killed opponents (making _Raise Dead_ nearly impossible).
 
 AC: 14 HD: 4+1 (CR 4) Move: 9'' Attacks: weapon d10
 
-They enslave captives (1--2 on d8) or simply eat them (3--8).
+They enslave captives (1--2 on d8) or eat them (3--8).
 Orgres themselves are sometimes enslaved by demons.
 
 ### Orc ###
@@ -1642,7 +1648,7 @@ AC: 12 HD 2+2 (CR 3) Move: 9'' Attacks: bite d4+1, swallow
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
-They surprise on 6 in 12.
+They surprise on 3 in 6.
 
 ### Troll ###
 
@@ -1675,7 +1681,7 @@ Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 AC: 14 HD: 3 (CR 9) Move: 9'' Attacks: level drain
 
-Only magic or silver weapons harm them, and they're immune to sleep or charm spells.
+Only magic or silver weapons harm them, and they're immune to _Sleep_ or _Charm_ spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
@@ -1705,11 +1711,11 @@ The gold piece value of a treasure equals three or four times the XP of the mons
 Treasure includes any valuable item.
 An oil painting of a historic battle, a fine instrument bearing the mark of a famous luthier, or the cracked half of a cannonball-sized pearl excites the interests of players more than a pile of coins.
 
-A map to a hidden treasure is a prized item itself, and promises further adventure.
-The map might show the distant location of a famous item or a simple cache of coins hidden behind a secret door in the next room.
-Some obscure their meaning with riddles or codes.
+A map to hidden treasure is prized for the further adventure it promises.
+The map might mark the remote mountain atop which a famous sword waits or a simple sack of coins hidden behind a secret panel in the next room.
+Some maps obscure their meaning with riddles or codes.
 
-A large hoard may contain magic items.
+A large hoard may hold magic items.
 The referee should roll to trade out gold pieces.
 
 - Each 100 gp adds 10% chance of a minor magic item.
@@ -1773,7 +1779,7 @@ Typical scrolls include:
 
 Wands shoot either a line-like ray or a narrow cone.
 Some wands duplicate the effect of a spell, while others function like a flashlight/radar/Geiger counter.
-Wands hold only a limited number of charges, usually 2--20, and have a range of 60'.
+Wands hold a limited number of charges, usually 2--20, and have a range of 60'.
 Only magic-users employ wands.
 Typical wands include:
 
@@ -1910,19 +1916,19 @@ d12   | Room Contents
 Make deadly traps obvious.
 What the trap does and its trigger beg investigation, but telegraph its presence to the players.
 Foreshadow a room that fills with poison gas, for example, with an acrid smell and faint hissing noise;
-players who fail to cautiously pursue those hints (or retreat from the room) can't complain about a save-or-die roll after they turn the dogging wheel on the opposite door, only to find both doors sealed and green steam gushing from nozzles in the ceiling.
+players who fail to cautiously pursue those hints (or retreat from the room) can't complain about a save-or-die roll after they turn the dogging wheel on the opposite door, to find both doors sealed and green steam gushing from nozzles in the ceiling.
 
 Make gotcha traps --- poison needles in door knobs or faux floors that drop characters into pits without warning --- inflict only minor damage or temporary penalties, like 1--3 HP damage or double-vision for a day (-1 to hit).
 
 Tricks differ from traps in that they befuddle players rather than harming characters.
-Tricks might be as simple as a false door, or as sophisticated as an imperceptively revolving room that opens onto different hallways depending on its orientation.
+Tricks might be as simple as a false door, or as sophisticated as an imperceptibly revolving room that opens onto different hallways depending on its orientation.
 Tricks include puzzles, riddles, and nonsense, like a sliding tile game built into a dungeon floor that the characters must arrange to show a picture of an open door, or a verse inscribed on a wall that the players complete by following the rhyme scheme.
 
 ### Wandering Monster List Making List ###
 
 1. Traveling: 1. To/from elsewhere on current level 2. To/from level above 3. To/from level below 4. To/from surface 5. Very secret passage 6. By magic
 2. Escorting: 1. Slaves 2. Enemy captives 3. Friendly VIP 4. Criminals 5. Livestock 6. Diplomatic mission
-3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering 4. tribute (paying) 5. Tribute (collecting) 6. Foodstuffs 7. Threats 8. Weapons 9. Intelligence/maps 10. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber)
+3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering 4. Tribute (paying) 5. Tribute (collecting) 6. Foodstuffs 7. Threats 8. Weapons 9. Intelligence/maps 10. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber)
 4. Patrolling/hunting: 1. Searching for intruders 2. Searching for lost fellows 3. Hunting food 4. Sport hunting
 5. Raiding: 1. To/from raid property on same level 2. To/from raid property on level above 3. To/from raid property on level below 4. To/from freeing of friendly captives 5. To/from kidnapping enemies 6. To/from raid counting coup, pulling pranks, or making mischief
 6. Labor: 1. Decorating 2. Structural repairs (doors, beams, bridges, stairs) 3. Setting/fixing traps 4. Demolition/renovation 5. Mining 6. Harvesting 7. Cleaning 8. Crafting 9. Cooking 10. Brewing
