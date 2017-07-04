@@ -17,7 +17,8 @@ Most characters are human, but the referee may allow other types, like elves and
 
 ## Abilities ##
 
-For each ability, roll 3d6 and record the total:
+For each ability, roll 3d6 and record the total.
+After rolling all six ability scores, the player may swap two of them if desired.
 
 - Strength
 - Intelligence
@@ -25,8 +26,6 @@ For each ability, roll 3d6 and record the total:
 - Dexterity
 - Constitution
 - Charisma
-
-After rolling all six ability scores, the player may swap two of them if desired.
 
 ### Ability Score Bonuses ###
 
@@ -44,8 +43,8 @@ Score  | Modifier
 
 Clerics are militant crusaders, jovial friars, or cunning hunters of the undead.
 
-Each day, they pray for particular spells from their spell list.
-At any point during play, a cleric may swap out a prepared spell for the _Turn Undead_ spell.
+Each morning, they pray for their daily spells.
+A cleric may swap out a prepared spell for the _Turn Undead_ spell at any point during play.
 
 Clerics use any armor, but only blunt weapons.
 
@@ -73,41 +72,42 @@ Once cast, a spell escapes the magic-user's mind completely, unusable a second t
 Rogues include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
 
 Rogues know five broad skills, with each skill rated between one and six.
-New rogue characters start with a 1 in all skills, plus two points the player assigns as desired.
+New rogue characters start with a 1 in all skills, plus three points the player assigns as desired.
 Each time the rogue gains a level, the player assigns one additional point to a skill.
 
 A d6 roll equal to or lower than the skill score indicates success.
 For skills with a score of six, roll two dice; a failure occurs if both dice come up sixes.
 
-- Stealth (hide in shadows, move silently)
-- Acrobatics (climb sheer walls, backflip, walk tightrope)
-- Tinkering (open locks, pick pockets, arm or disarm tiny traps or alarms, safecracking)
-- Assassination (poisons, backstabbing, nerve strikes)
+- Stealth (hide in shadow, move silently)
+- Acrobatics (climb sheer wall, backflip, walk tightrope)
+- Tinkering (open lock, pick pocket, arm or disarm tiny trap or alarm, safecrack)
+- Assassination (poison, backstab, nerve strike)
 - Chicanery (disguise, fast-talk, forgery, intimidation, ventriloquism, coin clipping)
 
-When surprising an opponent, a rogue backstabs with a damage roll multiplied by their Assassination score, and adds the Assassination score to their to-hit roll.
+A rogue adds their Assassination score to their to-hit roll when surprising an opponent.
+On a hit, multiply damage by the Assassinations score.
 
-Wearing heavier than leather armor prevents use of Stealth, Acrobatics, and Tinkering.
+Wearing armor heavier than leather prevents use of Stealth, Acrobatics, and Tinkering.
 
 ## Elves ##
 
 Elves are outsiders.
-Psychologically and physiologically alien, they walk as tourists through the human world.
+Psychologically and physiologically alien, they walk through the human world as tourists.
 
-Their nature lets them cast spells while wearing armor and bearing arms, but it also distances them from the immediacy and urgency of experience that drives mortal men.
+Their nature lets them cast spells while wearing armor and bearing arms, but distances them from the immediacy and urgency of experience that drives mortal men.
 After third level, elves keep only 1/4 the experience points they earn.
 
-Aging and fear effects, _Sleep_, _Charm_, _Hold_, and ghoul paralysis do not affect elves.
+Elves ignore aging and fear effects, _Sleep_, _Charm_, _Hold_, and ghoul paralysis.
 
 ## Dwarves ##
 
 Dwarves are flesh and blood, but also ore and stone.
-They love their beards, rich brew, and all masterful craft.
+They love full beards, rich brew, and masterful craftwork.
 
 Dwarves work as either fighters or rogues.
-They make saving throws with a +4 bonus due to their natural fortitude and magic resistance.
+They make saving throws with a +4 bonus due to their inate fortitude and magic resistance.
 Dwarves know about stonework, gems, engineering, and metalwork;
-the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example, even if humans or elves would be unaware of it.
+the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example.
 On 1--2 in 6, dwarves notice secret doors simply by passing near them.
 
 After attaining level 6, dwarves suffer a 50% reduction in subsequent earned experience.
@@ -120,8 +120,8 @@ Law and Chaos do not necessarily correspond neatly to Good and Evil.
 
 ## Character Advancement and Hit Points ##
 
-By killing monsters and finding treasure, characters amass experience points (XP).
-After accumulating enough experience points, a character advances to a higher level, gaining additional hit points and better abilities.
+Characters amass experience points (XP) by killing monsters and finding treasure.
+After accumulating enough experience points, a character advances to a higher level, adding hit points, more daily spells, better saving throws, etc.
 
 Level | Experience Points
 :----:|-------------------
@@ -142,7 +142,7 @@ Level | Experience Points
 15    | 900,000
 16    | 1,000,000
 
-From first through ninth level, character roll an additional hit die, plus any constitution modifier, to add to their total hit points.
+From first through ninth level, characters roll an additional hit die, plus any constitution modifier, to add to their total hit points.
 At level ten and above, characters gain only two additional hit points per level.
 All hit dice are d6.
 However, fighters roll two hit dice, and choose the higher roll.
