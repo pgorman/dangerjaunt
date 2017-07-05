@@ -1946,26 +1946,26 @@ The type of "lair" dungeons seen in adventure modules is composed of one or two 
 A megadungeon, on the other hand, descends at least ten levels deep --- each level more perilous than the one above it --- with dozens or hundreds of rooms per level occupied by numerous monster factions.
 Such a dungeon acts as the centerpiece of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
 
-- Map and key all or most of the first two or three levels before play begins.
-- Make the maps non-linear, to let the players tackle or bypass areas as they choose.
-- Let players gauge their risk by depth --- dungeon level three generally gives adequate challenges and rewards for a third-level party, for example (though include a few exceptionally easy or deadly encounters on each level).
+- Map and key the first two or three levels before play begins.
+- Non-linear let the players tackle or bypass areas as they choose.
+- Let players gauge their risk by depth (dungeon level three adequately challenges and rewards a third-level party, for example) but include some exceptionally easy or deadly encounters on each level.
 - Remember vertical movement!
 	- Connect each level to at least one other, besides the levels immediately above and below.
 	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
 - Populate each level with multiple cooperative or antagonistic monster factions.
 - Divide each level into sub-areas with distinct features, under the control of a particular monster faction.
-- Even for levels you haven't finished mapping, make a list of important items found there, like:
-	- Most of the first level spells can be found on levels one and two, on dusty scrolls or in the hands of enemy spellcasters.
+- Even for levels you haven't finished keying, list important items found there, like:
+	- Most first level spells can be found on levels one and two, on dusty scrolls or in the hands of enemy spellcasters.
 	- Each level holds one or two magic swords, locked in forgotten vaults or possessed by the local anti-paladin.
 	- Each level holds one or two major magic items of note.
-	- Each level has one or two exceptionally interesting baddies.
+	- Each level houses one or two exceptionally interesting baddies.
 - List rumors about major magic items and monsters, and slowly feed them to the players.
-- Write a wandering monster table for each level, and include lost, visiting, or raiding monsters from adjacent levels.
-- Include enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance. The party won't find all the treasure, and some character fatalities burn some XP.
+- Include lost, visiting, or raiding monsters from adjacent levels on each level's wandering monster table.
+- Stock enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance. The party won't find all the treasure, and character fatalities burn some XP.
 - Add several outside entrances to the dungeon going to different levels.
-- Include traces of the dungeon's history: graffiti from previous adventuring parties, relics from long-extinct monsters, or changes to the dungeon geography (flooded areas, cave-ins, bricked-up passages, fresh excavation, etc.).
-- Include environmental hazards, like acid pools, low-lying areas where flammable gas pools, radiation, and rock slides.
-- Make the dungeon is a living thing --- repopluate cleared areas with new factions, include signs that rival adventuring parties have been setting off traps or making deals with monsters, etc.
+- Decorate the dungeon with its history: graffiti from previous adventuring parties, relics of long-extinct monsters, or changes to the geography (flooded areas, cave-ins, bricked-up passages, etc.).
+- Weaponize the environment itself with acid baths, low-lying pools of flammable gas, radiation, and rock slides.
+- Make the dungeon dynamic --- repopulate cleared areas with new factions, open freshly constructed passages off already-explored hallways, show monsters forging new alliances, etc.
 
 ## House Rules ##
 
