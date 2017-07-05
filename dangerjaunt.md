@@ -828,9 +828,9 @@ _Raise Dead_ only succeeds for human-like beings.
 ## Exploration ##
 
 "Exploration turns" last ten times longer than combat turns.
-Each character takes a single complex action or two simple actions during a turn --- two moves; one move and listening at a door; rigging a pulley; etc.
+Each character takes a single complex action or two simple actions during a turn --- two moves; one move and lighting a torch; rigging a pulley; etc.
 
-During exploration, in addition to adjudicating basic actions, the referee considers how far the characters see in the gloom, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
+During exploration, the referee considers how far the characters see in the gloom, how long light sources burn before exhausting their fuel, and what sounds echo to or from nearby monsters.
 
 Light Source     | Distance   | Duration
 -----------------|------------|----------
@@ -922,7 +922,8 @@ A morale check might happen after the first wound, or after the first death, or 
 Any round where one side clearly comes off worse than the other threatens morale.
 
 The referee rolls 2d6 to test morale.
-A result of 6+ means they stay in the fight, though the referee might bump this target up or down a point or two based on circumstances.
+A result of 6+ means they stay in the fight.
+The referee might apply a 1--2 point bonus or penalty to the morale roll, depending on circumstances.
 Remember to add the loyalty modifier when checking morale for henchmen.
 
 ## Grappling and Subdual ##
@@ -945,9 +946,8 @@ Referees expand the roster of monsters by enhancing existing ones (fire-breathin
 
 ### Monster and Encounter Design ###
 
-This points-based system helps referees build encounters or design new monsters.
+This points-based system helps referees build encounters, assign treasure values, and design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
-The point system also suggests treasure values for encounters.
 
 Calculate the Challenge Rating (CR) of the player character party by summing points for the following:
 
@@ -1013,17 +1013,6 @@ CR   | XP    | Treasure Value (GP)
 24   | 5,500 | 22,000
 25   | 5,800 | 23,200
 26   | 6,100 | 24,400
-
-Add variety to the encounter difficulties in a large dungeon area by rolling a point budget multiplier for each room with a monster.
-
-d8   | Point Multiplier
------|----------------
-1    | x 0.2
-2    | x 0.3
-3--5 | x 0.4
-6    | x 0.6
-7    | x 1
-8    | x 3
 
 ### Monster Attributes ###
 
