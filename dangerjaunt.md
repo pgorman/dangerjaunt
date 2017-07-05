@@ -121,26 +121,26 @@ Law and Chaos do not necessarily correspond neatly to Good and Evil.
 ## Character Advancement and Hit Points ##
 
 Characters amass experience points (XP) by killing monsters and finding treasure.
-After accumulating enough experience points, a character advances to a higher level, adding hit points, more daily spells, better saving throws, etc.
+After accumulating enough experience points, a character advances to a higher level, gaining additional hit points, more daily spells, better saving throws, etc.
 
-Level | Experience Points
-:----:|-------------------
-1     | 0
-2     | 600
-3     | 1,800
-4     | 5,400
-5     | 16,000
-6     | 32,000
-7     | 64,000
-8     | 128,000
-9     | 256,000
-10    | 400,000
-11    | 500,000
-12    | 600,000
-13    | 700,000
-14    | 800,000
-15    | 900,000
-16    | 1,000,000
+Level | Experience Points | Hit Dice
+:----:|-------------------|-----------------------------
+1     | 0                 | 1 HD + Constitution modifier
+2     | 600               | 2 HD + Constitution modifier
+3     | 1,800             | 3 HD + Constitution modifier
+4     | 5,400             | 4 HD + Constitution modifier
+5     | 16,000            | 5 HD + Constitution modifier
+6     | 32,000            | 6 HD + Constitution modifier
+7     | 64,000            | 7 HD + Constitution modifier
+8     | 128,000           | 8 HD + Constitution modifier
+9     | 256,000           | 9 HD + Constitution modifier
+10    | 400,000           | +2 hp
+11    | 500,000           | +2 hp
+12    | 600,000           | +2 hp
+13    | 700,000           | +2 hp
+14    | 800,000           | +2 hp
+15    | 900,000           | +2 hp
+16    | 1,000,000         | +2 hp
 
 From first through ninth level, characters roll an additional hit die, plus any constitution modifier, to add to their total hit points.
 At level ten and above, characters gain only two additional hit points per level.
@@ -178,7 +178,7 @@ Character Level | 1 | 2 | 3 | 4 | 5 | 6
 ## Attack Bonus ##
 
 Player characters start at first level with an attack bonus of +1, which they add to their d20 attack rolls.
-Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4).
+Fighters gain an additional +1 per level (e.g. a fourth-level fighter gets +4 on each attack roll).
 Other classes, including elves, gain an additional +1 at levels four, seven, ten, thirteen, and sixteen.
 A seventh-level cleric, for example, gets an attack bonus of +3.
 
@@ -193,7 +193,7 @@ A fighter wielding two weapons also makes one attack roll for d10 damage.
 
 ## Armor, Encumbrance, Wandering Monsters ##
 
-Of all standard gear, armor is the heaviest and most mechanically important.
+Of all standard gear, armor is the heaviest and most important.
 This makes armor the primary factor for encumbrance and movement.
 
 However, when a character hauls something bulky or heavy, movement drops to the next lower movement tier.
@@ -202,8 +202,8 @@ A fighter in plate dragging a statue, for example, falls to 3''.
 Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
 
 The referee checks for wandering monsters every real hour of play time.
-The odds depend on the movement rate/encumbrance of the party.
-The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like batter a door or roast a kobold.
+The odds depend on the movement rate of the party.
+The referee adds an additional wandering monster check at 1 or 2 in 6 when the characters do something that might attract monsters, like bash a door or roast a kobold.
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
 ----------------:|:--:|:-------------:|:----------------------:
@@ -217,7 +217,7 @@ Plate mail       | 17 | 6''           | 4 in 6
 Plate & shield   | 18 | 6''           | 4 in 6
 +Encumbered      |    | 3''           | 5 in 6
 
-In the ascending armor class system (shown above), a higher AC indicates better protection.
+In the ascending armor class system (shown above), a higher AC number indicates better protection.
 The traditional descending AC system has lower numbers for better armor.
 Use the table below for reference, or calculate the difference from 19.
 
@@ -306,7 +306,7 @@ Wolfsbane 10 gp
 Henchmen and hirelings work for the player characters, although they are non-player characters (NPC's) controlled by the referee.
 
 Hirelings are normal humans with a single hit die and no attack bonus --- regular folks looking to pick up a gold piece or two as a porter or link-boy.
-They work for a fixed rate, do not share in treasure, and get no experience.
+They work for a fixed rate, do not share in treasure, and gain no experience.
 Commensurate with their wages, hirelings tolerate only limited risk.
 Employers bear the cost of any gear, weapons, and armor.
 
@@ -396,10 +396,11 @@ The cost doubles for each spell level, so scribing a sixth-level spell costs 3,2
 
 ### Brewing Potions ###
 
-While only casters invoke spell scrolls, drinking a potion affects anyone.
-Clerics brew up to one potion per week to duplicate the effect of any spell they can cast that affects the caster.
-Magic-users brew potions with the help of an alchemist.
-Material costs of potions follow that of scrolls.
+Only spell casters invoke scrolls, but drinking a potion affects any type of character.
+A magic-user or cleric may formulate any spell they know as a potion, so long as that spell targets the caster.
+Brewing a potion takes one week.
+The material costs of potions match that of scrolls.
+Magic-users require the aid of an alchemist to brew potions.
 
 ## Magic-User Spells ##
 
