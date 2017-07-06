@@ -1517,7 +1517,7 @@ They hurl up to 6 of their 24 tail spikes per round (180').
 AC: 11 HD: 6 (CR 11) Move: 9'' Attacks: weapon, snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
-In addition to their melee attack, their snake hair bites with venom (save allowed).
+Their snake hair bites with venom (save or die).
 
 ### Mimic ###
 
@@ -1821,7 +1821,7 @@ Typical magic swords include:
 6. Sword -1 (_Remove Curse_ to drop)
 
 Rarely, magic swords are imbued with an ego, or even full-blown intelligence, which they exercise in pursuit of a special mission.
-Such blades compel their wielder (saving throw) to disregard self-interest and personal safety when presented with an opportunity to further their goal.
+Such blades compel their wielder (saving throw) to disregard self-interest and personal safety when presented with an opportunity to further the goal.
 
 ### Armor ###
 
