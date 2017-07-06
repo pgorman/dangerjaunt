@@ -254,7 +254,7 @@ Sword (short) 8 gp,
 Sword (two-handed) 15 gp,
 Warhammer 5 gp
 
-### Missle Weapons ###
+### Missile Weapons ###
 
 Arrows (twenty) 5 gp,
 Arrow (silver) 5 gp,
@@ -473,7 +473,7 @@ Range: 9''; duration: 1 minute per level.
 #### 5. Phantasmal Force ####
 
 This spell paints a realistic illusion.
-Those who behold and believe the illusion (save vs. spell) suffer real damage from any phantasmal assaults.
+Those who behold and believe the illusion (saving throw) suffer real damage from any phantasmal assaults.
 The illusion disappears when hit (AC 10).
 Range: 24''; duration: until dispelled.
 
@@ -485,7 +485,7 @@ Range: 10'; duration: 8 hours.
 
 ### Magic-User Spells Level 3 ###
 
-#### 1. Clairvoyance/Clairaudence ####
+#### 1. Clairvoyance/Clairaudience ####
 
 Lets the caster see or hear (choose when casting) through solid objects.
 The spell cannot penetrate more than two feet of stone and even a thin layer of lead blocks it.
@@ -1508,7 +1508,7 @@ even seeing a lich paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 11) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d5 per tail spike
+AC: 15 HD: 6+4 (CR 11) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d6 per tail spike
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
@@ -1886,7 +1886,7 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 3. City, town, or outpost
 4. Castle, keep, or tower
 5. Caves, cavern, sinkhole, ravine
-6. Mine, sewers, cthonic settlement
+6. Mine, sewers, chthonic settlement
 
 ### Random Dungeon Room Stocking ###
 
