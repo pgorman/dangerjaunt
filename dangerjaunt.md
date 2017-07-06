@@ -197,7 +197,7 @@ Of all standard gear, armor is the heaviest and most important.
 This makes armor the primary factor for encumbrance and movement.
 
 However, when a character hauls something bulky or heavy, movement drops to the next lower movement tier.
-A fighter in plate dragging a statue, for example, falls to 3''.
+A fighter in plate dragging a statue, for example, falls to 30'.
 
 Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
 
@@ -207,15 +207,15 @@ The referee adds an additional wandering monster check at 1 or 2 in 6 when the c
 
 Armor            | AC | Movement Rate | Wandering Monster Odds
 ----------------:|:--:|:-------------:|:----------------------:
-Naked            | 10 | 18''          | 1 in 6
-Shield only      | 11 | 18''          | 1 in 6
-Leather armor    | 13 | 12''          | 2 in 6
-Leather & shield | 14 | 12''          | 2 in 6
-Chain mail       | 15 | 9''           | 3 in 6
-Chain & shield   | 16 | 9''           | 3 in 6
-Plate mail       | 17 | 6''           | 4 in 6
-Plate & shield   | 18 | 6''           | 4 in 6
-+Encumbered      |    | 3''           | 5 in 6
+Naked            | 10 | 180'          | 1 in 6
+Shield only      | 11 | 180'          | 1 in 6
+Leather armor    | 13 | 120'          | 2 in 6
+Leather & shield | 14 | 120'          | 2 in 6
+Chain mail       | 15 | 90'           | 3 in 6
+Chain & shield   | 16 | 90'           | 3 in 6
+Plate mail       | 17 | 60'           | 4 in 6
+Plate & shield   | 18 | 60'           | 4 in 6
++Encumbered      |    | 30'           | 5 in 6
 
 In the ascending armor class system (shown above), a higher AC number indicates better protection.
 The traditional descending AC system has lower numbers for better armor.
@@ -409,13 +409,13 @@ Magic-users require the aid of an alchemist to brew potions.
 
 _Charm Person_ affects living bipeds of about human size or smaller, such as hobgoblins and dwarves.
 Should the unfortunate creature fail its saving throw, it believes the caster a close, trusted friend.
-Range: 12''; duration: until dispelled.
+Range: 120'; duration: until dispelled.
 
 #### 2. Detect Magic ####
 
 The magic-user senses enchantments on places, people, or things.
 This reveals any magic items secreted nearby.
-Range: 6''; duration: 20 minutes.
+Range: 60'; duration: 20 minutes.
 
 #### 3. Hold Portal ####
 
@@ -426,7 +426,7 @@ Range: referee's discretion; duration: 2d6 turns.
 #### 4. Light ####
 
 With the brightness of a torch, _Light_ illuminates an area with a radius of 40 feet around a person or object.
-Range 12''; duration: 2 hours.
+Range 120'; duration: 2 hours.
 
 #### 5. Read Magic/Languages ####
 
@@ -446,36 +446,36 @@ It affect up to 3d6 hit dice worth of creatures with fewer than five hit dice ea
 
 The magic-user detects the thoughts of other beings.
 Stone thicker than two feet, or even a thin sheet of lead, blocks the spell.
-Range: 6''; duration: 2 hours.
+Range: 60'; duration: 2 hours.
 
 #### 2. Invisibility/Detect Invisibility  ####
 
 The object of _Invisiblity_, whether a person or a thing, becomes undetectable by normal sight or darkvision.
 An invisible creature cannot be attacked without knowledge of its presence and approximate location, and those attacks suffer a -4 penalty to hit.
-Range: 24''; duration: until dispelled or attack.
+Range: 240'; duration: until dispelled or attack.
 
 _Detect Invisibility_ reveals invisible creatures and objects to the caster.
-Range: 1''/caster level; duration: 1 hour.
+Range: 10'/caster level; duration: 1 hour.
 
 #### 3. Knock/Lock ####
 
 _Knock_ unlocks and unbars all doors, gates, and portals within its range, including secret doors and doors held or locked by normal magic.
 _Lock_ is like _Hold Portal_, but permanent.
 _Lock_ may be temporarily overridden by _Knock_, or bypassed by any monster with magic resistance or a magic-user three or more levels higher than the _Lock_ caster.
-Range: 6''; duration: instant.
+Range: 60'; duration: instant.
 
 #### 4. Locate Object ####
 
 This spell directs the caster (as the crow flies) toward an object the caster describes.
 The magic-user must have seen the object or an object of its general type: stairs, gold, etc.
-Range: 9''; duration: 1 minute per level.
+Range: 90'; duration: 1 minute per level.
 
 #### 5. Phantasmal Force ####
 
 This spell paints a realistic illusion.
 Those who behold and believe the illusion (saving throw) suffer real damage from any phantasmal assaults.
 The illusion disappears when hit (AC 10).
-Range: 24''; duration: until dispelled.
+Range: 240'; duration: until dispelled.
 
 #### 6. Web ####
 
@@ -489,12 +489,12 @@ Range: 10'; duration: 8 hours.
 
 Lets the caster see or hear (choose when casting) through solid objects.
 The spell cannot penetrate more than two feet of stone and even a thin layer of lead blocks it.
-Range: 6''; duration: 2 hours.
+Range: 60'; duration: 2 hours.
 
 #### 2. Dispel Magic ####
 
 _Dispel Magic_ completely dispels most enchantments and spells.
-Range 12''; duration: 10 minutes.
+Range 120'; duration: 10 minutes.
 
 #### 3. Fire Ball ####
 
@@ -502,7 +502,7 @@ A missile blazes from the magic-user's finger to engulf the target in a furnace-
 The 20' radius blast conforms in shape to the volume available.
 Damage is 1d6 per caster level.
 A successful saving throw halves damage taken by the target.
-Range: 24'', duration: instant.
+Range: 240', duration: instant.
 
 #### 4. Fly ####
 
@@ -515,12 +515,12 @@ Range: touch, duration: d6 turns + 1 turn/level.
 A ten foot wide bolt of lightning arcs 60 feet from the fingertip of the caster.
 Anyone in its path suffers 1d6 points of damage per level of the caster, though a successful saving throw halves damage.
 The bolt always extends 60 feet, even if it must ricochet backward from something that blocks its path.
-Range: 6'', duration: instant.
+Range: 60', duration: instant.
 
 #### 6. Water Breathing ####
 
 _Water Breathing_ imbues the target's lungs with the ability to wring oxygen from water.
-Range: 3'', duration: 2 hours.
+Range: 30', duration: 2 hours.
 
 ### Magic-User Spells Level 4 ###
 
@@ -528,13 +528,13 @@ Range: 3'', duration: 2 hours.
 
 _Charm Monster_ acts like _Charm Person_, but affects any creature.
 For monsters 3 HD or fewer, it charms 3d6 individuals.
-Range: 6'', duration: until dispelled.
+Range: 60', duration: until dispelled.
 
 #### 2. Confusion ####
 
 This spell confuses people and monsters, making them act randomly.
 Roll 2d6 every turn to determine the creatures' behavior.
-Range: 12'', duration: 2 hours.
+Range: 120', duration: 2 hours.
 
 2d6   | Confused Behavior
 :----:|-----------------------------
@@ -545,7 +545,7 @@ Range: 12'', duration: 2 hours.
 #### 3. Dimension Door ####
 
 The caster creases the universe to slip herself, an object, or another being from one precise point within the spell's range to another such point without traveling through the space between.
-Range: 1'' casting, 36'' teleport; duration: instant.
+Range: 10' casting, 360' teleport; duration: instant.
 
 #### 4. Polymorph Self or Polymorph Other ####
 
@@ -577,7 +577,7 @@ The wall blocks fire-based spells and effects.
 
 The caster conjures an invisible, magic eye that roams up to 240 feet from its creator, relaying what it sees.
 The eye follows a path the magic-user wills, at speeds up to 120 feet per turn.
-Range: 24'', duration: 1 hour.
+Range: 240', duration: 1 hour.
 
 ### Magic-User Spells Level 5 ###
 
@@ -593,7 +593,7 @@ The magic-user summons a 16 HD elemental, and binds it to his command.
 Each type of elemental may only be summoned once per day.
 The elemental obeys while the caster concentrates;
 even momentary loss of concentration unleashes the elemental on a murderous rampage.
-Range: 24'', duration: until dispelled.
+Range: 240', duration: until dispelled.
 
 #### 3. Contact Higher Plane ####
 
@@ -613,7 +613,7 @@ Plane | Insanity | Right  | Wrong
 
 This arcane lobotomy renders a target Magic-User's mind inadequate to contain spells.
 Save with a -4 penalty.
-Range: 24'', duration: permanent until dispelled.
+Range: 240', duration: permanent until dispelled.
 
 #### 5. Magic Jar ####
 
@@ -652,13 +652,13 @@ The caster calls down rain or drains it away, parches the ground or freezes the 
 The caster atomizes one specific target --- a door, a peasant, a statue --- into a scant shower of dust.
 Magical materials ignore disintegration, and living creatures get a saving throw.
 _Dispel Magic_ fails to restore the pile of dust to its original form.
-Range: 6'', duration: permanent.
+Range: 60', duration: permanent.
 
 #### 3. Geas ####
 
 The caster imposes a mission on the subject, winds him up and (failing a saving throw) speeds him on his course.
 A victim who ignores the task altogether slowly withers and dies.
-Range: 3'', duration: until complete.
+Range: 30', duration: until complete.
 
 #### 4. Invisible Stalker ####
 
@@ -676,7 +676,7 @@ Range: touch, duration: instant.
 
 This spell transforms flesh into stone or stone into flesh, as desired by the caster.
 The target avoids petrification with a successful saving throw.
-Range: 12'', duration: permanent.
+Range: 120', duration: permanent.
 
 ## Cleric Spells ##
 
@@ -693,7 +693,7 @@ Range: touch, duration: instant.
 
 The caster detects any evil creatures within range, or individuals with evil enchantments, intentions, thoughts, or auras.
 Things like poison are not inherently evil, and not detected.
-Range: 12'', duration: 1 hour.
+Range: 120', duration: 1 hour.
 
 #### 3. Protection from Evil\* ####
 
@@ -732,19 +732,19 @@ Range: touch, duration: 1 hour.
 #### 2. Hold Person ####
 
 The caster influences either 1d4 persons (with the same stipulations as _Charm Person_) or a single person who saves at -2.
-Range: 18'', duration: 90 minutes.
+Range: 180', duration: 90 minutes.
 
 #### 3. Silence 15' Radius ####
 
 Nothing within fifteen feet of the target makes a sound.
 If cast on a moving thing, like a person, the effect follows.
-Range: 18'', duration: 2 hours.
+Range: 180', duration: 2 hours.
 
 #### 4. Speak with Animals ####
 
 The caster can converse with animals.
 The animals might or might not be helpful, but they do refrain from attacking unless the caster says something grossly offensive.
-Range: 3'', duration: 1 hour.
+Range: 30', duration: 1 hour.
 
 ### Cleric Spells Level 3 ###
 
@@ -756,7 +756,7 @@ Range: touch, duration: instant.
 #### 2. Growth of Animals ####
 
 The spell instantly swells d6 creatures to several times (3d4) their natural size, with corresponding increases in hit dice.
-Range: 12'', duration: 2 hours.
+Range: 120', duration: 2 hours.
 
 #### 3. Remove Curse ####
 
@@ -785,13 +785,13 @@ Range: touch, duration: instant.
 #### 3. Protection from Evil 10' radius ####
 
 This spell works like _Protection from Evil_, but covers a 10' radius area and anyone in it.
-Range: 1'', duration: 2 hours.
+Range: 10', duration: 2 hours.
 
 #### 4. Speak with Plants ####
 
 The caster can speak with plants.
 They obey commands as far as possible (e.g. --- twisting or bending aside to ease passage, etc.).
-Range: 3'', duration: 1 hour.
+Range: 30', duration: 1 hour.
 
 ### Cleric Spells Level 5 ###
 
@@ -805,14 +805,14 @@ Once per year, the higher powers tolerate a double-strength _Commune_ spell comp
 
 _Dispel Evil_ works against items, spells, or agents of Evil.
 It also disrupts evil sendings, like dreams or spectral hunting-beasts.
-Range: 3'', duration: 10 minutes.
+Range: 30', duration: 10 minutes.
 
 #### 3. Insect Plague ####
 
 Insects rush to join a buzzing, clicking 8,000 cubic foot biomass (20' x 20' x 20'), and swarm where the cleric directs.
 Any creature of fewer than 2 HD flees the creeping storm in terror (no saving throw).
 This spell only works outdoors.
-Range: 48'', duration: 1 day.
+Range: 480', duration: 1 day.
 
 #### 4. Raise Dead\* ####
 
@@ -1137,20 +1137,20 @@ Give one the size of an elephant eight hit dice.
 
 ### Baalroch Demon ###
 
-AC: 17 HD: 9 (CR 13) Move: 6'' (15'' flying) Attacks: sword d12, flames 3d6
+AC: 17 HD: 9 (CR 13) Move: 60' (150' flying) Attacks: sword d12, flames 3d6
 
 Wreathed in flame, these bull-like, bat-winged demons wield a sword and whip (used to pull enemies into their flames for 3d6 damage).
 They resist magic 75%, and casters below 6th level affect them not at all.
 
 ### Basilisk###
 
-AC: 15 HD: 6 (CR 10) Move: 6'' Attacks: bite d10
+AC: 15 HD: 6 (CR 10) Move: 60' Attacks: bite d10
 
 The gaze of these eight-legged reptiles turns living things to stone.
 
 ### Black Pudding ###
 
-AC: 13 HD: 10 (CR 11) Move: 6'' Attacks: acid
+AC: 13 HD: 10 (CR 11) Move: 60' Attacks: acid
 
 This amoeba-like scavenger flows over ceilings as easily as floors, and squeezes though openings as small as 1".
 A black pudding's excretions dissolve wood and metal.
@@ -1158,13 +1158,13 @@ It's immune to cold, and split/multiplied by lightening.
 
 ### Bugbear ###
 
-AC: 14 HD: 3+1 (CR 3) Move: 9'' Attacks: weapon d8
+AC: 14 HD: 3+1 (CR 3) Move: 90' Attacks: weapon d8
 
 Awkward-looking yet stealthy, bands of these hairy goblinoids surprise opponents half the time.
 
 ### Carcass Scavenger ###
 
-AC: 12 HD: 3+1 (CR 7) Move: 12'' Attacks: eight paralyzing tentacles
+AC: 12 HD: 3+1 (CR 7) Move: 120' Attacks: eight paralyzing tentacles
 
 The carcass scavenger has a nine-foot-long segmented body with many legs.
 A ring of eight stinging tentacles encircling its maw cause paralysis lasting 2d4 rounds (save allowed).
@@ -1172,7 +1172,7 @@ Once alone with a paralyzed victim, the carcass scavenger swallows its prey whol
 
 ### Cockatrice ###
 
-AC: 13 HD: 5 (CR 11) Move: 6'' (18'' flying) Attacks: bite d6 & stone
+AC: 13 HD: 5 (CR 11) Move: 60' (180' flying) Attacks: bite d6 & stone
 
 Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
@@ -1195,44 +1195,44 @@ d8 | Dragon Age | HP per HD | Dmg per HD
 
 ### Dragon, Black ###
 
-AC: 17 HD: 6--8 (CR 11--13) Move: 12'' (24'' flying) Attacks: claws d4+1 & d4+1, bite 2d10, breath
+AC: 17 HD: 6--8 (CR 11--13) Move: 120' (240' flying) Attacks: claws d4+1 & d4+1, bite 2d10, breath
 
 Black dragons spit a line of acid 5' wide by 60' long.
 
 ### Dragon, Blue ###
 
-AC: 17 HD: 8--10 (CR 13--15) Move: 12'' (24'' flying) Attacks: claws d6+1 & d6+1, bite 3d10, breath
+AC: 17 HD: 8--10 (CR 13--15) Move: 120' (240' flying) Attacks: claws d6+1 & d6+1, bite 3d10, breath
 
 Blue dragons breathe 5' by 100' lightning.
 
 ### Dragon, Gold ###
 
-AC: 17 HD: 10--12 (CR 15--17) Move: 12'' (24'' flying) Attacks: claws 2d4 & 2d4, bite 6d6, breath
+AC: 17 HD: 10--12 (CR 15--17) Move: 120' (240' flying) Attacks: claws 2d4 & 2d4, bite 6d6, breath
 
 They are Lawful, speak, and cast spells like a magic-user equal to their age level.
 Gold dragons breathe either fire (90' long, 30' wide cone) or a 50' diameter cloud of poison gas.
 
 ### Dragon, Green ###
 
-AC: 17 HD: 7--9 (CR 12--14) Move: 12'' (24'' flying) Attacks: claws d6 & d6, bite 3d6, breath
+AC: 17 HD: 7--9 (CR 12--14) Move: 120' (240' flying) Attacks: claws d6 & d6, bite 3d6, breath
 
 They breathe a 50' diameter cloud of poison gas.
 
 ### Dragon, Red ###
 
-AC: 17 HD: 9--11 (CR 14--16) Move: 12'' (24'' flying) Attacks: claws d8 & d8, bite 4d8, breath
+AC: 17 HD: 9--11 (CR 14--16) Move: 120' (240' flying) Attacks: claws d8 & d8, bite 4d8, breath
 
 Red dragons breathe a 90' long by 30' wide cone of fire.
 
 ### Dragon, White ###
 
-AC: 17 HD: 5--7 (CR 10--12) Move: 12'' (24'' flying) Attacks: claws d4 & d4, bite 2d8, breath
+AC: 17 HD: 5--7 (CR 10--12) Move: 120' (240' flying) Attacks: claws d4 & d4, bite 2d8, breath
 
 Found in cold regions, white dragons breathe a 70' long by 30' wide cone of shatteringly cold air.
 
 ### Djinn ###
 
-AC: 14 HD: 7+1 (CR 10) Move: 9'' (24'' flying) Attacks: fists 2d8 or whirlwind
+AC: 14 HD: 7+1 (CR 10) Move: 90' (240' flying) Attacks: fists 2d8 or whirlwind
 
 Djinni create food and water, and cloth or wooden objects.
 They become invisible or assume gaseous form at will, or turn into a 10' whirlwind that sweeps away creatures of 1 HD or less.
@@ -1240,7 +1240,7 @@ Some grant wishes.
 
 ### Doppelganger ###
 
-AC: 14 HD: 4 (CR 5) Move: 9'' Attacks: claw d8
+AC: 14 HD: 4 (CR 5) Move: 90' Attacks: claw d8
 
 Doppelgangers transform to look like anyone.
 They're immune to _Sleep_ and _Charm_, and save +5 versus all magic.
@@ -1258,33 +1258,33 @@ Spell            | 16
 
 ### Elemental, Air ###
 
-AC: 17 HD: 8, 12, 16 (CR 10, 14, 18) Move: 36'' flying Attacks: wind 2d8 or hurl creature
+AC: 17 HD: 8, 12, 16 (CR 10, 14, 18) Move: 360' flying Attacks: wind 2d8 or hurl creature
 
 They become 100' tall whirlwinds that hurl creatures of 1 HD or less (likely killing them).
 
 ### Elemental, Earth ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' Attacks: bury 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 60' Attacks: bury 2d8
 
 They tear down even a castle wall in 1d4+4 rounds.
 Their melee damage is reduced to 1d6 if the target is not standing on earth or stone.
 
 ### Elemental, Fire ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 12'' Attacks: incinerate 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 120' Attacks: incinerate 2d8
 
 Their attacks ignite flammable materials (save permitted).
 
 ### Elemental, Water ###
 
-AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 6'' (18'' swimming) Attacks: drown 2d8
+AC: 17 HD: 8, 12, 16 (CR 9, 13, 17) Move: 60' (180' swimming) Attacks: drown 2d8
 
 Water elementals overturn ships in d4+4 rounds.
 They never stray more than 60' from a body of water, and their melee attack do only 1d6 damage out of water.
 
 ### Eye of Terror ###
 
-AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 6'' levitating
+AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 60' levitating
 
 Its tentacles envenom on a hit (save or die).
 Each round, the eye of terror attacks with its central eye and three eye stalks:
@@ -1303,20 +1303,20 @@ Central | _Flesh to Stone_ ray
 
 ### Gargoyle ###
 
-AC: 14 HD: 4 (CR 7) Move: 9'' (15'' flying) Attacks: claws d3 & d3, bite d4, horn d6
+AC: 14 HD: 4 (CR 7) Move: 90' (150' flying) Attacks: claws d3 & d3, bite d4, horn d6
 
 Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
 ### Gas Spore ###
 
-AC: 10 HD: 1 HP (CR 1) Move: 3'' Attacks: infection
+AC: 10 HD: 1 HP (CR 1) Move: 30' Attacks: infection
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
 A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless _Cure Disease_ is cast.
 
 ### Gelatinous Cube ###
 
-AC: 11 HD: 4 (CR 5) Move: 6'' Attacks: paralysis
+AC: 11 HD: 4 (CR 5) Move: 60' Attacks: paralysis
 
 Hits anesthetize opponents (saving throw allowed).
 The gelatinous cube envelopes helpless victims in 6 rounds.
@@ -1324,7 +1324,7 @@ Lightning and cold don't harm gelatinous cubes.
 
 ### Ghoul ###
 
-AC: 13 HD: 2 (CR 4) Move: 9'' Attacks: claws d3 & d3, bite d4, paralysis
+AC: 13 HD: 2 (CR 4) Move: 90' Attacks: claws d3 & d3, bite d4, paralysis
 
 Ghouls paralyze opponents they hit (except elves) for 3d6 rounds (save permitted).
 They're immune to _Sleep_ and _Charm_ spells.
@@ -1332,7 +1332,7 @@ Anyone killed by a ghoul becomes one.
 
 ### Giant, Cloud ###
 
-AC: 15 HD: 12+2 (CR 15) Move: 15'' Attacks: squash 3d6 or boulders 6d6
+AC: 15 HD: 12+2 (CR 15) Move: 150' Attacks: squash 3d6 or boulders 6d6
 
 Cloud giants live in cloud castles.
 Their melee attack deals 3d6 damage, and they throw boulders for 6d6 damage.
@@ -1340,7 +1340,7 @@ They enslave captives on their cloud islands.
 
 ### Giant, Fire ###
 
-AC: 15 HD: 11+3 (CR 14) Move: 12'' Attacks: squash 3d6 or boulders 5d6
+AC: 15 HD: 11+3 (CR 14) Move: 120' Attacks: squash 3d6 or boulders 5d6
 
 Fire giants live in iron or basalt castles near volcanoes.
 They throw boulders for 5d6 damage, and are immune to fire damage.
@@ -1348,28 +1348,28 @@ Fire giants keep packs of hell hounds.
 
 ### Giant, Frost ###
 
-AC: 15 HD: 10+1 (CR 13) Move: 12'' Attacks: squash 3d6 or boulders 4d6
+AC: 15 HD: 10+1 (CR 13) Move: 120' Attacks: squash 3d6 or boulders 4d6
 
 They throw icy boulders for 4d6 damage, and are immune to cold damage.
 Giant white wolves often accompany frost giants.
 
 ### Giant, Hill ###
 
-AC: 15 HD: 8 (CR 11) Move: 12'' Attacks: squash 2d6 or boulders 2d8
+AC: 15 HD: 8 (CR 11) Move: 120' Attacks: squash 2d6 or boulders 2d8
 
 Hill giants throw rocks for 2d8 damage.
 They sometimes bully giant lizards, ogres, or giant wolves into guarding their lairs.
 
 ### Giant, Stone ###
 
-AC: 15 HD: 9 (CR 12) Move: 12'' Attacks: squash 3d6 or boulders 3d6
+AC: 15 HD: 9 (CR 12) Move: 120' Attacks: squash 3d6 or boulders 3d6
 
 They throw rocks for 3d6 damage, and favor mountain ambushes.
 Stone giants keep d4 cave bears.
 
 ### Giant, Storm ###
 
-AC: 18 HD: 16 (CR 20) Move: 15'' Attacks: squash 3d6 or boulders 7d6
+AC: 18 HD: 16 (CR 20) Move: 150' Attacks: squash 3d6 or boulders 7d6
 
 More intelligent and magical than other giants, storm giants live in undersea or mountaintop castles.
 They throw boulders for 7d6 damage, and cast _Control Weather_.
@@ -1377,13 +1377,13 @@ Storm giants keep giant mounts of a type appropriate for their castle's terrain.
 
 ### Goblin ###
 
-AC: 13 HD: 1-1 (CR 1/2) Move: 9'' Attacks: weapon d6
+AC: 13 HD: 1-1 (CR 1/2) Move: 90' Attacks: weapon d6
 
 In full sunlight, they attack at -1 to hit.
 
 ### Golem, Flesh ###
 
-AC: 10 HD: 12 (CR 14) Move: 8'' Attacks: fists d8 & d8
+AC: 10 HD: 12 (CR 14) Move: 80' Attacks: fists d8 & d8
 
 They're immune to non-magical weapons.
 Only fire or cold spells damage flesh golems.
@@ -1391,7 +1391,7 @@ Lightning heals them.
 
 ### Golem, Iron ###
 
-AC: 16 HD: 13 (CR 17) Move: 6'' Attacks: weapon 3d10
+AC: 16 HD: 13 (CR 17) Move: 60' Attacks: weapon 3d10
 
 They breathe a 10' radius cloud of poison gas.
 Only +3 or better magic weapons hit iron golems.
@@ -1400,7 +1400,7 @@ No other spell types affect them.
 
 ### Golem, Stone ###
 
-AC: 14 HD: 16 (CR 18) Move: 6'' Attacks: fists 2d6 & 2d6
+AC: 14 HD: 16 (CR 18) Move: 60' Attacks: fists 2d6 & 2d6
 
 Fire spells slow them.
 Rock to mud spells are the only other magic that affects them.
@@ -1408,7 +1408,7 @@ Only magic weapons +2 or better hit stone golems.
 
 ### Gray Ooze ###
 
-AC: 11 HD: 3 (CR 5) Move: 1'' 
+AC: 11 HD: 3 (CR 5) Move: 10' 
 
 It's immune to spells, blunt weapons, and any heat/cold damage.
 Any metal object it contacts is dissolved (save vs. acid).
@@ -1420,78 +1420,78 @@ Fire or cold kills green slime.
 
 ### Griffon ###
 
-AC: 16 HD: 7 (CR 10) Move: 12'' (27'' flying) Attacks: claws d4 & d4, bite 2d8
+AC: 16 HD: 7 (CR 10) Move: 120' (270' flying) Attacks: claws d4 & d4, bite 2d8
 
 Eggs snatched from mountain nests command a high price, because fledgling can be trained as mounts.
 
 ### Harpy ###
 
-AC: 12 HD: 3 (CR 6) Move: 6'' (18'' flying) Attacks: talons d3 & d3, weapon d6
+AC: 12 HD: 3 (CR 6) Move: 60' (180' flying) Attacks: talons d3 & d3, weapon d6
 
 Their song lures listeners, and their touch acts like _Charm Person_.
 Saves apply.
 
 ### Hell Hound ###
 
-AC: 15 HD: 4--7 (CR 6--9) Move: 12'' Attacks: bite d6, fire breath
+AC: 15 HD: 4--7 (CR 6--9) Move: 120' Attacks: bite d6, fire breath
 
 They breathe fire for 2 HP damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why fire giants keep hell hounds as guard dogs.
 
 ### Hippogriff ###
 
-AC: 14 HD: 3+1 (CR 6) Move: 12'' (27'' flying) Attacks: claws d6 & d6, bite d10
+AC: 14 HD: 3+1 (CR 6) Move: 120' (270' flying) Attacks: claws d6 & d6, bite d10
 
 Like griffons.
 
 ### Hobgoblin ###
 
-AC: 14 HD: 1+1 (CR 1) Move: 9'' Attacks: weapon d8
+AC: 14 HD: 1+1 (CR 1) Move: 90' Attacks: weapon d8
 
 ### Human, Bandit ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
+AC: 12 HD: 1 (CR 1) Move: 120' Attacks: weapon d6
 
 Non-player characters with class levels lead larger groups.
 Bandits sometimes hold captives.
 
 ### Human, Berserker ###
 
-AC: 12 HD: 1+2 (CR 2) Move: 12'' Attacks: weapon d8 (+2 to hit)
+AC: 12 HD: 1+2 (CR 2) Move: 120' Attacks: weapon d8 (+2 to hit)
 
 Their frenzied attacks strike with +2 to hit.
 No prisoners.
 
 ### Human, Sergeant-at-Arms ###
 
-AC: 14 HD: 3 (CR 3) Move: 12'' Attacks: weapon d8
+AC: 14 HD: 3 (CR 3) Move: 120' Attacks: weapon d8
 
 Encountered leading 1d6+5 soldiers.
 
 ### Human, Soldier ###
 
-AC: 12 HD: 1 (CR 1) Move: 12'' Attacks: weapon d8
+AC: 12 HD: 1 (CR 1) Move: 120' Attacks: weapon d8
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 8--15) Move: 9'' Attacks: bite d6 per head
+AC: 14 HD: 5--12 (equals of heads) (CR 8--15) Move: 90' Attacks: bite d6 per head
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
 
 ### Invisible Stalker ###
 
-AC: 16 HD: 8 (CR 10) Move: 12'' Attacks: bite 4d4
+AC: 16 HD: 8 (CR 10) Move: 120' Attacks: bite 4d4
 
 ### Kobold ###
 
-AC: 13 HD: 1/2 (CR 1/2) Move: 6'' Attacks: weapon d6
+AC: 13 HD: 1/2 (CR 1/2) Move: 60' Attacks: weapon d6
 
 Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 13] Move: 24'' Attacks: dagger d4 & wisdom drain
+AC: 16 HD: 9 [CR 13] Move: 240' Attacks: dagger d4 & wisdom drain
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
@@ -1500,7 +1500,7 @@ They cast _Charm Person_ and _Phantasmal Force_ once per day.
 
 ### Lich ###
 
-AC: 19 HD: 12--18 (CR 22--28) Move: 6'' Attacks: paralysis touch
+AC: 19 HD: 12--18 (CR 22--28) Move: 60' Attacks: paralysis touch
 
 They're undead wizards, with magic-user levels equal to their hit dice.
 Their touch paralyzes (no save);
@@ -1508,50 +1508,50 @@ even seeing a lich paralyzes creatures with 4 or fewer HD.
 
 ### Manticore ###
 
-AC: 15 HD: 6+4 (CR 11) Move: 12'' (18'' flying) Attacks: claws d4 & d4, bite 2d4 or d6 per tail spike
+AC: 15 HD: 6+4 (CR 11) Move: 120' (180' flying) Attacks: claws d4 & d4, bite 2d4 or d6 per tail spike
 
 They hurl up to 6 of their 24 tail spikes per round (180').
 
 ### Medusa ###
 
-AC: 11 HD: 6 (CR 11) Move: 9'' Attacks: weapon, snakebite d6 + venom, petrification
+AC: 11 HD: 6 (CR 11) Move: 90' Attacks: weapon, snakebite d6 + venom, petrification
 
 Anyone looking upon a Medusa's face must save or turn to stone.
 Their snake hair bites with venom (save or die).
 
 ### Mimic ###
 
-AC 12 HD: 7--10 (CR 7--10) Move: 3'' Attacks: pseudopod 3d4
+AC 12 HD: 7--10 (CR 7--10) Move: 30' Attacks: pseudopod 3d4
 
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
 ### Minotaur ###
 
-AC: 13 HD: 6+4 (CR 6) Move: 12'' Attacks: gore d6, bite or weapon d6
+AC: 13 HD: 6+4 (CR 6) Move: 120' Attacks: gore d6, bite or weapon d6
 
 ### Mummy ###
 
-AC: 16 HD: 5+1 (CR 9) Move: 6'' Attacks: smash d12 (disease)
+AC: 16 HD: 5+1 (CR 9) Move: 60' Attacks: smash d12 (disease)
 
 The touch of these undead causes mummy rot --- wounds heal naturally at half rate, and magic healing fails until _Remove Curse_ is cast.
 They're immune to normal weapons, and magic weapons deal half damage.
 
 ### Ocher Jelly ###
 
-AC: 11 HD: 5 (CR 6) Move: 3'' Attacks: dissolve 2d6
+AC: 11 HD: 5 (CR 6) Move: 30' Attacks: dissolve 2d6
 
 Their acid dissolves killed opponents (making _Raise Dead_ nearly impossible).
 
 ### Ogre ###
 
-AC: 14 HD: 4+1 (CR 4) Move: 9'' Attacks: weapon d10
+AC: 14 HD: 4+1 (CR 4) Move: 90' Attacks: weapon d10
 
 They enslave captives (1--2 on d8) or eat them (3--8).
 Orgres themselves are sometimes enslaved by demons.
 
 ### Orc ###
 
-AC: 13 HD: 1 (CR 1) Move: 12'' Attacks: weapon d6
+AC: 13 HD: 1 (CR 1) Move: 120' Attacks: weapon d6
 
 They fight at -1 to hit in sunlight.
 Leaders have more hit dice, and magic-using shamen haunt some tribes.
@@ -1561,15 +1561,15 @@ Reports of stag-headed and cock-headed orcs remain in question, since orcs love 
 
 ### Owlbear ###
 
-AC 14 HD: 5 (CR 6) Move: 12'' Attacks: claws d8 & d8, bite d8
+AC 14 HD: 5 (CR 6) Move: 120' Attacks: claws d8 & d8, bite d8
 
 ### Pegasus ###
 
-AC: 13 HD: 2+2 (CR 4) Move: 24'' (48'' flying) Attacks: hooves d6 & d6
+AC: 13 HD: 2+2 (CR 4) Move: 240' (480' flying) Attacks: hooves d6 & d6
 
 ### Purple Worm ###
 
-AC: 13 HD: 15 (CR 17) Move: 9'' Attacks: bite 2d6, sting d8 + venom
+AC: 13 HD: 15 (CR 17) Move: 90' Attacks: bite 2d6, sting d8 + venom
 
 Massive.
 They chew tunnels through bedrock.
@@ -1578,31 +1578,31 @@ Their tail spike envenoms (save or die).
 
 ### Rat, Sumatran ###
 
-AC: 12 HD: 1-1 (CR 1/2) Move: 12'' Attacks: bite d3 (disease)
+AC: 12 HD: 1-1 (CR 1/2) Move: 120' Attacks: bite d3 (disease)
 
 One in twenty Sumatran rat bites cause disease (save vs. poison).
 
 ### Rust Monster ###
 
-AC: 17 HD: 5 (CR 7) Move 12'' Attacks: rust
+AC: 17 HD: 5 (CR 7) Move 120' Attacks: rust
 
 Hits from a rust monster instantly rust armor; hits against it rust weapons.
 Large amounts of metal attract rust monsters.
 
 ### Shrieker ###
 
-AC: 12 HD:3 (CR 3) Move: 1'' Attacks: alarm
+AC: 12 HD:3 (CR 3) Move: 10' Attacks: alarm
 
 These fungi trumpet a shrill alarm when they detect movement within 10' or light within 30'.
 Each round it sounds, their cry attracts a wandering monster on 1--3 in 6.
 
 ### Skeleton ###
 
-AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 12'' Attacks: weapon d6
+AC: 11, 12 w/ shield HD: 1/2 (CR 1) Move: 120' Attacks: weapon d6
 
 ### Specter ###
 
-AC: 17 HD: 6 (CR 12) Move: 15'' (30'' flying) Attacks: touch d8 + level drain
+AC: 17 HD: 6 (CR 12) Move: 150' (300' flying) Attacks: touch d8 + level drain
 
 Its touch drains two class levels.
 Only magic weapons damage specters.
@@ -1610,22 +1610,22 @@ Anyone killed by a specter (or reduced to level 0) becomes one.
 
 ### Spider, Giant ###
 
-AC: 13 HD: 2+2 (CR 5) Move: 18'' Attacks: bite d8 + venom
+AC: 13 HD: 2+2 (CR 5) Move: 180' Attacks: bite d8 + venom
 
-Save to avoid being stuck in their webs, and even then move only 3''.
+Save to avoid being stuck in their webs, and even then move only 30'.
 They nearly always surprise.
 Giant spider bites are highly venomous.
 
 ### Stirge ###
 
-AC: 12 HD: 1 (CR 2) Move: 3'' (18'' flying) Attacks: suck d3
+AC: 12 HD: 1 (CR 2) Move: 30' (180' flying) Attacks: suck d3
 
 A stirge injects its syringe-like proboscis into its opponent on a successful hit.
 Once attached, the stirge slurps enough blood on each subsequent round to automatically deal damage.
 
 ### Tick, Giant ###
 
-AC: 15 HD: 3 (CR 4) Move: 3'' Attacks: suck 4 HP
+AC: 15 HD: 3 (CR 4) Move: 30' Attacks: suck 4 HP
 
 Giant ticks suck blood worth 4 HP damage per round after a successful hit.
 Fire forces them off a victim.
@@ -1633,7 +1633,7 @@ Disease caused by tick bites kill in 2d4 days, unless _Cure Disease_ is cast.
 
 ### Toad, Giant ###
 
-AC: 12 HD 2+2 (CR 3) Move: 9'' Attacks: bite d4+1, swallow
+AC: 12 HD 2+2 (CR 3) Move: 90' Attacks: bite d4+1, swallow
 
 When toads hit they yank any dwarf-size or smaller target into their mouths for bite damage;
 on a second hit, the toad swallows and digests the target for automatic d6 damage per round.
@@ -1641,14 +1641,14 @@ They surprise on 3 in 6.
 
 ### Troll ###
 
-AC: 15 HD: 6+3 (CR 8) Move: 12'' Attacks: claws d6 & d6, bite d10
+AC: 15 HD: 6+3 (CR 8) Move: 120' Attacks: claws d6 & d6, bite d10
 
 Trolls regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
 
-AC: 17 HD: 7--9 (CR 15--17) Move: 12'' (18'' flying) Attacks: bite d10 + level drain
+AC: 17 HD: 7--9 (CR 15--17) Move: 120' (180' flying) Attacks: bite d10 + level drain
 
 The vampire's bite drains two class levels.
 Anyone killed by a vampire become one.
@@ -1661,28 +1661,28 @@ Immersion in running water, exposure to sunlight, or a stake through the heart k
 
 ### Werewolf ###
 
-AC: 14 HD: 3 (CR 5) Move: 12'' Attacks: bite 2d4 (lycanthropy)
+AC: 14 HD: 3 (CR 5) Move: 120' Attacks: bite 2d4 (lycanthropy)
 
 Only silver or magic weapons harm werewolves.
 Any opponent damaged below 50% of hit points by a lycanthrope becomes one.
 
 ### Wight ###
 
-AC: 14 HD: 3 (CR 9) Move: 9'' Attacks: level drain
+AC: 14 HD: 3 (CR 9) Move: 90' Attacks: level drain
 
 Only magic or silver weapons harm them, and they're immune to _Sleep_ or _Charm_ spells.
 Anyone killed or completely level drained (1 level per hit) by a wight becomes one.
 
 ### Wraith ###
 
-AC: 16 HD: 4 (CR 10) Move: 24'' Attacks: level drain
+AC: 16 HD: 4 (CR 10) Move: 240' Attacks: level drain
 
 Only magic or silver weapons (half damage) harm a wraith.
 Wraiths drain one class level per hit.
 
 ### Yellow Mold ###
 
-AC: N/A HD: N/A (CR 3) Move: 0'' Attacks: acid d6, spores
+AC: N/A HD: N/A (CR 3) Move: 0' Attacks: acid d6, spores
 
 If cut or punctured, yellow mold releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
@@ -1690,7 +1690,7 @@ Fire destroys it.
 
 ### Zombie ###
 
-AC: 11, 12 w/ shield HD: 1 (CR 1) Move: 6'' Attacks: weapon d8
+AC: 11, 12 w/ shield HD: 1 (CR 1) Move: 60' Attacks: weapon d8
 
 ## Treasure ##
 
@@ -1844,7 +1844,7 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 ### Miscellaneous Magic Items ###
 
 1. Bag of Holding (small sack on the outside, 10 x 5 x 3 ft. inside; weight never exceeds 60 lbs.)
-2. Boots of Leaping (move 24''; leap 15' vertical, 30' long jump)
+2. Boots of Leaping (move 240'; leap 15' vertical, 30' long jump)
 3. Bracers of Defense (AC 16)
 4. Chime of Opening (1 in 20 chance of shattering after each use; opens any mundane lock; dispels _Hold Portal_; _Silence_ negates)
 5. Censer, Bowl, Brazier, or Stone of Elementals (summons one elemental per day)
