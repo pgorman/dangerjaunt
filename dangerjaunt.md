@@ -301,6 +301,14 @@ Tent 20 gp,
 Waterskin 1 gp,
 Wolfsbane 10 gp
 
+Missile Weapon              | Range
+----------------------------|------
+Crossbow                    | 240'
+Long bow                    | 200'
+Short bow or sling          | 150'
+Spear                       | 75'
+Hand axe, dagger, or bottle | 40'
+
 ## Henchmen, Hirelings, and Experts ##
 
 Henchmen and hirelings work for the player characters, although they are non-player characters (NPC's) controlled by the referee.
