@@ -322,14 +322,6 @@ Henchmen tolerate greater risks than hirelings (but not abuse).
 Each henchman has a loyalty score.
 Initially, the loyalty score equals d6+7, plus the player character's charisma modifier.
 
-A henchman's loyalty score modifies morale checks.
-
-The referee might bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
-
-A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
-A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
-
-
 Player Character Charisma |  Max. Henchmen  | Loyalty Score Modifier
 :------------------------:|:---------------:|:-----------------------:
 3                         |  1              | -3
@@ -339,6 +331,13 @@ Player Character Charisma |  Max. Henchmen  | Loyalty Score Modifier
 13--15                    |  5              | +1
 16--17                    |  6              | +2
 18                        |  12             | +3
+
+A henchman's loyalty score modifies morale checks.
+
+The referee might bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
+
+A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
+A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
 
 Henchman Loyalty Score | Morale Check Modifier
 :---------------------:|:---------------------------------------------
@@ -545,7 +544,7 @@ Range: 12'', duration: 2 hours.
 
 #### 3. Dimension Door ####
 
-The caster creases the universe to slip herself, an object, or another being from one precise point within the spell's range to another such point without travelling through the space between.
+The caster creases the universe to slip herself, an object, or another being from one precise point within the spell's range to another such point without traveling through the space between.
 Range: 1'' casting, 36'' teleport; duration: instant.
 
 #### 4. Polymorph Self or Polymorph Other ####
@@ -949,15 +948,13 @@ Referees expand the roster of monsters by enhancing existing ones (fire-breathin
 This points-based system helps referees build encounters, assign treasure values, and design new monsters.
 It classifies encounters as roughly easy, hard, or deadly for a particular party.
 
-Calculate the Challenge Rating (CR) of the player character party by summing points for the following:
+Calculate the Challenge Rating (CR) of a player character (or NPC) party by summing points for the following:
 
 - 1 point per hit die
 - 2 points per character with plate mail (or better)
 - 1 pt per spell caster maximum spell level (e.g. a magic-user who casts third-level spells is 3 points)
 
 For example, a party with four third-level characters (a fighter in plate for 5 points, a magic-user for 5 points, a rogue for 3 points, and a cleric in plate for 7 points) is worth 20 points total.
-
-This also works for a non-player character party.
 
 Use the challenge rating of the party to set a point budget for creating monster encounters.
 
@@ -1059,7 +1056,7 @@ CR   | XP    | Treasure Value (GP)
 41. Corrodes/dissolves metal/wood/flesh/whatever on contact
 42. Asphyxiating spores/gas _N_ feet (save or die? save for half damage?)
 43. Morale never fails when defending home
-44. "Attach" after first hit; subsequent turns damage without further to-hit roll
+44. "Attach" after first hit; subsequent turns damage without a to-hit roll
 45. Darkvision: see in darkness but -1 in daylight
 46. Echolocation
 47. Young can be trained as mounts
@@ -1770,8 +1767,9 @@ Typical scrolls include:
 ### Wands ###
 
 Wands shoot either a line-like ray or a narrow cone.
-Some wands duplicate the effect of a spell, while others function like a flashlight/radar/Geiger counter.
-Wands hold a limited number of charges, usually 2--20, and have a range of 60'.
+Some wands duplicate the effect of a spell.
+Others detect --- like a flashlight, radar, or Geiger counter.
+Wands hold a limited number of charges (2--20) and have a range of 60'.
 Only magic-users employ wands.
 Typical wands include:
 
@@ -1788,11 +1786,11 @@ Staves are either _cleric staves_ or _magic-user staves_.
 Staves hold 3--30 charges.
 Typical staves include:
 
-1. Staff of Command (clerics) casts _Speak with Animal_, Speak with Plants, or Hold Person.
-2. Staff of Healing (clerics) casts _Cure Light Wounds_, Cure Disease (3 charges), or Raise Dead (10 charges).
+1. Staff of Command (clerics) casts _Speak with Animal_, _Speak with Plants_, or _Hold Person_.
+2. Staff of Healing (clerics) casts _Cure Light Wounds_, _Cure Disease_ (3 charges), or _Raise Dead_ (10 charges).
 3. Serpent Staff (clerics) strikes in melee with +1 to hit and damage without expending a charge.
-Upon command, the staff transforms into a large (3 HD) snake capable of rendering a man-size opponent immobile for 1--4 turns.
-4. Staff of Withering (clerics) ages ten years for each melee hit.
+Upon command, the staff transforms into a large (3 HD) snake capable immobilizing a man-size opponent for 1--4 turns.
+4. Staff of Withering (clerics) ages ten years with each melee hit.
 5. Staff of Cancellation (magic-users) permanently disenchants a magic item.
 Single use.
 6. Staff of Wizardry (magic-users) casts _Light_ (without using a charge), _Fireball_, _Lightning Bolt_, _Charm Person_, _Invisibility_, _Fly_, or (once per day) _Conjure Elemental_.
@@ -1818,7 +1816,7 @@ Typical magic swords include:
 1. Sword +1
 2. Sword +1, +2 vs. Lycanthropes
 3. Sword +1, +2 vs. Law
-4. Sword +1, +3 vs. Undead; casts _Light_ 1/day, glows when undead within 60'
+4. Sword +1, +3 vs. Undead; casts _Light_ 1/day, glows within 60' of undead
 5. Sword +2
 6. Sword -1 (_Remove Curse_ to drop)
 
@@ -1860,11 +1858,11 @@ Such blades compel their wielder (saving throw) to disregard self-interest and p
 13. Helm of Language Comprehension (understand any speech or text)
 14. Helm of Teleportation (_Teleport_ three times per day)
 15. Horn of Blasting (deals 2d6 damage in 100' cone, save or deafens for 2d6 rounds; damages walls at close range)
-16. Horseshoes of Speed (horse travels at double speed, and needs rest only every three nights)
+16. Horseshoes of Speed (horse gallops at double speed for up to three days)
 17. Lamp of Three Wishes
-18. Rope of Climbing (slithers on command to tie/untie itself to nearby anchors within 60')
-19. Spade of Prodigious Excavation (digs 10 cubic feet per turn, for up to 6 turns/day)
-20. Spectacles of Mesmerism (hold one creature frozen as long as wearer maintains eye contact; save permitted)
+18. Rope of Climbing (slithers to tie/untie itself to anchors within 60')
+19. Spade of Prodigious Excavation (digs 10 cubic ft/turn, up to 6 turns/day)
+20. Spectacles of Mesmerism (hold one creature frozen while wearer maintains eye contact; save permitted)
 
 ## Adventure Design ##
 
@@ -1918,11 +1916,11 @@ Tricks include puzzles, riddles, and nonsense, like a sliding tile game built in
 
 ### Wandering Monster List Making List ###
 
-1. Traveling: 1. To/from elsewhere on current level 2. To/from level above 3. To/from level below 4. To/from surface 5. Very secret passage 6. By magic
+1. Traveling: 1. Elsewhere on current level 2. Level above 3. Level below 4. Surface 5. Very secret passage 6. By magic
 2. Escorting: 1. Slaves 2. Enemy captives 3. Friendly VIP 4. Criminals 5. Livestock 6. Diplomatic mission
 3. Delivering: 1. News (individual notification) 2. News (proclamation) 3. Flyering 4. Tribute (paying) 5. Tribute (collecting) 6. Foodstuffs 7. Threats 8. Weapons 9. Intelligence/maps 10. Raw material (ore, clay, wool, hides, dyes, lumber, bones/antlers, plant fiber)
 4. Patrolling/hunting: 1. Searching for intruders 2. Searching for lost fellows 3. Hunting food 4. Sport hunting
-5. Raiding: 1. To/from raid property on same level 2. To/from raid property on level above 3. To/from raid property on level below 4. To/from freeing of friendly captives 5. To/from kidnapping enemies 6. To/from raid counting coup, pulling pranks, or making mischief
+5. Raiding: 1. Property on same level 2. Property on level above 3. Property on level below 4. Freeing of friendly captives 5. Kidnapping enemies 6. Counting coup, pulling pranks, or making mischief
 6. Labor: 1. Decorating 2. Structural repairs (doors, beams, bridges, stairs) 3. Setting/fixing traps 4. Demolition/renovation 5. Mining 6. Harvesting 7. Cleaning 8. Crafting 9. Cooking 10. Brewing
 7. Fighting: 1. Enemy from same level 2. Enemy from level above 3. Enemy from level below 4. Among themselves
 8. Socializing: 1. Race 2. Boxing/wresting 3. Sacrifice 4. Wedding 5. Initiation 6. Funeral 7. Parade 8. Dance 9. Wake 10. Parlor game 11. Negotiation 12. Performance 13. Consecration 14. Commemoration 15. Worship 16. Coronation/award 17. Vote 18. Carnival/circus 19. Bacchanal 20. Trial/execution
@@ -1944,11 +1942,12 @@ When planning a session, especially a short adventure or lair-type dungeon, cons
 
 The type of "lair" dungeons seen in adventure modules is composed of one or two dozen rooms spread over one to three vertical levels, and occupied by a handful of different monster types.
 A megadungeon, on the other hand, descends at least ten levels deep --- each level more perilous than the one above it --- with dozens or hundreds of rooms per level occupied by numerous monster factions.
-Such a dungeon acts as the centerpiece of a whole campaign, with players characters returning to the dungeon's depths week after week between rests at a nearby settlement.
+Such a dungeon acts as the centerpiece of a whole campaign.
+Player characters venture from the safety of town week after week to plumb the dungeon's depths.
 
 - Map and key the first two or three levels before play begins.
-- Non-linear let the players tackle or bypass areas as they choose.
-- Let players gauge their risk by depth (dungeon level three adequately challenges and rewards a third-level party, for example) but include some exceptionally easy or deadly encounters on each level.
+- Use non-linear map layouts to let players choose their own path.
+- Make dungeon depth a gauge of risk (dungeon level three adequately challenges and rewards a third-level party, for example) but include some exceptionally easy or deadly encounters on each level.
 - Remember vertical movement!
 	- Connect each level to at least one other, besides the levels immediately above and below.
 	- Use sinkholes, slides, ladders, elevators, wells, waterfalls, and chimneys, not only boring stairs!
@@ -1959,13 +1958,13 @@ Such a dungeon acts as the centerpiece of a whole campaign, with players charact
 	- Each level holds one or two magic swords, locked in forgotten vaults or possessed by the local anti-paladin.
 	- Each level holds one or two major magic items of note.
 	- Each level houses one or two exceptionally interesting baddies.
-- List rumors about major magic items and monsters, and slowly feed them to the players.
+- Each session, dole out a rumor about a magic item or monster to the players.
 - Include lost, visiting, or raiding monsters from adjacent levels on each level's wandering monster table.
-- Stock enough treasure on each dungeon level to give a party of that character level at least twice the XP they'd need to advance. The party won't find all the treasure, and character fatalities burn some XP.
+- Stock enough treasure on each dungeon level to give a party of that character level at least twice the XP needed to advance. The party won't find all the treasure, and fatalities burn some XP.
 - Add several outside entrances to the dungeon going to different levels.
 - Decorate the dungeon with its history: graffiti from previous adventuring parties, relics of long-extinct monsters, or changes to the geography (flooded areas, cave-ins, bricked-up passages, etc.).
 - Weaponize the environment itself with acid baths, low-lying pools of flammable gas, radiation, and rock slides.
-- Make the dungeon dynamic --- repopulate cleared areas with new factions, open freshly constructed passages off already-explored hallways, show monsters forging new alliances, etc.
+- Make the dungeon dynamic --- repopulate cleared areas with new factions, open freshly constructed passages off already-explored hallways, show monsters forging alliances, etc.
 
 ## House Rules ##
 
@@ -1981,7 +1980,7 @@ Special thanks to Ed Kickham for playtesting, and years of companionable gaming.
 
 This work is copyright Paul Gorman 2015, and licensed under the Open Gaming License.
 The following elements are reserved as Product Identity: all artwork, illustrations, and diagrams; all trademarks; all proper names; the Armor Class, Encumbrance, Wandering Monsters section; and the Monster and Encounter Design section.
-All other elements are designated as Open Game Content.
+Other elements are designated as Open Game Content.
 
 ## Open Game License ##
 
