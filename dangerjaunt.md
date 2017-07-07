@@ -17,6 +17,7 @@ Most characters are human, but the referee may allow other types, like elves and
 
 ## Abilities ##
 
+Characters start as a set of six basic attributes scored 3--18.
 For each ability, roll 3d6 and record the total.
 After rolling all six ability scores, the player may swap two of them if desired.
 
@@ -28,6 +29,9 @@ After rolling all six ability scores, the player may swap two of them if desired
 - Charisma
 
 ### Ability Score Bonuses ###
+
+Referees sometimes grant bonuses or penalties related to high or low ability scores.
+For example, a 16 Constitution score might modify a roll to recover after resurrection from death with a +2 bonus.
 
 Score  | Modifier
 :-----:|:-------:
