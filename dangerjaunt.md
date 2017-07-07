@@ -105,7 +105,7 @@ Dwarves are flesh and blood, but also ore and stone.
 They love full beards, rich brew, and masterful craftwork.
 
 Dwarves work as either fighters or rogues.
-They make saving throws with a +4 bonus due to their inate fortitude and magic resistance.
+They make saving throws with a +4 bonus due to their innate fortitude and magic resistance.
 Dwarves know about stonework, gems, engineering, and metalwork;
 the referee would tell the player of a dwarf when a dungeon passage slopes subtly up or down, for example.
 On 1--2 in 6, dwarves notice secret doors simply by passing near them.
@@ -148,32 +148,7 @@ All hit dice are d6.
 However, fighters roll two hit dice, and choose the higher roll.
 
 Characters advance one level per session at most.
-Reduce the experience award of a character who would gain more levels so that their XP totals half way to the second level.
-
-## Number of Daily Spells per Spell Level ##
-
-Clerics and magic-users cast a number of spells per day of various spell levels based on their character level.
-Clerics stop gaining additional spells after level 10.
-
-
-Character Level | 1 | 2 | 3 | 4 | 5 | 6
-:--------------:|---|---|---|---|---|---
-1               | 1 |   |   |   |   |
-2               | 2 |   |   |   |   |
-3               | 2 | 1 |   |   |   |
-4               | 3 | 2 |   |   |   |
-5               | 3 | 2 | 1 |   |   |
-6               | 4 | 2 | 2 |   |   |
-7               | 4 | 3 | 2 | 1 |   |
-8               | 4 | 3 | 3 | 2 |   |
-9               | 4 | 3 | 3 | 2 | 1 |
-10              | 4 | 4 | 3 | 2 | 2 |
-11              | 4 | 4 | 3 | 3 | 2 | 1
-12              | 4 | 4 | 4 | 3 | 2 | 1
-13              | 5 | 5 | 4 | 4 | 4 | 2
-14              | 5 | 5 | 4 | 4 | 4 | 3
-15              | 5 | 5 | 5 | 4 | 4 | 4
-16              | 5 | 5 | 5 | 5 | 5 | 5
+Reduce the experience award of a character who would gain more levels so that their XP totals halfway to the second level.
 
 ## Attack Bonus ##
 
@@ -270,6 +245,14 @@ Sling 2 gp,
 Spear 2 gp,
 Stones (20) 1 gp
 
+Missile Weapon              | Range
+----------------------------|------
+Crossbow                    | 240'
+Long bow                    | 200'
+Short bow or sling          | 150'
+Spear                       | 75'
+Hand axe, dagger, or bottle | 40'
+
 ### Misc. Gear ###
 
 Backpack 5 gp,
@@ -300,14 +283,6 @@ Stakes (wood, dozen) 1 gp,
 Tent 20 gp,
 Waterskin 1 gp,
 Wolfsbane 10 gp
-
-Missile Weapon              | Range
-----------------------------|------
-Crossbow                    | 240'
-Long bow                    | 200'
-Short bow or sling          | 150'
-Spear                       | 75'
-Hand axe, dagger, or bottle | 40'
 
 ## Henchmen, Hirelings, and Experts ##
 
@@ -359,9 +334,35 @@ Henchman Loyalty Score | Morale Check Modifier
 
 ## Magic ##
 
-Magic-users and clerics cast a number of spells per day limited by their level.
-Magic-users replenish their expended spells after a night's rest through study of their spell books.
+Magic spells are grouped by "spell level," ascending from less dangerous first-level spells to fantastically potent fifth and sixth-level spells.
+Clerics and magic-users cast a limited number of spells per day.
+The number of spells they cast of a given spell level depends on their character level.
+
+Magic-users replenish expended spells by studying their spell books after a night's rest.
 Clerics pray each morning for their spells.
+
+Clerics stop gaining additional spells after level 10.
+
+### Number of Daily Spells per Spell Level ###
+
+Character Level | 1 | 2 | 3 | 4 | 5 | 6
+:--------------:|---|---|---|---|---|---
+1               | 1 |   |   |   |   |
+2               | 2 |   |   |   |   |
+3               | 2 | 1 |   |   |   |
+4               | 3 | 2 |   |   |   |
+5               | 3 | 2 | 1 |   |   |
+6               | 4 | 2 | 2 |   |   |
+7               | 4 | 3 | 2 | 1 |   |
+8               | 4 | 3 | 3 | 2 |   |
+9               | 4 | 3 | 3 | 2 | 1 |
+10              | 4 | 4 | 3 | 2 | 2 |
+11              | 4 | 4 | 3 | 3 | 2 | 1
+12              | 4 | 4 | 4 | 3 | 2 | 1
+13              | 5 | 5 | 4 | 4 | 4 | 2
+14              | 5 | 5 | 4 | 4 | 4 | 3
+15              | 5 | 5 | 5 | 4 | 4 | 4
+16              | 5 | 5 | 5 | 5 | 5 | 5
 
 ### Spell Books ###
 
