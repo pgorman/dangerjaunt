@@ -1,5 +1,5 @@
 This fantasy adventure game is played with pencils, paper, and polyhedral dice.
-``3d6'' means to sum three rolls of a six-sided die.
+"3d6" means to sum three rolls of a six-sided die.
 
 One player takes the role of impartial Referee, who prepares an adventure in the form of a keyed map full of monsters, strange wonders, and treasures.
 The remaining players each take the role of an inexperienced but ambitious Player Character.
@@ -515,25 +515,25 @@ A missile blazes from the magic-user's finger to engulf the target in a furnace-
 The 20' radius blast conforms in shape to the volume available.
 Damage is 1d6 per caster level.
 A successful saving throw halves damage taken by the target.
-Range: 240', duration: instant.
+Range: 240'; duration: instant.
 
 #### 4. Fly ####
 
 Soar with a movement rate of 120 feet per round.
 The referee rolls the duration of the spell without disclosing the result to the player.
-Range: touch, duration: d6 turns + 1 turn/level.
+Range: touch; duration: d6 turns + 1 turn/level.
 
 #### 5. Lightning Bolt ####
 
 A ten foot wide bolt of lightning arcs 60 feet from the fingertip of the caster.
 Anyone in its path suffers 1d6 points of damage per level of the caster, though a successful saving throw halves damage.
 The bolt always extends 60 feet, even if it must ricochet backward from something that blocks its path.
-Range: 60', duration: instant.
+Range: 60'; duration: instant.
 
 #### 6. Water Breathing ####
 
 _Water Breathing_ imbues the target's lungs with the ability to wring oxygen from water.
-Range: 30', duration: 2 hours.
+Range: 30'; duration: 2 hours.
 
 ### Magic-User Spells Level 4 ###
 
@@ -541,13 +541,13 @@ Range: 30', duration: 2 hours.
 
 _Charm Monster_ acts like _Charm Person_, but affects any creature.
 For monsters 3 HD or fewer, it charms 3d6 individuals.
-Range: 60', duration: until dispelled.
+Range: 60'; duration: until dispelled.
 
 #### 2. Confusion ####
 
 This spell confuses people and monsters, making them act randomly.
 Roll 2d6 every turn to determine the creatures' behavior.
-Range: 120', duration: 2 hours.
+Range: 120'; duration: 2 hours.
 
 2d6   | Confused Behavior
 :----:|-----------------------------
@@ -590,7 +590,7 @@ The wall blocks fire-based spells and effects.
 
 The caster conjures an invisible, magic eye that roams up to 240 feet from its creator, relaying what it sees.
 The eye follows a path the magic-user wills, at speeds up to 120 feet per turn.
-Range: 240', duration: 1 hour.
+Range: 240'; duration: 1 hour.
 
 ### Magic-User Spells Level 5 ###
 
@@ -606,7 +606,7 @@ The magic-user summons a 16 HD elemental, and binds it to his command.
 Each type of elemental may only be summoned once per day.
 The elemental obeys while the caster concentrates;
 even momentary loss of concentration unleashes the elemental on a murderous rampage.
-Range: 240', duration: until dispelled.
+Range: 240'; duration: until dispelled.
 
 #### 3. Contact Higher Plane ####
 
@@ -626,7 +626,7 @@ Plane | Insanity | Right  | Wrong
 
 This arcane lobotomy renders a target Magic-User's mind inadequate to contain spells.
 Save with a -4 penalty.
-Range: 240', duration: permanent until dispelled.
+Range: 240'; duration: permanent until dispelled.
 
 #### 5. Magic Jar ####
 
@@ -665,13 +665,13 @@ The caster calls down rain or drains it away, parches the ground or freezes the 
 The caster atomizes one specific target --- a door, a peasant, a statue --- into a scant shower of dust.
 Magical materials ignore disintegration, and living creatures get a saving throw.
 _Dispel Magic_ fails to restore the pile of dust to its original form.
-Range: 60', duration: permanent.
+Range: 60'; duration: permanent.
 
 #### 3. Geas ####
 
 The caster imposes a mission on the subject, winds him up and (failing a saving throw) speeds him on his course.
 A victim who ignores the task altogether slowly withers and dies.
-Range: 30', duration: until complete.
+Range: 30'; duration: until complete.
 
 #### 4. Invisible Stalker ####
 
@@ -683,13 +683,13 @@ _Dispel Magic_ does not banish the stalker; kill it to end its mission.
 
 Reincarnation snatches a soul from death, and wraps it in a living body.
 The type of body exceeds the caster's control (referee's choice!), but its alignment matches the soul's.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 6. Stone/Flesh ####
 
 This spell transforms flesh into stone or stone into flesh, as desired by the caster.
 The target avoids petrification with a successful saving throw.
-Range: 120', duration: permanent.
+Range: 120'; duration: permanent.
 
 ## Cleric Spells ##
 
@@ -700,13 +700,13 @@ An asterisk (\*) denotes spells that an evil cleric may cast in reverse (e.g. _C
 #### 1. Cure Light Wounds\* ####
 
 This spell heals 1d6+1 hit points of damage.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 2. Detect Evil\* ####
 
 The caster detects any evil creatures within range, or individuals with evil enchantments, intentions, thoughts, or auras.
 Things like poison are not inherently evil, and not detected.
-Range: 120', duration: 1 hour.
+Range: 120'; duration: 1 hour.
 
 #### 3. Protection from Evil\* ####
 
@@ -740,41 +740,41 @@ Undead CR |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10+
 #### 1. Bless\* ####
 
 The recipient gets a +1 bonus to attack rolls and morale checks.
-Range: touch, duration: 1 hour.
+Range: touch; duration: 1 hour.
 
 #### 2. Hold Person ####
 
 The caster influences either 1d4 persons (with the same stipulations as _Charm Person_) or a single person who saves at -2.
-Range: 180', duration: 90 minutes.
+Range: 180'; duration: 90 minutes.
 
 #### 3. Silence 15' Radius ####
 
 Nothing within fifteen feet of the target makes a sound.
 If cast on a moving thing, like a person, the effect follows.
-Range: 180', duration: 2 hours.
+Range: 180'; duration: 2 hours.
 
 #### 4. Speak with Animals ####
 
 The caster can converse with animals.
 The animals might or might not be helpful, but they do refrain from attacking unless the caster says something grossly offensive.
-Range: 30', duration: 1 hour.
+Range: 30'; duration: 1 hour.
 
 ### Cleric Spells Level 3 ###
 
 #### 1. Cure Disease\* ####
 
 _Cure Disease_ cures the recipient of any magical or natural disease.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 2. Growth of Animals ####
 
 The spell instantly swells d6 creatures to several times (3d4) their natural size, with corresponding increases in hit dice.
-Range: 120', duration: 2 hours.
+Range: 120'; duration: 2 hours.
 
 #### 3. Remove Curse ####
 
 This spell undoes one curse afflicting a person or object.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 4. Speak with Dead ####
 
@@ -788,23 +788,23 @@ Answers from spirits often come as riddles or in an otherwise cryptic form.
 #### 1. Cure Serious Wounds\* ####
 
 _Cure Serious Wounds_ heals 3d6+3 hit points.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 2. Neutralize Poison ####
 
 This spell counteracts poisons and venoms, but does not bring the dead back to life.
-Range: touch, duration: instant.
+Range: touch; duration: instant.
 
 #### 3. Protection from Evil 10' radius ####
 
 This spell works like _Protection from Evil_, but covers a 10' radius area and anyone in it.
-Range: 10', duration: 2 hours.
+Range: 10'; duration: 2 hours.
 
 #### 4. Speak with Plants ####
 
 The caster can speak with plants.
 They obey commands as far as possible (e.g. --- twisting or bending aside to ease passage, etc.).
-Range: 30', duration: 1 hour.
+Range: 30'; duration: 1 hour.
 
 ### Cleric Spells Level 5 ###
 
@@ -818,14 +818,14 @@ Once per year, the higher powers tolerate a double-strength _Commune_ spell comp
 
 _Dispel Evil_ works against items, spells, or agents of Evil.
 It also disrupts evil sendings, like dreams or spectral hunting-beasts.
-Range: 30', duration: 10 minutes.
+Range: 30'; duration: 10 minutes.
 
 #### 3. Insect Plague ####
 
 Insects rush to join a buzzing, clicking 8,000 cubic foot biomass (20' x 20' x 20'), and swarm where the cleric directs.
 Any creature of fewer than 2 HD flees the creeping storm in terror (no saving throw).
 This spell only works outdoors.
-Range: 480', duration: 1 day.
+Range: 480'; duration: 1 day.
 
 #### 4. Raise Dead\* ####
 
@@ -994,7 +994,7 @@ Encounter examples:
 - One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 2 pt) = 10 CR
 
 
-CR   | XP    | Treasure Value (GP)
+CR   | XP    | Treasure Value (gp)
 :---:|-------|--------------------
 <1   | 5     | 20
 1    | 15    | 60
@@ -1132,7 +1132,7 @@ CR   | XP    | Treasure Value (GP)
 Although normal animals rarely attack humans without provocation, mutations that cause animal gigantism correspond with behavioral changes, like increased aggression.
 
 HD     | Animals
--------|---------
+:-----:|---------
 <1     | Goat, sheep, cobra, frog
 1      | Human, dog
 2      | Mule, wolf, python
