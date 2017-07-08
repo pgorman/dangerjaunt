@@ -146,7 +146,11 @@ Level | Experience Points | Hit Dice
 15    | 900,000           | +2 hp
 16    | 1,000,000         | +2 hp
 
-From first through ninth level, characters roll an additional hit die, plus any constitution modifier, to add to their total hit points.
+Hit Points (hp) represent a combination of health, stamina, and luck.
+Characters temporarily lose hit points by taking damage in combat, but regain them through healing.
+A character's maximum hit points only increase when the character gains a level.
+
+When advancing from first through ninth level, characters roll an additional hit die, plus any constitution modifier, to add to their total hit points.
 At level ten and above, characters gain only two additional hit points per level.
 All hit dice are d6.
 However, fighters roll two hit dice, and choose the higher roll.
@@ -288,7 +292,7 @@ Tent 20 gp,
 Waterskin 1 gp,
 Wolfsbane 10 gp
 
-## Henchmen, Hirelings, and Experts ##
+## Hireling, Experts, and Henchmen ##
 
 Henchmen and hirelings work for the player characters, although they are non-player characters (NPC's) controlled by the referee.
 
@@ -305,10 +309,6 @@ Henchmen have personal loyalty to a player character.
 They work for a half-share of found treasure.
 Accordingly, they have a character class, and earn experience.
 
-Henchmen tolerate greater risks than hirelings (but not abuse).
-Each henchman has a loyalty score.
-Initially, the loyalty score equals d6+7, plus the player character's charisma modifier.
-
 Player Character Charisma |  Max. Henchmen  | Loyalty Score Modifier
 :------------------------:|:---------------:|:-----------------------:
 3                         |  1              | -3
@@ -319,12 +319,13 @@ Player Character Charisma |  Max. Henchmen  | Loyalty Score Modifier
 16--17                    |  6              | +2
 18                        |  12             | +3
 
+Henchmen tolerate greater risks than hirelings (but not abuse).
+Each henchman has a loyalty score.
+Initially, the loyalty score equals d6+7, plus the player character's charisma modifier.
+
 A henchman's loyalty score modifies morale checks.
 
 The referee might bump up or down a loyalty score from time to time, depending on the player character's long-term treatment of the henchman.
-
-A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
-A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
 
 Henchman Loyalty Score | Morale Check Modifier
 :---------------------:|:---------------------------------------------
@@ -335,6 +336,9 @@ Henchman Loyalty Score | Morale Check Modifier
 13--15                 | +1
 16--17                 | +2
 18+                    | Always stalwart. Morale never waivers.
+
+A failed morale check due to an _extreme_ situation or demand triggers an immediate loyalty score adjustment.
+A malcontent henchman might not return for the next delve, might run away immediately, or might even scheme against the player character --- biding time until the best/worst opportunity for betrayal.
 
 ## Magic ##
 
