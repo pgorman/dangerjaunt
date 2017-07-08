@@ -4,12 +4,12 @@
 
 **Danger Jaunt to Wonder Vault** is a fantasy roleplaying game "retro-clone" --- a set of rules based on early versions of the original pen and paper roleplaying game, as allowed by the Open Gaming License.
 
-What sets **Danger Jaunt to Wonder Vault** apart from other games?
+What sets **Danger Jaunt to Wonder Vault** apart from similar games?
 
-- its short page count
-- its compact page size: available as both US digest (5.5 x 8.5) and A5
-- a concise writing style
-- it provides _enough_ stuff to run a game, but _little enough_ stuff to leave the referee creative space
+- short page count, suitable for saddle-stitched booklets
+- compact page size, available as both US digest (5.5 x 8.5) and A5
+- concise writing style
+- despite brevity, all key game elements included
 - written in Markdown (easy to edit)
 - easily output as PDF or HTML (by Pandoc)
 
@@ -35,9 +35,7 @@ The PDF uses the following LaTeX font packages:
 
 ## License ##
 
-The text of **Danger Jaunt to Wonder Vault** is licensed under the terms of the Open Gaming License;
-see `ogl.md` or `ogl.pdf` for details.
-If you redistribute **Danger Jaunt to Wonder Vault**, please remember to include a copy of the OGL.
+The text of **Danger Jaunt to Wonder Vault** is licensed under the terms of the Open Gaming License.
 
 The auxiliary and build scripts are licensed under the Simplified BSD License:
 

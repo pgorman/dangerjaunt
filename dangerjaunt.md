@@ -52,7 +52,7 @@ A cleric may swap out a prepared spell for the _Turn Undead_ spell at any point 
 
 Clerics use any armor, but only blunt weapons.
 
-At ninth level, clerics establish a religious order of their own, attract devotees, and collect tithes.
+At ninth level, clerics establish a temple or shrine of their own, attract devotees, and collect tithes.
 
 ## Fighters ##
 
@@ -1197,18 +1197,18 @@ Those bitten by a cockatrice turn to stone, unless they make a saving throw.
 
 Dragons use their breath weapons three times per day (save for half damage).
 The breath weapon damage and their hit points per HD depend on their age.
-A 6 HD adult black dragon has 24 HP and breathes acid for 24 HP damage.
+A 6 HD adult black dragon has 24 hp and breathes acid for 24 hp damage.
 
-d8 | Dragon Age | HP per HD | Dmg per HD
-:-:|------------|:---------:|:---------:
-1  | Very young | 1         | 1
-2  | Young      | 2         | 2
-3  | Immature   | 3         | 3
-4  | Adult      | 4         | 4
-5  | Old        | 5         | 5
-6  | Very old   | 6         | 6
-7  | Aged       | 7         | 7
-8  | Ancient    | 8         | 8
+d8 | Dragon Age | Hit Points per HD | Dmg per HD
+:-:|------------|:-----------------:|:---------:
+1  | Very young | 1                 | 1
+2  | Young      | 2                 | 2
+3  | Immature   | 3                 | 3
+4  | Adult      | 4                 | 4
+5  | Old        | 5                 | 5
+6  | Very old   | 6                 | 6
+7  | Aged       | 7                 | 7
+8  | Ancient    | 8                 | 8
 
 ### Dragon, Black ###
 
@@ -1301,7 +1301,7 @@ They never stray more than 60' from a body of water, and their melee attack do o
 
 ### Eye of Terror ###
 
-AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 60' levitating
+AC: 19 (body) 17 (central eye) 16 (eye stalks) HD: 10 (CR 17) Move: 60' levitating Attacks: four eyes
 
 Its tentacles envenom on a hit (save or die).
 Each round, the eye of terror attacks with its central eye and three eye stalks:
@@ -1326,7 +1326,7 @@ Only magical weapons hit gargoyles. They sometimes serve evil masters.
 
 ### Gas Spore ###
 
-AC: 10 HD: 1 HP (CR 1) Move: 30' Attacks: infection
+AC: 10 HD: 1 hp (CR 1) Move: 30' Attacks: infection
 
 It's easily mistaken for an Eye of Terror, but this fungus explodes when hit, damaging any creature within 30'.
 A hit on exposed skin embeds 2d4 seed pods that sprout after 24 hours, painfully killing the victim unless _Cure Disease_ is cast.
@@ -1425,7 +1425,7 @@ Only magic weapons +2 or better hit stone golems.
 
 ### Gray Ooze ###
 
-AC: 11 HD: 3 (CR 5) Move: 10' 
+AC: 11 HD: 3 (CR 5) Move: 10' Attacks: dissolve metal
 
 It's immune to spells, blunt weapons, and any heat/cold damage.
 Any metal object it contacts is dissolved (save vs. acid).
@@ -1452,7 +1452,7 @@ Saves apply.
 
 AC: 15 HD: 4--7 (CR 6--9) Move: 120' Attacks: bite d6, fire breath
 
-They breathe fire for 2 HP damage per HD (10', save for half damage).
+They breathe fire for 2 hp damage per HD (10', save for half damage).
 Their keen senses detect invisible opponents on 1--3 in 6, which is why fire giants keep hell hounds as guard dogs.
 
 ### Hippogriff ###
@@ -1491,7 +1491,7 @@ AC: 12 HD: 1 (CR 1) Move: 120' Attacks: weapon d8
 
 ### Hydra ###
 
-AC: 14 HD: 5--12 (equals of heads) (CR 8--15) Move: 90' Attacks: bite d6 per head
+AC: 14 HD: 5--12 (equals heads) (CR 8--15) Move: 90' Attacks: bite d6 per head
 
 Each head has its own hit points, while the body has hit points with the total of all heads.
 Some breathe fire or regenerate heads.
@@ -1508,7 +1508,7 @@ Above ground, they fight at -1 to hit.
 
 ### Lamia ###
 
-AC: 16 HD: 9 [CR 13] Move: 240' Attacks: dagger d4 & wisdom drain
+AC: 16 HD: 9 (CR 13) Move: 240' Attacks: dagger d4 & wisdom drain
 
 Lamias' upper bodies resemble women, their lower bodies animals.
 Their touch drains one Wisdom point;
@@ -1538,7 +1538,7 @@ Their snake hair bites with venom (save or die).
 
 ### Mimic ###
 
-AC 12 HD: 7--10 (CR 7--10) Move: 30' Attacks: pseudopod 3d4
+AC: 12 HD: 7--10 (CR 7--10) Move: 30' Attacks: pseudopod 3d4
 
 Mimics take the shape of any wood, stone, or metal object, such as a treasure chest.
 
@@ -1578,7 +1578,7 @@ Reports of stag-headed and cock-headed orcs remain in question, since orcs love 
 
 ### Owlbear ###
 
-AC 14 HD: 5 (CR 6) Move: 120' Attacks: claws d8 & d8, bite d8
+AC: 14 HD: 5 (CR 6) Move: 120' Attacks: claws d8 & d8, bite d8
 
 ### Pegasus ###
 
@@ -1601,14 +1601,14 @@ One in twenty Sumatran rat bites cause disease (save vs. poison).
 
 ### Rust Monster ###
 
-AC: 17 HD: 5 (CR 7) Move 120' Attacks: rust
+AC: 17 HD: 5 (CR 7) Move: 120' Attacks: rust
 
 Hits from a rust monster instantly rust armor; hits against it rust weapons.
 Large amounts of metal attract rust monsters.
 
 ### Shrieker ###
 
-AC: 12 HD:3 (CR 3) Move: 10' Attacks: alarm
+AC: 12 HD: 3 (CR 3) Move: 10' Attacks: alarm
 
 These fungi trumpet a shrill alarm when they detect movement within 10' or light within 30'.
 Each round it sounds, their cry attracts a wandering monster on 1--3 in 6.
@@ -1642,9 +1642,9 @@ Once attached, the stirge slurps enough blood on each subsequent round to automa
 
 ### Tick, Giant ###
 
-AC: 15 HD: 3 (CR 4) Move: 30' Attacks: suck 4 HP
+AC: 15 HD: 3 (CR 4) Move: 30' Attacks: suck 4 hp
 
-Giant ticks suck blood worth 4 HP damage per round after a successful hit.
+Giant ticks suck blood worth 4 hp damage per round after a successful hit.
 Fire forces them off a victim.
 Disease caused by tick bites kill in 2d4 days, unless _Cure Disease_ is cast.
 
@@ -1660,7 +1660,7 @@ They surprise on 3 in 6.
 
 AC: 15 HD: 6+3 (CR 8) Move: 120' Attacks: claws d6 & d6, bite d10
 
-Trolls regenerate 3 HP per round (even regrowing body parts) unless burned by fire or acid.
+Trolls regenerate 3 hp per round (even regrowing body parts) unless burned by fire or acid.
 Severed troll parts try to fight on their own.
 
 ### Vampire ###
@@ -1671,7 +1671,7 @@ The vampire's bite drains two class levels.
 Anyone killed by a vampire become one.
 Anyone meeting their gaze must save (-2) or be charmed.
 They summon a horde of bats or 3d6 wolves at will.
-Vampires regenerate 3 HP per round.
+Vampires regenerate 3 hp per round.
 Only magic weapons hit them.
 When killed by weapons or magic, vampires return to their coffins in gaseous form.
 Immersion in running water, exposure to sunlight, or a stake through the heart kills them.
@@ -1699,7 +1699,7 @@ Wraiths drain one class level per hit.
 
 ### Yellow Mold ###
 
-AC: N/A HD: N/A (CR 3) Move: 0' Attacks: acid d6, spores
+AC: n/a HD: n/a (CR 3) Move: 0' Attacks: acid d6, spores
 
 If cut or punctured, yellow mold releases a 10' diameter cloud of poisonous spores (save or die).
 Touching yellow mold caused d6 acid damage.
@@ -1820,7 +1820,7 @@ A ring may be worn by any character class.
 
 1. Ring of Invisibility
 2. Ring of Protection (+1 AC)
-3. Ring of Regeneration (regain 1 HP/turn)
+3. Ring of Regeneration (regain 1 hp/turn)
 4. Ring of Three Wishes
 5. Ring of Spell Storing (fillable with up to six spells)
 6. Ring of Weakness (strength reduced to 3; attack and damage rolls -3; requires _Remove Curse_ to take off)
@@ -1925,7 +1925,7 @@ What the trap does and its trigger beg investigation, but telegraph its presence
 Foreshadow a room that fills with poison gas, for example, with an acrid smell and faint hissing noise;
 players who fail to cautiously pursue those hints (or retreat from the room) can't complain about a save-or-die roll after they turn the dogging wheel on the opposite door, to find both doors sealed and green steam gushing from nozzles in the ceiling.
 
-Make gotcha traps --- poison needles in door knobs or faux floors that drop characters into pits without warning --- inflict only minor damage or temporary penalties, like 1--3 HP damage or double-vision for a day (-1 to hit).
+Make gotcha traps --- poison needles in door knobs or faux floors that drop characters into pits without warning --- inflict only minor damage or temporary penalties, like 1--3 hp damage or double-vision for a day (-1 to hit).
 
 Tricks differ from traps in that they befuddle players rather than harming characters.
 Tricks might be as simple as a false door, or as sophisticated as an imperceptibly revolving room that opens onto different hallways depending on its orientation.
@@ -2001,7 +2001,6 @@ Other elements are designated as Open Game Content.
 
 ## Open Game License ##
 
-\footnotesize
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
 1. Definitions: (a) "Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b) "Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d) "Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement.
