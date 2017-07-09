@@ -1,6 +1,9 @@
 #!/usr/bin/env perl
 
 while (<>) {
+	# Page Breaks:
+	s/\\subsubsection\{Magic-User Spells Level 3\}/\\newpage\n\\subsubsection\{Magic-User Spells Level 3\}/g;
+	# Other tweaks:
 	s/(\d)'\`\((\d)/\1\$\^\{\\prime\\prime\}\$\\, \(\2/g; # Fix Pandoc interpreting "Move: 6'' (18'' flying)" as verbatim
 	s/(\d) x (\d) x (\d)/\1 \$\\times\$ \2 \$\\times\$ \3/g; # Times/dimension symbol (cubic)
 	s/(\d) x (\d)/\1 \$\\times\$ \2/g; # Times/dimension symbol (square)
