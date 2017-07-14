@@ -406,7 +406,7 @@ After a failure, the magic-user may increase funding to improve chances of succe
 ### Scribing Scrolls ###
 
 The few days between delves into the dungeon allow a magic-user enough leisure to scribe one scroll.
-The cost of fast inks, scare quills, and blotting sand from distant shores depend upon the spell's level.
+The cost of fast inks, spare quills, and blotting sand from distant shores depend upon the spell's level.
 A scroll with one first-level spell costs 100 gp.
 The cost doubles for each spell level, so scribing a sixth-level spell costs 3,200 gp.
 
