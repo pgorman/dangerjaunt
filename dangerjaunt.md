@@ -8,7 +8,7 @@ Playing through an adventure might occupy one game session or many.
 Rousting a vampire from her claustrophobic tomb could fill an evening.
 Discovering the secrets of a ruined underwater city offers a dozen play sessions spread over weeks.
 
-As the party of players characters campaign from one adventure to another, exploring the referee's imagined world, they evolve into unique and memorable heroes.
+As the party of player characters campaign from one adventure to another, exploring the referee's imagined world, they evolve into unique and memorable heroes.
 
 # Characters #
 
@@ -1806,7 +1806,7 @@ Typical staves include:
 1. Staff of Command (clerics) casts _Speak with Animal_, _Speak with Plants_, or _Hold Person_.
 2. Staff of Healing (clerics) casts _Cure Light Wounds_, _Cure Disease_ (3 charges), or _Raise Dead_ (10 charges).
 3. Serpent Staff (clerics) strikes in melee with +1 to hit and damage without expending a charge.
-Upon command, the staff transforms into a large (3 HD) snake capable immobilizing a man-size opponent for 1--4 turns.
+Upon command, the staff transforms into a large (3 HD) snake capable of immobilizing a man-size opponent for 1--4 turns.
 4. Staff of Withering (clerics) ages ten years with each melee hit.
 5. Staff of Cancellation (magic-users) permanently disenchants a magic item.
 Single use.
