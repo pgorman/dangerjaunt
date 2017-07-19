@@ -1931,7 +1931,7 @@ Tricks differ from traps in that they befuddle players rather than harming chara
 Tricks might be as simple as a false door, or as sophisticated as an imperceptibly revolving room that opens onto different hallways depending on its orientation.
 Tricks include puzzles, riddles, and nonsense, like a sliding tile game built into a dungeon floor that the characters must arrange to show a picture of an open door, or a verse inscribed on a wall that the players complete by following the rhyme scheme.
 
-### Wandering Monster List Making List ###
+### Wandering Monster List-Making List ###
 
 1. Traveling: 1. Elsewhere on current level 2. Level above 3. Level below 4. Surface 5. Very secret passage 6. By magic
 2. Escorting: 1. Slaves 2. Enemy captives 3. Friendly VIP 4. Criminals 5. Livestock 6. Diplomatic mission
