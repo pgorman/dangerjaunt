@@ -997,7 +997,6 @@ Encounter examples:
 - Adult Red Dragon (9 HD: 9 pt, fly and strong AC: 2 pt, breath: 2 pt, claw/claw/bite: 1 pt) = 14 CR
 - One Ogre and four Orcs (8 HD: 8 pt, four extra monsters: 2 pt) = 10 CR
 
-
 CR   | XP    | Treasure Value (gp)
 :---:|-------|--------------------
 <1   | 5     | 20
@@ -1985,7 +1984,7 @@ Player characters venture from the safety of town week after week to plumb the d
 
 ## House Rules ##
 
-Rich areas for house rules include death and dying (negative hit points? saving throw? dismemberment?), construction of castles for high-level fighting men, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, the creation and control of undead, languages, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, jousting rules, specialized character sub-classes, reincarnation and resurrection, bandaging wounds, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
+Rich areas for house rules include death and dying (negative hit points? saving throw? dismemberment?), construction of castles for high-level fighters, carousing mishaps, creating golems, class-specific experience bonus activities, critical hits and called shots, animal companions, the creation and control of undead, languages, naval combat and navigation, summoning and binding supernatural entities, reputation or social standing, jousting rules, specialized character sub-classes, reincarnation and resurrection, bandaging wounds, family and clans, petty gods, the benefits of shields, (in)sanity, erection of wizard towers, mass warfare, dangerously willful and domineering intelligent magic swords, animal training and husbandry, real estate and investments, guilds, dwarf metalworking, magical familiars, adjudication of wishes, sieges, what happens when mixing different potions, founding of churches, taxation and monetary policy, psionics and psychic phenomena, interplanetary or interplanar travel, natural and magical diseases, monster breeding or genetic mutation/engineering, underwater adventures, poisons, trap building, supernatural patrons, construction or control of robots, unarmed martial arts, deification, time travel, and the creation of major magic items.
 
 # Thanks & License #
 
