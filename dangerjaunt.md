@@ -182,7 +182,7 @@ This makes armor the primary factor for encumbrance and movement.
 However, when a character hauls something bulky or heavy, movement drops to the next lower movement tier.
 A fighter in plate dragging a statue, for example, falls to 30'.
 
-Furthermore, every 250 coins of treasure carried drops the character's movement by one tier.
+Furthermore, every 400 coins of treasure carried drops the character's movement by one tier.
 
 The referee checks for wandering monsters every real hour of play time.
 The odds depend on the movement rate of the party.
