@@ -76,7 +76,7 @@ Once cast, a spell escapes the magic-user's mind completely, unusable a second t
 Rogues include altruistic Robin Hoods, dashing cat-burglar jewel thieves, and merciless petty cutthroats.
 
 Rogues know five broad skills, with each skill rated between one and six.
-New rogue characters start with a 1 in all skills, plus three points the player assigns as desired.
+New rogue characters start with a 1 in all skills, plus four points the player assigns as desired.
 Each time the rogue gains a level, the player assigns one additional point to a skill.
 
 A d6 roll equal to or lower than the skill score indicates success.
